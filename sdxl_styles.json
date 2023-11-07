@@ -1,0 +1,2977 @@
+[
+  {
+    "name": "base",
+    "prompt": "{prompt}",
+    "negative_prompt": ""
+  }, 
+   {
+    "name": "Watercolor",
+    "prompt": "watercolor cartoon illustration {prompt} . soft colors, gentle strokes, artistic, dreamy, whimsical",
+    "negative_prompt": "oil painting, digital art, pixel art, vector, acrylic, messy, unprofessional"
+  },
+  {
+    "name": "Pop Art",
+    "prompt": "pop art cartoon illustration {prompt} . bold colors, comic book style, iconic, retro, vibrant",
+    "negative_prompt": "minimalist, impressionism, surrealism, abstract, monochromatic, blurry"
+  },
+  {
+    "name": "Manga",
+    "prompt": "manga-style cartoon illustration {prompt} . intricate linework, expressive characters, black and white, Japanese influence",
+    "negative_prompt": "watercolor, oil painting, realism, dull, colorless, unexpressive"
+  },
+  {
+    "name": "Pixel Art",
+    "prompt": "pixel art cartoon illustration {prompt} . retro, blocky, 8-bit, pixelated, nostalgic",
+    "negative_prompt": "watercolor, oil painting, realism, blurry, low-resolution, messy"
+  },
+  {
+    "name": "Abstract",
+    "prompt": "abstract cartoon illustration {prompt} . non-representational, freeform, unique, experimental",
+    "negative_prompt": "realism, detailed, traditional, figurative, conventional, predictable"
+  },
+  {
+    "name": "Gothic",
+    "prompt": "gothic cartoon illustration {prompt} . dark, mysterious, intricate details, Victorian, macabre",
+    "negative_prompt": "pastel, cheerful, minimalist, simplistic, cartoonish"
+  },
+  {
+    "name": "Surreal",
+    "prompt": "surreal cartoon illustration {prompt} . dreamlike, bizarre, unexpected, thought-provoking",
+    "negative_prompt": "realistic, mundane, logical, ordinary, uncreative"
+  },
+  {
+    "name": "Caricature",
+    "prompt": "caricature cartoon illustration {prompt} . exaggerated features, humorous, satirical, recognizable",
+    "negative_prompt": "realism, unrecognizable, serious, bland, uninspired"
+  },
+  {
+    "name": "Minimalist",
+    "prompt": "minimalist cartoon illustration {prompt} . simplicity, clean lines, minimal elements, elegant",
+    "negative_prompt": "complex, cluttered, chaotic, messy, overwhelming"
+  },
+  {
+    "name": "Chibi",
+    "prompt": "chibi-style cartoon illustration {prompt} . cute, oversized heads, small bodies, kawaii, adorable",
+    "negative_prompt": "realistic, detailed, unattractive, dull, serious"
+  },
+  {
+    "name": "Steampunk",
+    "prompt": "steampunk cartoon illustration {prompt} . Victorian era, gears, cogs, brass, retro-futuristic",
+    "negative_prompt": "futuristic, modern, sleek, plain, unadorned"
+  },
+  {
+    "name": "Fantasy",
+    "prompt": "fantasy-themed cartoon illustration {prompt} . mythical creatures, magic, otherworldly, epic",
+    "negative_prompt": "realistic, everyday, mundane, ordinary, uninspired"
+  },
+  {
+    "name": "Graffiti",
+    "prompt": "graffiti-style cartoon illustration {prompt} . urban, rebellious, colorful, street art, tags",
+    "negative_prompt": "tidy, clean, lawful, uncreative, sterile"
+  },
+  {
+    "name": "Cubism",
+    "prompt": "cubism-inspired cartoon illustration {prompt} . geometric shapes, abstract, fragmented, Picasso-like",
+    "negative_prompt": "realistic, cohesive, conventional, predictable, uninspired"
+  },
+  {
+    "name": "Impressionism",
+    "prompt": "impressionism-inspired cartoon illustration {prompt} . loose brushstrokes, light effects, atmosphere, outdoor scenes",
+    "negative_prompt": "photorealistic, detailed, stiff, uninspired, unexpressive"
+  },
+  {
+    "name": "Neon",
+    "prompt": "neon cartoon illustration {prompt} . vibrant colors, futuristic, glowing, electric, cyberpunk",
+    "negative_prompt": "dull, monochromatic, retro, low-tech, uninspired"
+  },
+  {
+    "name": "Tribal",
+    "prompt": "tribal-inspired cartoon illustration {prompt} . primitive, cultural, indigenous, tribal art, patterns",
+    "negative_prompt": "modern, contemporary, generic, uninspired, inauthentic"
+  },
+  {
+    "name": "Simpsons",
+    "prompt": "Simpsons-style cartoon illustration {prompt} . yellow characters, comical, animated sitcom, iconic",
+    "negative_prompt": "realistic, serious, unanimated, dull, uninspired"
+  },
+  {
+    "name": "Graffiti",
+    "prompt": "graffiti-style cartoon illustration {prompt} . urban, rebellious, colorful, street art, tags",
+    "negative_prompt": "tidy, clean, lawful, uncreative, sterile"
+  },
+  {
+    "name": "Cubism",
+    "prompt": "cubism-inspired cartoon illustration {prompt} . geometric shapes, abstract, fragmented, Picasso-like",
+    "negative_prompt": "realistic, cohesive, conventional, predictable, uninspired"
+  },
+  {
+    "name": "Impressionism",
+    "prompt": "impressionism-inspired cartoon illustration {prompt} . loose brushstrokes, light effects, atmosphere, outdoor scenes",
+    "negative_prompt": "photorealistic, detailed, stiff, uninspired, unexpressive"
+  },
+  {
+    "name": "Neon",
+    "prompt": "neon cartoon illustration {prompt} . vibrant colors, futuristic, glowing, electric, cyberpunk",
+    "negative_prompt": "dull, monochromatic, retro, low-tech, uninspired"
+  },
+  {
+    "name": "Tribal",
+    "prompt": "tribal-inspired cartoon illustration {prompt} . primitive, cultural, indigenous, tribal art, patterns",
+    "negative_prompt": "modern, contemporary, generic, uninspired, inauthentic"
+  },
+  {
+    "name": "Simpsons",
+    "prompt": "Simpsons-style cartoon illustration {prompt} . yellow characters, comical, animated sitcom, iconic",
+    "negative_prompt": "realistic, serious, unanimated, dull, uninspired"
+  },
+  {
+    "name": "Calligraphy",
+    "prompt": "calligraphy-style cartoon illustration {prompt} . elegant lettering, artistic, inked, traditional",
+    "negative_prompt": "sloppy, messy, illegible, plain, uninspired"
+  },
+  {
+    "name": "Epic Dark Fantasy",
+    "prompt": "epic dark fantasy cartoon illustration {prompt} . medieval, dragons, castles, dark magic, epic battles",
+    "negative_prompt": "light-hearted, cheerful, fairy tale, bright, whimsical"
+  },
+  {
+    "name": "Horror",
+    "prompt": "horror-themed cartoon illustration {prompt} . monsters, gore, eerie, suspenseful, haunted",
+    "negative_prompt": "comedy, cheerful, funny, lighthearted, child-friendly"
+  },
+  {
+    "name": "Lovecraftian",
+    "prompt": "Lovecraftian horror cartoon illustration {prompt} . eldritch horrors, cosmic dread, tentacles, ancient, otherworldly",
+    "negative_prompt": "comedy, cheerful, light-hearted, whimsical, cute"
+  },
+  {
+    "name": "Cyberpunk",
+    "prompt": "cyberpunk cartoon illustration {prompt} . dystopian, futuristic, neon, cybernetics, urban decay",
+    "negative_prompt": "utopian, bright, clean, optimistic, traditional"
+  },
+  {
+    "name": "Dark Surrealism",
+    "prompt": "dark surrealism cartoon illustration {prompt} . dreamlike, twisted, disturbing, subconscious, bizarre",
+    "negative_prompt": "realistic, mundane, conventional, predictable, dull"
+  },
+  {
+    "name": "Dark Steampunk",
+    "prompt": "dark steampunk cartoon illustration {prompt} . gothic, industrial, mysterious, eerie, clockwork",
+    "negative_prompt": "cheerful, optimistic, bright, playful, minimalistic"
+  },
+  {
+    "name": "Zombie Apocalypse",
+    "prompt": "zombie apocalypse cartoon illustration {prompt} . post-apocalyptic, undead, survival, horror",
+    "negative_prompt": "cheerful, peaceful, idyllic, sunny, uneventful"
+  },
+  {
+    "name": "Dark Sci-Fi",
+    "prompt": "dark sci-fi cartoon illustration {prompt} . alien worlds, dystopia, space battles, cybernetics, dark futures",
+    "negative_prompt": "optimistic, utopian, bright, idealistic, peaceful"
+  },
+  {
+    "name": "Witchcraft",
+    "prompt": "witchcraft-themed cartoon illustration {prompt} . witches, spells, dark rituals, cauldrons, supernatural",
+    "negative_prompt": "cheerful, innocent, whimsical, fairy tales, magical"
+  },
+  {
+    "name": "Grimdark",
+    "prompt": "grimdark cartoon illustration {prompt} . morally ambiguous, bleak, antiheroes, violence, dark themes",
+    "negative_prompt": "moralistic, cheerful, heroic, idealistic, light-hearted"
+  },
+  {
+    "name": "Dark Folklore",
+    "prompt": "dark folklore cartoon illustration {prompt} . mythical creatures, cursed forests, folklore, eerie tales",
+    "negative_prompt": "cheerful, folklore, bright, heroic, idealistic"
+  },
+  {
+    "name": "Dark Gothic Architecture",
+    "prompt": "dark gothic architecture cartoon illustration {prompt} . cathedrals, gargoyles, crypts, haunted, macabre",
+    "negative_prompt": "cheerful, bright, modern architecture, minimalist, plain"
+  },
+  {
+    "name": "Dark Noir",
+    "prompt": "dark noir cartoon illustration {prompt} . detectives, crime, shadows, femme fatales, moody",
+    "negative_prompt": "cheerful, light-hearted, crime-free, innocent, humorous"
+  },
+  {
+    "name": "Dark Fairy Tale",
+    "prompt": "dark fairy tale cartoon illustration {prompt} . twisted, sinister, reimagined classics, grim endings",
+    "negative_prompt": "cheerful, traditional, innocent, happy endings, whimsical"
+  },
+  {
+    "name": "Dark Cyber Horror",
+    "prompt": "dark cyber horror cartoon illustration {prompt} . techno-horror, glitches, cyber-entities, dark virtual worlds",
+    "negative_prompt": "optimistic, tech-utopia, bright, bug-free, safe"
+  },
+  {
+    "name": "Dark Gothic Romance",
+    "prompt": "dark gothic romance cartoon illustration {prompt} . doomed love, mysterious lovers, dark passions",
+    "negative_prompt": "cheerful, light-hearted romance, happy couples, bright love stories"
+  },
+  {
+    "name": "Dark Vampire Chronicles",
+    "prompt": "dark vampire chronicles cartoon illustration {prompt} . immortal bloodsuckers, cursed, eternal night",
+    "negative_prompt": "cheerful, daylight, vampire hunters, garlic, crosses"
+  },
+  {
+    "name": "Dark Medieval Battle",
+    "prompt": "dark medieval battle cartoon illustration {prompt} . epic clashes, warlords, dark ages, bloodshed",
+    "negative_prompt": "cheerful, peaceful, truce, diplomacy, no battles"
+  },
+  {
+    "name": "Dark Ghostly Haunting",
+    "prompt": "dark ghostly haunting cartoon illustration {prompt} . spectral apparitions, haunted houses, eerie manifestations",
+    "negative_prompt": "cheerful, non-haunted, peaceful, ghost-free, cozy"
+  },
+  {
+    "name": "Dark Cosmic Horror",
+    "prompt": "dark cosmic horror cartoon illustration {prompt} . ancient cosmic entities, madness, insignificance",
+    "negative_prompt": "cheerful, sane, significant, bright, meaningful"
+  },
+  {
+    "name": "Dark Post-Apocalypse",
+    "prompt": "dark post-apocalypse cartoon illustration {prompt} . desolation, ruins, survivors, dark futures",
+    "negative_prompt": "cheerful, pre-apocalypse, thriving, bright future, utopia"
+  },
+  {
+    "name": "Dark Mythology",
+    "prompt": "dark mythology cartoon illustration {prompt} . gods, monsters, tragic myths, ancient worlds",
+    "negative_prompt": "cheerful, mythology, gods' blessings, peaceful, prosperous"
+  },
+  {
+    "name": "Dark Underworld",
+    "prompt": "dark underworld cartoon illustration {prompt} . underworld realms, death, shadows, mythical realms",
+    "negative_prompt": "cheerful, lively, realms of the living, well-lit, everyday life"
+  },
+  {
+    "name": "Dark Dystopian City",
+    "prompt": "dark dystopian city cartoon illustration {prompt} . megacities, surveillance, oppression, cyberpunk",
+    "negative_prompt": "cheerful, utopian city, equality, peace, prosperity"
+  },
+  {
+    "name": "Dark Lovecraftian Ocean",
+    "prompt": "dark Lovecraftian ocean cartoon illustration {prompt} . deep sea horrors, ancient sea gods, eldritch terrors",
+    "negative_prompt": "cheerful, sunny beaches, peaceful oceans, bright marine life"
+  },
+  {
+    "name": "Dark Witch Coven",
+    "prompt": "dark witch coven cartoon illustration {prompt} . dark rituals, witches' gatherings, cursed covens",
+    "negative_prompt": "cheerful, innocent gatherings, sunny spells, non-magical meetings"
+  },
+  {
+    "name": "Dark Psychological Thriller",
+    "prompt": "dark psychological thriller cartoon illustration {prompt} . mind games, suspense, psychological horror, dark secrets",
+    "negative_prompt": "cheerful, peaceful minds, transparent emotions, happy endings"
+  },
+  {
+    "name": "Dark Medieval Torture",
+    "prompt": "dark medieval torture cartoon illustration {prompt} . medieval punishments, dungeons, inquisition, cruelty",
+    "negative_prompt": "cheerful, justice, fairness, modern prisons, ethical society"
+  },
+  {
+    "name": "Dark Gothic",
+    "prompt": "dark gothic cartoon illustration {prompt} . intricate architecture, ominous skies, gothic horror, dark tones",
+    "negative_prompt": "bright, cheerful, pastel colors, sunny, whimsical"
+  },
+  {
+    "name": "Shadowed Noir",
+    "prompt": "shadowed noir cartoon illustration {prompt} . moody lighting, mysterious shadows, detective stories, dark cityscapes",
+    "negative_prompt": "vibrant, colorful, well-lit, bright, comical"
+  },
+  {
+    "name": "Cursed Forest",
+    "prompt": "cursed forest cartoon illustration {prompt} . haunted woods, eerie flora, dark enchantments, supernatural",
+    "negative_prompt": "sunny forest, cheerful flora, peaceful, mundane, non-magical"
+  },
+  {
+    "name": "Dark Fairytale",
+    "prompt": "dark fairytale cartoon illustration {prompt} . twisted tales, malevolent creatures, eerie magic, dark whimsy",
+    "negative_prompt": "cheerful fairytale, happy endings, magical creatures, bright enchantments"
+  },
+  {
+    "name": "Mysterious Catacombs",
+    "prompt": "mysterious catacombs cartoon illustration {prompt} . underground labyrinths, hidden secrets, torch-lit darkness",
+    "negative_prompt": "well-lit catacombs, empty tunnels, safe passages, cheerful exploration"
+  },
+  {
+    "name": "Haunted Manor",
+    "prompt": "haunted manor cartoon illustration {prompt} . ghostly apparitions, dark corridors, sinister secrets, eerie atmosphere",
+    "negative_prompt": "well-kept mansion, cheerful atmosphere, happy residents, bright hallways"
+  },
+  {
+    "name": "Cryptic Symbols",
+    "prompt": "cryptic symbols cartoon illustration {prompt} . ancient runes, mysterious hieroglyphs, dark symbolism, enigmatic inscriptions",
+    "negative_prompt": "simple symbols, clear writing, plain messages, obvious meanings"
+  },
+  {
+    "name": "Dark Abandoned Factory",
+    "prompt": "dark abandoned factory cartoon illustration {prompt} . rusted machinery, desolation, industrial decay, eerie silence",
+    "negative_prompt": "active factory, bustling workers, productive machinery, clean environment"
+  },
+  {
+    "name": "Vampiric Elegance",
+    "prompt": "vampiric elegance cartoon illustration {prompt} . aristocratic vampires, dark opulence, blood-red accents, brooding allure",
+    "negative_prompt": "bright elegance, daylight affairs, joyful celebrations, colorful parties"
+  },
+  {
+    "name": "Eldritch Dreams",
+    "prompt": "eldritch dreams cartoon illustration {prompt} . cosmic horrors, surreal landscapes, otherworldly nightmares, dark reveries",
+    "negative_prompt": "sweet dreams, bright fantasies, pleasant sleep, peaceful slumber"
+  },
+  {
+    "name": "Sinister Carnival",
+    "prompt": "sinister carnival cartoon illustration {prompt} . malevolent clowns, dark rides, haunted circus, eerie fun",
+    "negative_prompt": "cheerful carnival, joyful clowns, thrilling rides, lighthearted entertainment"
+  },
+  {
+    "name": "Dark Victorian Streets",
+    "prompt": "dark Victorian streets cartoon illustration {prompt} . gaslit alleys, cobblestone paths, eerie fog, historic London",
+    "negative_prompt": "bright streets, clear paths, modern cities, well-lit boulevards"
+  },
+  {
+    "name": "Gothic Ballroom",
+    "prompt": "gothic ballroom cartoon illustration {prompt} . grand chandeliers, masked dancers, dark elegance, eerie waltz",
+    "negative_prompt": "bright ballroom, joyful dancers, elegant soirée, lively music"
+  },
+  {
+    "name": "Cursed Book of Spells",
+    "prompt": "cursed book of spells cartoon illustration {prompt} . ancient grimoires, dark incantations, forbidden knowledge, eerie pages",
+    "negative_prompt": "ordinary book, happy stories, plain pages, accessible wisdom"
+  },
+  {
+    "name": "Dark Steampunk City",
+    "prompt": "dark steampunk city cartoon illustration {prompt} . industrial gears, smog-filled skies, retro-futuristic, cyberpunk aesthetics",
+    "negative_prompt": "clean city, fresh air, utopian metropolis, eco-friendly technology"
+  },
+  {
+    "name": "Wicked Witches",
+    "prompt": "wicked witches cartoon illustration {prompt} . cackling hags, bubbling cauldrons, dark magic, eerie rituals",
+    "negative_prompt": "kind witches, benevolent spells, bright magic, joyful incantations"
+  },
+  {
+    "name": "Gothic Clock Tower",
+    "prompt": "gothic clock tower cartoon illustration {prompt} . towering spires, ominous time, dark mechanics, eerie ticking",
+    "negative_prompt": "well-kept tower, bright hours, joyful chimes, cheerful timekeeping"
+  },
+  {
+    "name": "Dark Labyrinth",
+    "prompt": "dark labyrinth cartoon illustration {prompt} . intricate mazes, hidden passages, eerie puzzles, labyrinthine complexity",
+    "negative_prompt": "simple maze, clear path, easy puzzles, straightforward journey"
+  },
+  {
+    "name": "Eerie Cemeteries",
+    "prompt": "eerie cemeteries cartoon illustration {prompt} . ancient tombstones, ghostly apparitions, dark resting places, solemn atmosphere",
+    "negative_prompt": "cheerful cemeteries, lively spirits, bright afterlife, joyful remembrance"
+  },
+  {
+    "name": "Dark Temple Ruins",
+    "prompt": "dark temple ruins cartoon illustration {prompt} . ancient worship, eerie decay, hidden mysteries, cursed ruins",
+    "negative_prompt": "well-preserved temple, vibrant worship, bright spirituality, unspoiled ruins"
+  },
+  {
+    "name": "Shadowed Swamp",
+    "prompt": "shadowed swamp cartoon illustration {prompt} . murky waters, mysterious creatures, dark marshes, eerie ambiance",
+    "negative_prompt": "clear swamp, friendly creatures, bright waters, tranquil surroundings"
+  },
+  {
+    "name": "Gothic Courtyard",
+    "prompt": "gothic courtyard cartoon illustration {prompt} . ornate architecture, looming statues, dark elegance, eerie stillness",
+    "negative_prompt": "bright courtyard, lively statues, elegant festivities, cheerful ambiance"
+  },
+  {
+    "name": "Cursed Dollhouse",
+    "prompt": "cursed dollhouse cartoon illustration {prompt} . haunted miniatures, dark dollhouse, eerie miniaturization, malevolent playthings",
+    "negative_prompt": "happy dollhouse, cheerful miniatures, bright miniature world, innocent toys"
+  },
+  {
+    "name": "Dark Viking Saga",
+    "prompt": "dark Viking saga cartoon illustration {prompt} . Norse mythology, epic battles, dark legends, eerie longships",
+    "negative_prompt": "bright saga, heroic battles, cheerful legends, peaceful longships"
+  },
+  {
+    "name": "Gothic Rose Garden",
+    "prompt": "gothic rose garden cartoon illustration {prompt} . black roses, thorny vines, dark beauty, eerie blooms",
+    "negative_prompt": "bright garden, colorful roses, cheerful beauty, joyful blooms"
+  },
+  {
+    "name": "Haunted Asylum",
+    "prompt": "haunted asylum cartoon illustration {prompt} . dark hallways, ghostly patients, sinister treatments, eerie history",
+    "negative_prompt": "cheerful asylum, happy patients, bright treatments, safe environment"
+  },
+  {
+    "name": "Dark Viking Longship",
+    "prompt": "dark Viking longship cartoon illustration {prompt} . dragon prow, stormy seas, dark adventures, eerie voyages",
+    "negative_prompt": "bright longship, calm seas, joyful adventures, safe journeys"
+  },
+  {
+    "name": "Cursed Pirates",
+    "prompt": "cursed pirates cartoon illustration {prompt} . ghostly crews, cursed treasure, dark seas, eerie piracy",
+    "negative_prompt": "cheerful pirates, friendly crews, bright treasures, safe voyages"
+  },
+  {
+    "name": "Dark Masquerade",
+    "prompt": "dark masquerade cartoon illustration {prompt} . masked revelers, mysterious dances, dark secrets, eerie elegance",
+    "negative_prompt": "cheerful masquerade, unmasked dancers, bright celebrations, joyful gatherings"
+  },
+  {
+    "name": "Gothic Cathedral",
+    "prompt": "gothic cathedral cartoon illustration {prompt} . towering spires, dark grandeur, religious awe, eerie beauty",
+    "negative_prompt": "bright cathedral, cheerful grandeur, joyful worship, peaceful beauty"
+  },
+  {
+    "name": "Minimalist Logo",
+    "prompt": "minimalist vector logo design {prompt} . clean lines, simplicity, modern, elegant, monochrome",
+    "negative_prompt": "complex, cluttered, intricate, colorful, ornate"
+  },
+  {
+    "name": "Geometric Logo",
+    "prompt": "geometric vector logo design {prompt} . sharp angles, simple shapes, symmetry, modern, abstract",
+    "negative_prompt": "organic, irregular, rounded, chaotic, asymmetrical"
+  },
+  {
+    "name": "Retro Logo",
+    "prompt": "retro vector logo design {prompt} . vintage, old-school, nostalgic, classic, aged",
+    "negative_prompt": "modern, contemporary, futuristic, fresh, trendy"
+  },
+  {
+    "name": "Eco-Friendly Logo",
+    "prompt": "eco-friendly vector logo design {prompt} . nature-inspired, green, sustainability, eco-conscious, organic",
+    "negative_prompt": "industrial, polluting, wasteful, unsustainable, harmful"
+  },
+  {
+    "name": "Luxury Logo",
+    "prompt": "luxury vector logo design {prompt} . opulent, high-end, upscale, premium, sophisticated",
+    "negative_prompt": "budget, inexpensive, low-end, plain, common"
+  },
+  {
+    "name": "Technology Logo",
+    "prompt": "technology vector logo design {prompt} . futuristic, digital, high-tech, innovation, sleek",
+    "negative_prompt": "outdated, analog, low-tech, archaic, obsolete"
+  },
+  {
+    "name": "Mascot Logo",
+    "prompt": "mascot vector logo design {prompt} . friendly character, personable, brand representative, memorable",
+    "negative_prompt": "abstract, non-human, impersonal, forgettable, unrelatable"
+  },
+  {
+    "name": "Monogram Logo",
+    "prompt": "monogram vector logo design {prompt} . initials, letters, typography, elegant, custom",
+    "negative_prompt": "full name, plain text, generic, common, unbranded"
+  },
+  {
+    "name": "Abstract Logo",
+    "prompt": "abstract vector logo design {prompt} . non-representational, artistic, unique, conceptual, creative",
+    "negative_prompt": "literal, realistic, straightforward, bland, predictable"
+  },
+  {
+    "name": "Vintage Badge Logo",
+    "prompt": "vintage badge vector logo design {prompt} . retro, emblematic, timeless, classic, ornate",
+    "negative_prompt": "modern, bland, disposable, generic, temporary"
+  },
+  {
+    "name": "Wordmark Logo",
+    "prompt": "wordmark vector logo design {prompt} . text-based, custom typography, distinctive, legible, simple",
+    "negative_prompt": "abstract, complex, unreadable, generic, unremarkable"
+  },
+  {
+    "name": "Colorful Logo",
+    "prompt": "colorful vector logo design {prompt} . vibrant, diverse, playful, eye-catching, dynamic",
+    "negative_prompt": "monochrome, dull, muted, plain, lifeless"
+  },
+  {
+    "name": "Corporate Logo",
+    "prompt": "corporate vector logo design {prompt} . professional, business-oriented, reliable, corporate colors, formal",
+    "negative_prompt": "informal, casual, unprofessional, chaotic, frivolous"
+  },
+  {
+    "name": "Sports Logo",
+    "prompt": "sports vector logo design {prompt} . athletic, competitive, energetic, dynamic, bold",
+    "negative_prompt": "sedentary, lethargic, passive, unathletic, feeble"
+  },
+  {
+    "name": "Gaming Logo",
+    "prompt": "gaming vector logo design {prompt} . gaming culture, digital, bold typography, vibrant colors, edgy",
+    "negative_prompt": "offline, non-gaming, retro, minimalistic, outdated"
+  },
+  {
+    "name": "Food and Beverage Logo",
+    "prompt": "food and beverage vector logo design {prompt} . culinary, appetite appeal, delicious, inviting, thematic",
+    "negative_prompt": "unappetizing, uninviting, non-culinary, bland, unthematic"
+  },
+  {
+    "name": "Fashion Logo",
+    "prompt": "fashion vector logo design {prompt} . stylish, trendy, chic, runway-inspired, haute couture",
+    "negative_prompt": "outdated, unfashionable, dowdy, frumpy, shabby"
+  },
+  {
+    "name": "Healthcare Logo",
+    "prompt": "healthcare vector logo design {prompt} . wellness, caring, medical, trust, soothing",
+    "negative_prompt": "unhealthy, uncaring, non-medical, distrustful, unsettling"
+  },
+  {
+    "name": "Travel Logo",
+    "prompt": "travel vector logo design {prompt} . wanderlust, adventure, exploration, global, journey",
+    "negative_prompt": "homebound, sedentary, non-explorative, localized, stationary"
+  },
+  {
+    "name": "Vibrant Colorful Design",
+    "prompt": "vibrant and colorful design {prompt} . rich colors, bold contrasts, energetic, eye-catching, dynamic",
+    "negative_prompt": "dull, monochromatic, subdued, lifeless, uninspiring"
+  },
+  {
+    "name": "Pastel Color Palette",
+    "prompt": "pastel-colored design {prompt} . soft hues, delicate tones, soothing, gentle, elegant",
+    "negative_prompt": "vivid, neon, harsh, jarring, overwhelming"
+  },
+  {
+    "name": "Rainbow Spectrum",
+    "prompt": "rainbow-themed design {prompt} . full spectrum of colors, LGBTQ+, diversity, celebration, inclusion",
+    "negative_prompt": "monochrome, grayscale, colorless, homogeneous, exclusionary"
+  },
+  {
+    "name": "Neon Glow",
+    "prompt": "neon-inspired design {prompt} . electric colors, glowing effects, futuristic, edgy, nightlife",
+    "negative_prompt": "muted, natural, traditional, vintage, subdued"
+  },
+  {
+    "name": "Tropical Paradise",
+    "prompt": "tropical and colorful design {prompt} . exotic flora and fauna, vibrant landscapes, paradise vibes, vacation",
+    "negative_prompt": "arctic, desolate, barren, icy, monotonous"
+  },
+  {
+    "name": "Pop Art Explosion",
+    "prompt": "pop art explosion {prompt} . bold colors, comic book aesthetics, retro, vibrant, playful",
+    "negative_prompt": "subdued, quiet, unremarkable, mundane, traditional"
+  },
+  {
+    "name": "Abstract Expressionism",
+    "prompt": "abstract expressionism-inspired design {prompt} . spontaneous, emotional, colorful, dynamic, non-representational",
+    "negative_prompt": "realistic, rigid, lifeless, predictable, controlled"
+  },
+  {
+    "name": "Psychedelic Design",
+    "prompt": "psychedelic-inspired design {prompt} . mind-bending patterns, vibrant colors, trippy, surreal, counterculture",
+    "negative_prompt": "sober, grounded, ordinary, plain, conventional"
+  },
+  {
+    "name": "Eco-Friendly Color Palette",
+    "prompt": "eco-friendly and colorful design {prompt} . nature-inspired colors, sustainability, organic, environmental, fresh",
+    "negative_prompt": "polluting, wasteful, harmful, unnatural, toxic"
+  },
+  {
+    "name": "Youthful and Playful",
+    "prompt": "youthful and playful design {prompt} . fun, energetic, childlike, bright, whimsical",
+    "negative_prompt": "stern, serious, mature, drab, boring"
+  },
+  {
+    "name": "Digital Artistry",
+    "prompt": "digital art-inspired design {prompt} . futuristic, high-tech, pixelated, digital aesthetics, cyberpunk",
+    "negative_prompt": "analog, traditional, low-tech, old-fashioned, retro"
+  },
+  {
+    "name": "Watercolor Delight",
+    "prompt": "watercolor-inspired design {prompt} . flowing colors, artistic, soft edges, dreamy, ethereal",
+    "negative_prompt": "rigid, stark, monochromatic, unemotional, harsh"
+  },
+  {
+    "name": "Color Splash",
+    "prompt": "color splash design {prompt} . vivid splashes, abstract, energetic, high contrast, eye-catching",
+    "negative_prompt": "colorless, muted, faded, bland, unremarkable"
+  },
+  {
+    "name": "Festival Vibes",
+    "prompt": "festival-inspired design {prompt} . celebratory, diverse, multicultural, joyful, lively",
+    "negative_prompt": "solemn, lifeless, monotonous, uneventful, dull"
+  },
+  {
+    "name": "Sunset and Sunrise",
+    "prompt": "sunset and sunrise-themed design {prompt} . warm hues, atmospheric, serenity, transitions, natural beauty",
+    "negative_prompt": "midday, midnight, overcast, gray, dull"
+  },
+  {
+    "name": "Whimsical Wonderland",
+    "prompt": "whimsical and colorful wonderland design {prompt} . imaginative, fantastical, dreamlike, playful, enchanting",
+    "negative_prompt": "ordinary, mundane, uninspired, prosaic, unmagical"
+  },
+  {
+    "name": "Floral Explosion",
+    "prompt": "floral explosion design {prompt} . blossoming flowers, colorful petals, botanical beauty, gardens",
+    "negative_prompt": "barren, desolate, lifeless, colorless, uninviting"
+  },
+  {
+    "name": "Urban Graffiti",
+    "prompt": "urban graffiti-inspired design {prompt} . street art, edgy, colorful chaos, expressive, counterculture",
+    "negative_prompt": "tidy, sterile, corporate, orderly, plain"
+  },
+  {
+    "name": "Candy Shop Delight",
+    "prompt": "candy shop-inspired design {prompt} . sweet treats, vibrant candies, sugary colors, childhood nostalgia",
+    "negative_prompt": "sugar-free, bland, diet, tasteless, unappetizing"
+  },
+  {
+    "name": "Tribal Fusion",
+    "prompt": "tribal fusion design {prompt} . ethnic patterns, bold colors, tribal aesthetics, cultural fusion, eclectic",
+    "negative_prompt": "homogeneous, monotonous, bland, culturally insensitive, dull"
+  },
+  {
+    "name": "Celestial Wonders",
+    "prompt": "celestial-inspired design {prompt} . stars, galaxies, cosmic colors, astronomical, infinite beauty",
+    "negative_prompt": "earthbound, mundane, uninspiring, terrestrial, earthly"
+  },
+  {
+    "name": "Underwater Paradise",
+    "prompt": "underwater paradise design {prompt} . marine life, vibrant coral reefs, oceanic beauty, aquatic wonders",
+    "negative_prompt": "arid, desert, barren, dry, lifeless"
+  },
+  {
+    "name": "Mosaic Magic",
+    "prompt": "mosaic-inspired design {prompt} . tiled patterns, colorful fragments, artistic, intricate, abstract",
+    "negative_prompt": "homogeneous, monochrome, repetitive, plain, uninspired"
+  },
+  {
+    "name": "Funky Retro Vibes",
+    "prompt": "funky retro design {prompt} . 70s, 80s, groovy, disco, vintage revival, colorful nostalgia",
+    "negative_prompt": "contemporary, minimalist, modern, unretro, ungroovy"
+  },
+  {
+    "name": "Nature's Kaleidoscope",
+    "prompt": "nature's kaleidoscope design {prompt} . natural beauty, diverse colors, organic patterns, ecological richness",
+    "negative_prompt": "polluted, depleted, barren, environmentally destructive, colorless"
+  },
+  {
+    "name": "Youthful Cartoon Style",
+    "prompt": "youthful cartoon-style design {prompt} . playful characters, bright colors, animated, child-friendly, cheerful",
+    "negative_prompt": "serious, realistic, monochromatic, adult-oriented, gloomy"
+  },
+  {
+    "name": "Artistic Freedom",
+    "prompt": "artistic freedom design {prompt} . creative expression, colorful imagination, abstract, unconventional, vibrant",
+    "negative_prompt": "conformity, restrictions, conventional, dull, uninspiring"
+  },
+  {
+    "name": "Harmony in Diversity",
+    "prompt": "harmony in diversity design {prompt} . diverse colors, cultural fusion, unity, inclusion, acceptance",
+    "negative_prompt": "division, exclusion, homogeneity, intolerance, separation"
+  },
+  {
+    "name": "Futuristic Color Palette",
+    "prompt": "futuristic and colorful design {prompt} . metallic hues, neon accents, high-tech, cyberpunk, futuristic aesthetics",
+    "negative_prompt": "obsolete, retro, old-fashioned, low-tech, traditional"
+  },
+  {
+    "name": "Snowy Wonderland",
+    "prompt": "snowy wonderland design {prompt} . snow-covered landscapes, winter wonder, serene, peaceful, pristine",
+    "negative_prompt": "barren, dry, desolate, hot, arid"
+  },
+  {
+    "name": "Cozy Hygge Vibes",
+    "prompt": "cozy hygge-inspired design {prompt} . warm blankets, fireplace, comfort, candlelight, relaxation",
+    "negative_prompt": "uncomfortable, cold, harsh, stressful, hectic"
+  },
+  {
+    "name": "Frosty Elegance",
+    "prompt": "frosty and elegant design {prompt} . icy beauty, snowflakes, frost patterns, cool sophistication, crystalline",
+    "negative_prompt": "muddy, messy, chaotic, warm, disheveled"
+  },
+  {
+    "name": "Winter Sports Adventure",
+    "prompt": "winter sports adventure design {prompt} . skiing, snowboarding, ice skating, adrenaline, outdoor fun",
+    "negative_prompt": "indoor activities, sedentary, non-adventurous, lazy, unexciting"
+  },
+  {
+    "name": "Holiday Magic",
+    "prompt": "holiday magic design {prompt} . festive decorations, cheerful atmosphere, gift-giving, joyous celebrations, merriment",
+    "negative_prompt": "non-festive, gloomy atmosphere, no gifts, somber, dull"
+  },
+  {
+    "name": "Arctic Wildlife",
+    "prompt": "arctic wildlife design {prompt} . polar bears, penguins, seals, snowy habitats, frozen wilderness",
+    "negative_prompt": "tropical wildlife, warm climates, no animals, barren landscapes, urban environments"
+  },
+  {
+    "name": "Icy Adventure",
+    "prompt": "icy adventure design {prompt} . ice caves, frozen landscapes, exploration, frigid journeys, polar exploration",
+    "negative_prompt": "indoor activities, warm destinations, no exploration, stagnant, unadventurous"
+  },
+  {
+    "name": "Hot Drinks and Comfort",
+    "prompt": "hot drinks and comfort design {prompt} . warm beverages, coziness, relaxation, steaming mugs, soothing",
+    "negative_prompt": "cold drinks, discomfort, stress, hectic, chaos"
+  },
+  {
+    "name": "Winter Wonderland Fashion",
+    "prompt": "winter fashion design {prompt} . stylish coats, scarves, boots, winter accessories, seasonal trends",
+    "negative_prompt": "summer fashion, swimwear, inappropriate clothing, outdated styles, unfashionable"
+  },
+  {
+    "name": "Snowy Village Charm",
+    "prompt": "snowy village charm design {prompt} . quaint villages, snow-covered houses, idyllic scenery, winter charm, rural beauty",
+    "negative_prompt": "urban landscapes, no charm, non-idyllic, ugly, uninviting"
+  },
+  {
+    "name": "Illuminated Winter Nights",
+    "prompt": "illuminated winter nights design {prompt} . holiday lights, starry skies, cozy evenings, enchanting beauty, festive glow",
+    "negative_prompt": "dark nights, no lights, gloomy evenings, dullness, no festivities"
+  },
+  {
+    "name": "Snowy Forest Serenity",
+    "prompt": "snowy forest serenity design {prompt} . tranquil woods, snow-laden trees, peaceful nature, winter calm, natural beauty",
+    "negative_prompt": "deforested areas, no serenity, polluted nature, chaos, ugliness"
+  },
+  {
+    "name": "Frozen Fantasy World",
+    "prompt": "frozen fantasy world design {prompt} . magical creatures, ice castles, fantasy adventures, enchanting realms, whimsical beauty",
+    "negative_prompt": "realistic world, no fantasy, mundane, non-magical, ordinary"
+  },
+  {
+    "name": "Icy Geometric Patterns",
+    "prompt": "icy geometric patterns design {prompt} . frosty shapes, cold geometry, abstract beauty, mathematical precision, crystalline patterns",
+    "negative_prompt": "organic, irregular, non-geometric, chaotic, messy"
+  },
+  {
+    "name": "Winter Cuisine Delights",
+    "prompt": "winter cuisine delights design {prompt} . comfort food, hearty meals, holiday feasts, culinary delights, seasonal flavors",
+    "negative_prompt": "fast food, unhealthy meals, no feasting, bland cuisine, unappetizing flavors"
+  },
+  {
+    "name": "Northern Lights Magic",
+    "prompt": "northern lights magic design {prompt} . auroras, celestial beauty, cosmic wonder, dancing lights, otherworldly spectacles",
+    "negative_prompt": "no auroras, gloomy skies, no celestial beauty, mundane, ordinary"
+  },
+  {
+    "name": "Ice Skating Dream",
+    "prompt": "ice skating dream design {prompt} . graceful skaters, frozen ponds, winter elegance, outdoor ice rinks, festive ice skating",
+    "negative_prompt": "no ice skating, clumsy skaters, non-frozen ponds, lack of elegance, dreary winter"
+  },
+  {
+    "name": "Snowy Mountain Adventure",
+    "prompt": "snowy mountain adventure design {prompt} . alpine vistas, winter sports, mountain peaks, cold adrenaline, snowy escapades",
+    "negative_prompt": "no mountains, indoor activities, non-adventurous, hot destinations, sedentary lifestyle"
+  },
+  {
+    "name": "Christmas Market Magic",
+    "prompt": "Christmas market magic design {prompt} . festive stalls, holiday gifts, merry decorations, joyful gatherings, seasonal markets",
+    "negative_prompt": "no Christmas markets, no gifts, gloomy atmosphere, dull gatherings, lack of festivity"
+  },
+  {
+    "name": "Polar Bear's Domain",
+    "prompt": "polar bear's domain design {prompt} . polar bears, icy habitats, majestic creatures, arctic beauty, frozen wilderness",
+    "negative_prompt": "no polar bears, no ice, non-majestic creatures, lack of beauty, non-arctic landscapes"
+  },
+  {
+    "name": "Snowflake Symphony",
+    "prompt": "snowflake symphony design {prompt} . delicate snowflakes, intricate patterns, frozen beauty, unique elegance, frosty designs",
+    "negative_prompt": "no snowflakes, plain patterns, lack of beauty, no elegance, non-frosty designs"
+  },
+  {
+    "name": "Icy Ocean Adventures",
+    "prompt": "icy ocean adventures design {prompt} . frozen seas, marine life, arctic expeditions, cold exploration, oceanic wonders",
+    "negative_prompt": "no frozen seas, no marine life, lack of expeditions, warm exploration, non-oceanic landscapes"
+  },
+  {
+    "name": "Ski Lodge Relaxation",
+    "prompt": "ski lodge relaxation design {prompt} . cozy cabins, mountain retreats, snowy getaways, fireside relaxation, winter escapes",
+    "negative_prompt": "no ski lodges, lack of cabins, non-mountain retreats, no getaways, unrelaxing environments"
+  },
+  {
+    "name": "Frozen World Fantasy",
+    "prompt": "frozen world fantasy design {prompt} . magical creatures, snow-covered landscapes, fantasy adventures, enchanting realms, whimsical beauty",
+    "negative_prompt": "realistic world, no fantasy, mundane, non-magical, ordinary"
+  },
+  {
+    "name": "Sleigh Ride Delight",
+    "prompt": "sleigh ride delight design {prompt} . horse-drawn sleighs, snowy landscapes, festive journeys, winter wonder, nostalgic charm",
+    "negative_prompt": "no sleigh rides, lack of snow, non-festive journeys, no wonder, lack of charm"
+  },
+  {
+    "name": "Ice Fishing Adventure",
+    "prompt": "ice fishing adventure design {prompt} . frozen lakes, outdoor activities, winter fishing, cold exploration, icy escapades",
+    "negative_prompt": "no frozen lakes, lack of outdoor activities, non-fishing expeditions, warm exploration, non-icy escapades"
+  },
+  {
+    "name": "Winter Wildlife Haven",
+    "prompt": "winter wildlife haven design {prompt} . animal tracks, winter habitats, wildlife encounters, cold beauty, natural wonders",
+    "negative_prompt": "no animal tracks, lack of winter habitats, non-wildlife encounters, warm beauty, non-natural wonders"
+  },
+  {
+    "name": "Frozen Aerial Views",
+    "prompt": "frozen aerial views design {prompt} . snowy landscapes, drone photography, winter perspectives, frozen beauty, breathtaking vistas",
+    "negative_prompt": "no snowy landscapes, lack of drone photography, non-winter perspectives, warm beauty, non-breathtaking vistas"
+  },
+  {
+    "name": "Rainy Day Romance",
+    "prompt": "rainy day romance design {prompt} . umbrellas, raindrops, couples, cozy moments, monsoon love",
+    "negative_prompt": "dry days, lonely moments, lack of rain, unromantic, isolated"
+  },
+  {
+    "name": "Monsoon Greenery",
+    "prompt": "monsoon greenery design {prompt} . lush foliage, wet leaves, rain-soaked nature, vibrant greens, life-renewing showers",
+    "negative_prompt": "barren landscapes, dry leaves, lack of rain, faded greens, lifeless surroundings"
+  },
+  {
+    "name": "Umbrella Artistry",
+    "prompt": "umbrella artistry design {prompt} . colorful umbrellas, rainy patterns, vibrant rain gear, stylish protection, monsoon fashion",
+    "negative_prompt": "no umbrellas, lack of patterns, drab rain gear, unstylish protection, fashion fails"
+  },
+  {
+    "name": "Monsoon Cityscape",
+    "prompt": "monsoon cityscape design {prompt} . wet streets, reflections, urban life, rainy atmosphere, city in the rain",
+    "negative_prompt": "dry streets, lack of reflections, dull urban life, non-rainy atmosphere, city without rain"
+  },
+  {
+    "name": "Raindrop Symphony",
+    "prompt": "raindrop symphony design {prompt} . falling raindrops, music of rain, soothing rhythms, monsoon melodies, natural orchestra",
+    "negative_prompt": "no raindrops, lack of music, harsh rhythms, non-melodic sounds, silence"
+  },
+  {
+    "name": "Monsoon Festivals",
+    "prompt": "monsoon festivals design {prompt} . celebratory spirit, cultural events, festive colors, joyful gatherings, rain-drenched merriment",
+    "negative_prompt": "non-celebratory spirit, lack of cultural events, dull colors, joyless gatherings, rainless dullness"
+  },
+  {
+    "name": "Rainy Window Views",
+    "prompt": "rainy window views design {prompt} . rain-splattered windows, indoor coziness, contemplative moments, monsoon introspection",
+    "negative_prompt": "clear windows, outdoor chaos, lack of coziness, non-contemplative moments, introspection absence"
+  },
+  {
+    "name": "Monsoon Florals",
+    "prompt": "monsoon florals design {prompt} . blooming flowers, rain-kissed petals, vibrant gardens, natural beauty, floral abundance",
+    "negative_prompt": "non-blooming flowers, dry petals, lack of gardens, unnatural beauty, floral scarcity"
+  },
+  {
+    "name": "Rainy Street Art",
+    "prompt": "rainy street art design {prompt} . urban graffiti, watercolor streets, artistic expression, monsoon creativity, splash of colors",
+    "negative_prompt": "no street art, dry streets, lack of artistic expression, creativity drought, colorless monotony"
+  },
+  {
+    "name": "Monsoon Adventure",
+    "prompt": "monsoon adventure design {prompt} . rain-soaked trails, outdoor exploration, wet escapades, monsoon thrill, nature's embrace",
+    "negative_prompt": "dry trails, lack of exploration, absence of escapades, thrill drought, nature's rejection"
+  },
+  {
+    "name": "Monsoon Children's Illustration",
+    "prompt": "monsoon children's illustration {prompt} . playful kids, rainy adventures, colorful rain gear, joyous monsoon, youthful delight",
+    "negative_prompt": "serious kids, non-adventurous days, dull rain gear, monsoon gloom, joyless childhood"
+  },
+  {
+    "name": "Rainy Cafe Scene",
+    "prompt": "rainy cafe scene design {prompt} . coffee shops, cozy corners, rainy day reads, monsoon coffee, bookish atmosphere",
+    "negative_prompt": "no coffee shops, lack of coziness, absence of reads, non-monsoon coffee, unbookish atmosphere"
+  },
+  {
+    "name": "Monsoon Wildlife",
+    "prompt": "monsoon wildlife design {prompt} . rain-drenched animals, wet habitats, natural wonders, monsoon ecology, thriving fauna",
+    "negative_prompt": "dry animals, lack of wet habitats, unnatural absence, monsoon ecological collapse, dwindling fauna"
+  },
+  {
+    "name": "Monsoon Dreamscapes",
+    "prompt": "monsoon dreamscapes design {prompt} . surreal landscapes, rain-inspired art, dreamy scenery, monsoon visions, ethereal beauty",
+    "negative_prompt": "realistic landscapes, absence of art, non-dreamy scenery, monsoon nightmares, mundane beauty"
+  },
+  {
+    "name": "Rainy Day Photography",
+    "prompt": "rainy day photography design {prompt} . wet lens, artistic captures, candid moments, monsoon snapshots, visual storytelling",
+    "negative_prompt": "dry lens, lack of artistry, absence of moments, non-monsoon snapshots, visual silence"
+  },
+  {
+    "name": "Monsoon Artisan Crafts",
+    "prompt": "monsoon artisan crafts design {prompt} . handmade creations, rain-inspired art, crafty elegance, monsoon creativity, artisanal beauty",
+    "negative_prompt": "machine-made, absence of art, uncreative craftsmanship, monsoon stagnation, lack of artisanal beauty"
+  },
+  {
+    "name": "Monsoon Jungle Adventure",
+    "prompt": "monsoon jungle adventure design {prompt} . lush jungles, tropical rainforests, adventurous explorations, monsoon thrill, natural wonders",
+    "negative_prompt": "arid jungles, dry rainforests, non-adventurous explorations, thrill drought, unnatural absence"
+  },
+  {
+    "name": "Rainy Abstract Art",
+    "prompt": "rainy abstract art design {prompt} . abstract expressions, rain-inspired artworks, emotional creations, monsoon creativity, artistic freedom",
+    "negative_prompt": "realistic art, absence of inspiration, unemotional creations, monsoon stagnation, lack of artistic freedom"
+  },
+  {
+    "name": "Monsoon Sea Adventures",
+    "prompt": "monsoon sea adventures design {prompt} . ocean journeys, waterlogged explorations, sea-faring escapades, monsoon marine life, aquatic wonders",
+    "negative_prompt": "landlocked, lack of water, absence of sea-faring escapades, marine life drought, lack of aquatic wonders"
+  },
+  {
+    "name": "Fantasy RPG Adventure",
+    "prompt": "fantasy RPG adventure game design {prompt} . epic quests, magical realms, mythical creatures, heroic characters, immersive storytelling",
+    "negative_prompt": "realistic setting, no quests, lack of magic, mundane creatures, uninteresting narrative"
+  },
+  {
+    "name": "Sci-Fi Space Exploration",
+    "prompt": "sci-fi space exploration game design {prompt} . interstellar journeys, futuristic technology, alien worlds, cosmic wonders, space odyssey",
+    "negative_prompt": "no space exploration, obsolete tech, Earth-bound, absence of aliens, lack of cosmic wonders"
+  },
+  {
+    "name": "Survival Horror Thriller",
+    "prompt": "survival horror thriller game design {prompt} . tense atmosphere, eerie environments, terrifying creatures, survival challenges, psychological horror",
+    "negative_prompt": "relaxed atmosphere, comforting environments, friendly creatures, no survival challenges, lack of horror"
+  },
+  {
+    "name": "Medieval Kingdom Strategy",
+    "prompt": "medieval kingdom strategy game design {prompt} . kingdom building, wars of conquest, noble rulers, historical accuracy, tactical depth",
+    "negative_prompt": "lack of kingdom, no wars, absence of rulers, historical inaccuracies, lack of tactics"
+  },
+  {
+    "name": "Cute and Casual Puzzles",
+    "prompt": "cute and casual puzzle game design {prompt} . adorable characters, brain-teasing puzzles, relaxing gameplay, family-friendly fun, colorful visuals",
+    "negative_prompt": "unattractive characters, no puzzles, stressful gameplay, not family-friendly, dull visuals"
+  },
+  {
+    "name": "Post-Apocalyptic Survival",
+    "prompt": "post-apocalyptic survival game design {prompt} . desolate wastelands, resource scavenging, harsh conditions, moral choices, gritty realism",
+    "negative_prompt": "lush landscapes, abundance of resources, easy living, no choices, lack of realism"
+  },
+  {
+    "name": "Cartoon Adventure Platformer",
+    "prompt": "cartoon adventure platformer game design {prompt} . vibrant worlds, acrobatic gameplay, whimsical characters, platforming challenges, humorous storytelling",
+    "negative_prompt": "dull worlds, lack of acrobatics, bland characters, no platforming, serious storytelling"
+  },
+  {
+    "name": "Cyberpunk Stealth Action",
+    "prompt": "cyberpunk stealth action game design {prompt} . futuristic cities, cyber enhancements, covert operations, high-tech gadgets, dystopian intrigue",
+    "negative_prompt": "archaic cities, no cyber enhancements, open warfare, low-tech tools, utopian setting"
+  },
+  {
+    "name": "Casino Gambling Simulator",
+    "prompt": "casino gambling simulator game design {prompt} . casino ambiance, various games, high stakes, virtual rewards, realistic gambling experience",
+    "negative_prompt": "lack of casino ambiance, absence of games, low stakes, no rewards, unconvincing gambling experience"
+  },
+  {
+    "name": "Educational Learning Quest",
+    "prompt": "educational learning quest game design {prompt} . educational content, quests, interactive challenges, engaging learning, diverse subjects",
+    "negative_prompt": "non-educational content, lack of quests, unengaging challenges, lack of learning, limited subjects"
+  },
+  {
+    "name": "Futuristic Racing Thrills",
+    "prompt": "futuristic racing game design {prompt} . high-speed vehicles, neon tracks, intense competition, futuristic power-ups, adrenaline-pumping races",
+    "negative_prompt": "slow vehicles, dull tracks, lack of competition, outdated power-ups, uninspiring races"
+  },
+  {
+    "name": "Mystery Detective Adventure",
+    "prompt": "mystery detective adventure game design {prompt} . complex puzzles, intriguing mysteries, detective work, suspenseful storytelling, clue-solving",
+    "negative_prompt": "simplistic puzzles, uninteresting mysteries, lack of detective work, straightforward storytelling, no clues"
+  },
+  {
+    "name": "Zombie Apocalypse Horror",
+    "prompt": "zombie apocalypse horror game design {prompt} . post-apocalyptic world, undead hordes, survival challenges, gruesome horror, intense action",
+    "negative_prompt": "peaceful world, absence of zombies, easy living, lack of horror, dull action"
+  },
+  {
+    "name": "Realistic Sports Simulation",
+    "prompt": "realistic sports simulation game design {prompt} . authentic stadiums, true-to-life athletes, realistic physics, competitive gameplay, sports realism",
+    "negative_prompt": "fantasy stadiums, unrealistic athletes, physics anomalies, uncompetitive gameplay, lack of sports realism"
+  },
+  {
+    "name": "Steampunk Adventure",
+    "prompt": "steampunk adventure game design {prompt} . steam-powered gadgets, Victorian aesthetics, airship journeys, alternative history, mechanical wonders",
+    "negative_prompt": "modern gadgets, non-Victorian aesthetics, grounded journeys, historical accuracy, lack of mechanical wonders"
+  },
+  {
+    "name": "Casual Farming Simulation",
+    "prompt": "casual farming simulation game design {prompt} . idyllic farms, crop cultivation, animal care, peaceful gameplay, rural charm",
+    "negative_prompt": "chaotic farms, lack of cultivation, neglectful animal care, stressful gameplay, rural unpleasantness"
+  },
+  {
+    "name": "Magical Wizardry School",
+    "prompt": "magical wizardry school game design {prompt} . enchanted academy, spells and potions, magical creatures, student adventures, enchanting lore",
+    "negative_prompt": "non-enchanted academy, absence of magic, lack of magical creatures, unadventurous students, mundane lore"
+  },
+  {
+    "name": "Epic Viking Saga",
+    "prompt": "epic Viking saga game design {prompt} . Norse mythology, epic battles, Viking heroes, rich storytelling, Viking lore",
+    "negative_prompt": "non-Norse mythology, lack of battles, unheroic Vikings, uninteresting storytelling, absence of Viking lore"
+  },
+  {
+    "name": "Fairy Tale Puzzle Quest",
+    "prompt": "fairy tale puzzle quest game design {prompt} . whimsical worlds, brain-teasing puzzles, magical characters, questing adventures, enchanting tales",
+    "negative_prompt": "dull worlds, lack of puzzles, unmagical characters, unadventurous quests, mundane tales"
+  },
+  {
+    "name": "Pirate Adventure RPG",
+    "prompt": "pirate adventure RPG game design {prompt} . high seas, pirate crews, treasure hunting, open-world exploration, swashbuckling action",
+    "negative_prompt": "landlocked, lack of crews, no treasure, restricted exploration, dull action"
+  },
+  {
+    "name": "Historical Time Travel",
+    "prompt": "historical time travel game design {prompt} . time periods, historical accuracy, time anomalies, historical exploration, time-traveling quests",
+    "negative_prompt": "non-time periods, historical inaccuracies, absence of anomalies, non-exploration, questless time travel"
+  },
+  {
+    "name": "Colorful Match-3 Puzzles",
+    "prompt": "colorful match-3 puzzle game design {prompt} . vibrant gems, addictive gameplay, power-ups, match-3 challenges, casual fun",
+    "negative_prompt": "dull gems, unengaging gameplay, lack of power-ups, match-3 absence, non-casualness"
+  },
+  {
+    "name": "Wild West Outlaw Adventure",
+    "prompt": "Wild West outlaw adventure game design {prompt} . frontier towns, banditry, showdowns, Western drama, lawless excitement",
+    "negative_prompt": "non-frontier towns, lack of banditry, absence of showdowns, non-Western drama, lawful boredom"
+  },
+  {
+    "name": "Mystical Dreamscapes",
+    "prompt": "mystical dreamscapes game design {prompt} . ethereal realms, dreamlike landscapes, surreal experiences, mystical mysteries, artistic storytelling",
+    "negative_prompt": "non-ethereal realms, lack of dreamlike landscapes, absence of surreal experiences, non-mystical mysteries, unartistic storytelling"
+  },
+  {
+    "name": "Epic Greek Mythology",
+    "prompt": "epic Greek mythology game design {prompt} . Olympian gods, heroic legends, mythical beasts, epic quests, mythological lore",
+    "negative_prompt": "non-Olympian gods, lack of legends, absence of mythical beasts, unepic quests, non-mythological lore"
+  },
+  {
+    "name": "Stealthy Ninja Action",
+    "prompt": "stealthy ninja action game design {prompt} . shadowy assassins, martial arts, stealth gameplay, ninja gadgets, feudal Japan",
+    "negative_prompt": "non-shadowy assassins, lack of martial arts, absence of stealth gameplay, non-ninja gadgets, non-feudal Japan"
+  },
+  {
+    "name": "Space Pirate Adventure",
+    "prompt": "space pirate adventure game design {prompt} . galactic plundering, starship battles, interstellar exploration, space pirate lore, swashbuckling action",
+    "negative_prompt": "non-plundering, absence of starship battles, non-exploration, lack of space pirate lore, dull action"
+  },
+  {
+    "name": "Cyberpunk Hacker Thrills",
+    "prompt": "cyberpunk hacker game design {prompt} . digital underworld, hacking challenges, cyber espionage, high-tech gadgets, dystopian intrigue",
+    "negative_prompt": "non-digital underworld, absence of hacking challenges, non-cyber espionage, low-tech gadgets, utopian setting"
+  },
+  {
+    "name": "Elegant Princess Gown",
+    "prompt": "elegant princess gown {prompt} . royal ball, regal design, intricate details, fairy tale elegance",
+    "negative_prompt": "casual attire, simple design, plain details, non-royal look"
+  },
+  {
+    "name": "Boho Chic Maxi Dress",
+    "prompt": "boho chic maxi dress {prompt} . flowy silhouette, earthy tones, free-spirited vibes, bohemian beauty",
+    "negative_prompt": "structured dress, bright colors, rigid look, non-boho style"
+  },
+  {
+    "name": "Vintage Tea Party Dress",
+    "prompt": "vintage tea party dress {prompt} . lace and frills, pastel colors, retro charm, tea time elegance",
+    "negative_prompt": "modern style, bold colors, lack of lace and frills, non-retro look"
+  },
+  {
+    "name": "Summer Floral Sundress",
+    "prompt": "summer floral sundress {prompt} . vibrant florals, lightweight fabric, sun-kissed style, summery delight",
+    "negative_prompt": "dark and heavy fabric, lack of floral patterns, winter look, non-summery style"
+  },
+  {
+    "name": "Trendy Denim Jumper",
+    "prompt": "trendy denim jumper {prompt} . denim fabric, youthful design, adjustable straps, urban chic",
+    "negative_prompt": "non-denim material, outdated look, fixed straps, non-urban style"
+  },
+  {
+    "name": "Practical School Uniform",
+    "prompt": "practical school uniform {prompt} . formal attire, classic design, school insignia, scholarly look",
+    "negative_prompt": "non-formal attire, unconventional design, absence of school insignia, non-scholarly style"
+  },
+  {
+    "name": "Fairy-inspired Dress",
+    "prompt": "fairy-inspired dress {prompt} . ethereal design, delicate wings, pastel colors, enchanting grace",
+    "negative_prompt": "non-ethereal design, lack of wings, bold colors, lack of enchantment"
+  },
+  {
+    "name": "Athletic Sportswear",
+    "prompt": "athletic sportswear {prompt} . performance fabric, sporty design, bold patterns, active comfort",
+    "negative_prompt": "non-performance fabric, non-sporty design, lack of patterns, lack of comfort"
+  },
+  {
+    "name": "Ballerina Tutu Dress",
+    "prompt": "ballerina tutu dress {prompt} . tulle skirt, ballet elegance, dainty details, graceful style",
+    "negative_prompt": "non-tulle skirt, lack of ballet elements, lack of dainty details, non-graceful look"
+  },
+  {
+    "name": "Pajama Party Loungewear",
+    "prompt": "pajama party loungewear {prompt} . cozy fabric, playful prints, sleepover fun, ultimate comfort",
+    "negative_prompt": "uncomfortable fabric, lack of prints, non-sleepover style, lack of comfort"
+  },
+  {
+    "name": "Gothic Lolita Dress",
+    "prompt": "gothic Lolita dress {prompt} . Victorian influences, dark elegance, lace accents, mysterious charm",
+    "negative_prompt": "non-Victorian influences, lack of dark elements, absence of lace, non-mysterious look"
+  },
+  {
+    "name": "Mermaid-inspired Gown",
+    "prompt": "mermaid-inspired gown {prompt} . shimmering sequins, aquatic motifs, enchanting allure, oceanic beauty",
+    "negative_prompt": "lack of shimmering sequins, non-aquatic motifs, absence of allure, lack of oceanic beauty"
+  },
+  {
+    "name": "Retro Swing Dress",
+    "prompt": "retro swing dress {prompt} . 1950s style, A-line silhouette, vintage charm, swing dance fun",
+    "negative_prompt": "non-1950s style, non-A-line silhouette, absence of vintage elements, non-swing dance look"
+  },
+  {
+    "name": "Tropical Hawaiian Dress",
+    "prompt": "tropical Hawaiian dress {prompt} . floral prints, vibrant colors, island vibes, summer delight",
+    "negative_prompt": "lack of floral prints, dull colors, non-island vibes, non-summery style"
+  },
+  {
+    "name": "Cowgirl Rodeo Outfit",
+    "prompt": "cowgirl rodeo outfit {prompt} . Western style, fringed details, cowgirl spirit, rodeo-ready",
+    "negative_prompt": "non-Western style, absence of fringed details, lack of cowgirl spirit, non-rodeo look"
+  },
+  {
+    "name": "Winter Wonderland Dress",
+    "prompt": "winter wonderland dress {prompt} . snowflake motifs, wintry white, cozy fabrics, holiday magic",
+    "negative_prompt": "absence of snowflake motifs, lack of wintry elements, uncomfortable fabrics, absence of holiday magic"
+  },
+  {
+    "name": "Futuristic Sci-Fi Dress",
+    "prompt": "futuristic sci-fi dress {prompt} . metallic accents, high-tech design, space-inspired, futuristic allure",
+    "negative_prompt": "lack of metallic accents, non-high-tech design, absence of space elements, lack of futuristic allure"
+  },
+  {
+    "name": "Garden Party Dress",
+    "prompt": "garden party dress {prompt} . floral embroidery, pastel palette, outdoor elegance, garden soiree",
+    "negative_prompt": "absence of floral embroidery, lack of pastel colors, non-outdoor elegance, non-garden look"
+  },
+  {
+    "name": "Magical Witchy Attire",
+    "prompt": "magical witchy attire {prompt} . mystical elements, dark enchantment, witchcraft aesthetics, spellbinding style",
+    "negative_prompt": "absence of mystical elements, lack of enchantment, non-witchcraft aesthetics, non-spellbinding style"
+  },
+  {
+    "name": "Classy Cocktail Dress",
+    "prompt": "classy cocktail dress {prompt} . sleek silhouette, elegant design, upscale fashion, cocktail hour allure",
+    "negative_prompt": "non-sleek silhouette, non-elegant design, lack of upscale fashion, absence of cocktail hour allure"
+  },
+  {
+    "name": "Safari Adventure Outfit",
+    "prompt": "safari adventure outfit {prompt} . khaki tones, explorer vibes, adventure-ready, wildlife fascination",
+    "negative_prompt": "absence of khaki tones, lack of explorer vibes, non-adventure look, absence of wildlife fascination"
+  },
+  {
+    "name": "Chef-Inspired Apron Dress",
+    "prompt": "chef-inspired apron dress {prompt} . culinary motifs, playful design, apron-inspired, kitchen creativity",
+    "negative_prompt": "absence of culinary motifs, non-playful design, lack of apron elements, non-kitchen creativity"
+  },
+  {
+    "name": "Rock 'n' Roll Glam",
+    "prompt": "rock 'n' roll glam dress {prompt} . leather accents, edgy style, music-inspired, rebellious chic",
+    "negative_prompt": "absence of leather accents, non-edgy style, lack of music inspiration, non-rebellious look"
+  },
+  {
+    "name": "Astronaut Space Suit",
+    "prompt": "astronaut space suit dress {prompt} . space exploration, futuristic design, cosmic elements, interstellar allure",
+    "negative_prompt": "absence of space exploration, non-futuristic design, lack of cosmic elements, non-interstellar allure"
+  },
+  {
+    "name": "Circus Performer Costume",
+    "prompt": "circus performer costume {prompt} . vibrant circus colors, playful design, big top charm, circus extravaganza",
+    "negative_prompt": "absence of circus colors, non-playful design, lack of big top charm, non-circus feel"
+  },
+  {
+    "name": "Firefighter Hero Attire",
+    "prompt": "firefighter hero dress {prompt} . firefighting gear, heroic spirit, lifesaving work, brave style",
+    "negative_prompt": "absence of firefighting gear, non-heroic spirit, lack of lifesaving work, non-brave look"
+  },
+  {
+    "name": "Gymnastics Leotard",
+    "prompt": "gymnastics leotard {prompt} . flexible fabric, dynamic design, gymnastics prowess, athletic grace",
+    "negative_prompt": "absence of flexible fabric, non-dynamic design, lack of gymnastics prowess, non-athletic look"
+  },
+  {
+    "name": "Sorceress Robe",
+    "prompt": "sorceress robe dress {prompt} . mystical robes, arcane symbols, enchanting allure, magical elegance",
+    "negative_prompt": "absence of mystical robes, lack of arcane symbols, non-enchanting allure, non-magical elegance"
+  },
+  {
+    "name": "Vintage Floral Patterns",
+    "prompt": "vintage floral patterns {prompt} . classic motifs, antique charm, elegant design, nostalgic beauty",
+    "negative_prompt": "modern patterns, lack of antique charm, unrefined design, non-nostalgic look"
+  },
+  {
+    "name": "Abstract Watercolor Splashes",
+    "prompt": "abstract watercolor splashes {prompt} . vibrant colors, artistic expression, fluid design, creative freedom",
+    "negative_prompt": "dull colors, lack of artistic expression, rigid design, lack of creative freedom"
+  },
+  {
+    "name": "Urban Graffiti Art",
+    "prompt": "urban graffiti art {prompt} . street culture, bold colors, expressive strokes, artistic rebellion",
+    "negative_prompt": "absence of street culture, lack of bold colors, unexpressive strokes, absence of artistic rebellion"
+  },
+  {
+    "name": "Nature-Inspired Landscapes",
+    "prompt": "nature-inspired landscapes {prompt} . scenic beauty, natural elements, outdoor serenity, eco-friendly design",
+    "negative_prompt": "lack of scenic beauty, absence of natural elements, lack of outdoor serenity, non-eco-friendly design"
+  },
+  {
+    "name": "Sci-Fi Futuristic Cityscapes",
+    "prompt": "sci-fi futuristic cityscapes {prompt} . high-tech metropolis, neon lights, cyberpunk aesthetics, futuristic allure",
+    "negative_prompt": "low-tech city, absence of neon lights, non-cyberpunk aesthetics, lack of futuristic allure"
+  },
+  {
+    "name": "Underwater Coral Reefs",
+    "prompt": "underwater coral reefs {prompt} . marine life, vibrant corals, oceanic beauty, aquatic wonder",
+    "negative_prompt": "absence of marine life, dull corals, lack of oceanic beauty, non-aquatic wonder"
+  },
+  {
+    "name": "Retro 80s Synthwave",
+    "prompt": "retro 80s synthwave {prompt} . neon aesthetics, retro vibes, nostalgic design, synthwave nostalgia",
+    "negative_prompt": "absence of neon aesthetics, lack of retro vibes, non-nostalgic design, absence of synthwave nostalgia"
+  },
+  {
+    "name": "Enchanted Forest Scenes",
+    "prompt": "enchanted forest scenes {prompt} . magical woodland, mystical creatures, fantasy ambiance, enchanting allure",
+    "negative_prompt": "ordinary woodland, absence of mystical creatures, lack of fantasy ambiance, non-enchanting look"
+  },
+  {
+    "name": "Tropical Paradise Beaches",
+    "prompt": "tropical paradise beaches {prompt} . sandy shores, palm trees, turquoise waters, paradise serenity",
+    "negative_prompt": "rocky shores, absence of palm trees, lack of turquoise waters, non-paradise serenity"
+  },
+  {
+    "name": "Steampunk Industrial Revolution",
+    "prompt": "steampunk industrial revolution {prompt} . Victorian machinery, brass accents, retro-futuristic design, industrial allure",
+    "negative_prompt": "non-Victorian machinery, lack of brass accents, absence of retro-futuristic design, non-industrial allure"
+  },
+  {
+    "name": "Mystical Celestial Skies",
+    "prompt": "mystical celestial skies {prompt} . starry heavens, cosmic wonders, ethereal beauty, celestial enchantment",
+    "negative_prompt": "cloudy skies, absence of cosmic wonders, lack of ethereal beauty, non-celestial enchantment"
+  },
+  {
+    "name": "Winter Snowy Landscapes",
+    "prompt": "winter snowy landscapes {prompt} . snow-covered vistas, frosty trees, winter serenity, icy allure",
+    "negative_prompt": "absence of snow, lack of frosty trees, non-winter serenity, absence of icy allure"
+  },
+  {
+    "name": "Cybernetic Sci-Fi Grids",
+    "prompt": "cybernetic sci-fi grids {prompt} . digital world, futuristic patterns, cyber aesthetics, technological allure",
+    "negative_prompt": "non-digital world, lack of futuristic patterns, absence of cyber aesthetics, non-technological allure"
+  },
+  {
+    "name": "Zen Garden Tranquility",
+    "prompt": "zen garden tranquility {prompt} . minimalist design, serene beauty, meditative atmosphere, inner peace",
+    "negative_prompt": "cluttered design, absence of serene beauty, lack of meditative atmosphere, non-inner peace"
+  },
+  {
+    "name": "Haunted House Spookiness",
+    "prompt": "haunted house spookiness {prompt} . eerie atmosphere, ghostly elements, paranormal design, chilling allure",
+    "negative_prompt": "non-eerie atmosphere, lack of ghostly elements, absence of paranormal design, non-chilling allure"
+  },
+  {
+    "name": "Vibrant Festival Celebrations",
+    "prompt": "vibrant festival celebrations {prompt} . cultural diversity, joyful colors, festive atmosphere, celebratory spirit",
+    "negative_prompt": "cultural monotony, dull colors, lack of festive atmosphere, non-celebratory spirit"
+  },
+  {
+    "name": "Desert Dunes Landscape",
+    "prompt": "desert dunes landscape {prompt} . arid beauty, vast sand dunes, desert serenity, golden allure",
+    "negative_prompt": "absence of arid beauty, lack of sand dunes, non-desert serenity, absence of golden allure"
+  },
+  {
+    "name": "Modern Geometric Abstractions",
+    "prompt": "modern geometric abstractions {prompt} . abstract shapes, contemporary style, geometric creativity, artistic expression",
+    "negative_prompt": "non-abstract shapes, lack of contemporary style, absence of geometric creativity, lack of artistic expression"
+  },
+  {
+    "name": "Tribal African Artistry",
+    "prompt": "tribal African artistry {prompt} . indigenous motifs, tribal culture, vibrant design, cultural richness",
+    "negative_prompt": "non-indigenous motifs, absence of tribal culture, lack of vibrant design, absence of cultural richness"
+  },
+  {
+    "name": "Haunted Forest Shadows",
+    "prompt": "haunted forest shadows {prompt} . creepy woods, mysterious darkness, supernatural allure, spooky atmosphere",
+    "negative_prompt": "non-creepy woods, lack of mysterious darkness, absence of supernatural allure, non-spooky atmosphere"
+  },
+  {
+    "name": "Futuristic Space Colonies",
+    "prompt": "futuristic space colonies {prompt} . space habitats, advanced technology, cosmic future, interstellar allure",
+    "negative_prompt": "absence of space habitats, lack of advanced technology, non-cosmic future, absence of interstellar allure"
+  },
+  {
+    "name": "Aurora Borealis Magic",
+    "prompt": "Aurora Borealis magic {prompt} . northern lights, celestial wonders, vibrant hues, natural enchantment",
+    "negative_prompt": "absence of northern lights, lack of celestial wonders, dull hues, non-natural enchantment"
+  },
+  {
+    "name": "Tropical Jungle Adventure",
+    "prompt": "tropical jungle adventure {prompt} . lush foliage, exotic wildlife, jungle exploration, adventurous allure",
+    "negative_prompt": "sparse foliage, absence of wildlife, non-jungle exploration, lack of adventurous allure"
+  },
+  {
+    "name": "Surreal Dreamscapes",
+    "prompt": "surreal dreamscapes {prompt} . dreamlike realms, imaginative elements, otherworldly design, artistic surrealism",
+    "negative_prompt": "absence of dreamlike realms, lack of imaginative elements, non-otherworldly design, absence of artistic surrealism"
+  },
+  {
+    "name": "Carnival Extravaganza",
+    "prompt": "carnival extravaganza {prompt} . colorful rides, festive lights, carnival fun, joyous atmosphere",
+    "negative_prompt": "dull rides, absence of festive lights, non-carnival fun, lack of joyous atmosphere"
+  },
+  {
+    "name": "Antique Steampunk Workshop",
+    "prompt": "antique steampunk workshop {prompt} . vintage machinery, industrial aesthetics, retro charm, steampunk allure",
+    "negative_prompt": "non-vintage machinery, absence of industrial aesthetics, lack of retro charm, non-steampunk allure"
+  },
+  {
+    "name": "Autumn Forest Foliage",
+    "prompt": "autumn forest foliage {prompt} . fall colors, rustling leaves, forest tranquility, autumnal beauty",
+    "negative_prompt": "absence of fall colors, lack of rustling leaves, non-forest tranquility, absence of autumnal beauty"
+  },
+  {
+    "name": "Hawaiian Tiki Paradise",
+    "prompt": "Hawaiian tiki paradise {prompt} . tropical paradise, tiki culture, island escape, exotic allure",
+    "negative_prompt": "non-tropical paradise, absence of tiki culture, lack of island escape, non-exotic allure"
+  },
+  {
+    "name": "Magical Wizard's Library",
+    "prompt": "magical wizard's library {prompt} . ancient tomes, mystical artifacts, enchanting knowledge, arcane allure",
+    "negative_prompt": "non-ancient tomes, absence of mystical artifacts, lack of enchanting knowledge, non-arcane allure"
+  },
+  {
+    "name": "Elegant Black Velvet",
+    "prompt": "elegant black velvet {prompt} . luxurious texture, classic sophistication, dark opulence, refined beauty",
+    "negative_prompt": "non-velvet texture, lack of sophistication, absence of opulence, unrefined look"
+  },
+  {
+    "name": "Mystical Cosmic Night",
+    "prompt": "mystical cosmic night {prompt} . starry universe, deep space, celestial wonder, cosmic enchantment",
+    "negative_prompt": "absence of stars, lack of deep space, non-celestial wonder, non-cosmic enchantment"
+  },
+  {
+    "name": "Gothic Cathedral Ambiance",
+    "prompt": "gothic cathedral ambiance {prompt} . intricate architecture, stained glass, medieval charm, solemn atmosphere",
+    "negative_prompt": "non-intricate architecture, lack of stained glass, absence of medieval charm, non-solemn atmosphere"
+  },
+  {
+    "name": "Minimalist Dark Geometry",
+    "prompt": "minimalist dark geometry {prompt} . clean lines, abstract shapes, modern simplicity, geometric allure",
+    "negative_prompt": "non-clean lines, absence of abstract shapes, lack of modern simplicity, non-geometric allure"
+  },
+  {
+    "name": "Dark Forest Shadows",
+    "prompt": "dark forest shadows {prompt} . towering trees, moonlight beams, mystical allure, mysterious beauty",
+    "negative_prompt": "short trees, absence of moonlight beams, lack of mystical allure, non-mysterious beauty"
+  },
+  {
+    "name": "Industrial Night Factory",
+    "prompt": "industrial night factory {prompt} . metallic structures, factory lights, urban grit, industrial allure",
+    "negative_prompt": "non-metallic structures, absence of factory lights, lack of urban grit, non-industrial allure"
+  },
+  {
+    "name": "Haunted Mansion Elegance",
+    "prompt": "haunted mansion elegance {prompt} . eerie atmosphere, gothic architecture, vintage charm, chilling allure",
+    "negative_prompt": "non-eerie atmosphere, absence of gothic architecture, lack of vintage charm, non-chilling allure"
+  },
+  {
+    "name": "Dark Ocean Abyss",
+    "prompt": "dark ocean abyss {prompt} . deep sea, mysterious depths, aquatic beauty, abyssal allure",
+    "negative_prompt": "shallow waters, absence of mysterious depths, lack of aquatic beauty, non-abyssal allure"
+  },
+  {
+    "name": "Nighttime Cityscape",
+    "prompt": "nighttime cityscape {prompt} . urban skyline, city lights, nocturnal beauty, metropolitan allure",
+    "negative_prompt": "daytime skyline, absence of city lights, lack of nocturnal beauty, non-metropolitan allure"
+  },
+  {
+    "name": "Aurora Borealis Magic",
+    "prompt": "Aurora Borealis magic {prompt} . northern lights, celestial wonders, vibrant hues, natural enchantment",
+    "negative_prompt": "absence of northern lights, lack of celestial wonders, dull hues, non-natural enchantment"
+  },
+  {
+    "name": "Surreal Dreamscapes",
+    "prompt": "surreal dreamscapes {prompt} . dreamlike realms, imaginative elements, otherworldly design, artistic surrealism",
+    "negative_prompt": "absence of dreamlike realms, lack of imaginative elements, non-otherworldly design, absence of artistic surrealism"
+  },
+  {
+    "name": "Cinematic Film Noir",
+    "prompt": "cinematic film noir {prompt} . noir aesthetics, moody lighting, classic cinema, mysterious allure",
+    "negative_prompt": "non-noir aesthetics, lack of moody lighting, absence of classic cinema, non-mysterious allure"
+  },
+  {
+    "name": "Underwater Abyss Depths",
+    "prompt": "underwater abyss depths {prompt} . dark marine world, hidden treasures, deep-sea wonder, abyssal beauty",
+    "negative_prompt": "bright marine world, absence of hidden treasures, lack of deep-sea wonder, non-abyssal beauty"
+  },
+  {
+    "name": "Dark Cybernetic Grids",
+    "prompt": "dark cybernetic grids {prompt} . digital networks, futuristic patterns, cyber aesthetics, technological allure",
+    "negative_prompt": "non-digital networks, lack of futuristic patterns, absence of cyber aesthetics, non-technological allure"
+  },
+  {
+    "name": "Space Odyssey Dreams",
+    "prompt": "space odyssey dreams {prompt} . interstellar journey, cosmic beauty, ethereal realms, futuristic allure",
+    "negative_prompt": "non-interstellar journey, lack of cosmic beauty, absence of ethereal realms, non-futuristic allure"
+  },
+  {
+    "name": "Haunted Swamp Mystery",
+    "prompt": "haunted swamp mystery {prompt} . eerie marsh, lurking shadows, supernatural allure, spooky charm",
+    "negative_prompt": "non-eerie marsh, absence of lurking shadows, lack of supernatural allure, non-spooky charm"
+  },
+  {
+    "name": "Dark Wizard's Lair",
+    "prompt": "dark wizard's lair {prompt} . mystical scrolls, enchanted artifacts, magical ambiance, arcane allure",
+    "negative_prompt": "non-mystical scrolls, absence of enchanted artifacts, lack of magical ambiance, non-arcane allure"
+  },
+  {
+    "name": "Gothic Cemetery Silence",
+    "prompt": "gothic cemetery silence {prompt} . ancient tombstones, moonlight glow, solemn tranquility, eerie allure",
+    "negative_prompt": "non-ancient tombstones, absence of moonlight glow, lack of solemn tranquility, non-eerie allure"
+  },
+  {
+    "name": "Dark Castle Mystique",
+    "prompt": "dark castle mystique {prompt} . medieval stronghold, towering spires, gothic majesty, enigmatic allure",
+    "negative_prompt": "non-medieval stronghold, absence of towering spires, lack of gothic majesty, non-enigmatic allure"
+  },
+  {
+    "name": "Epic Fantasy Adventure",
+    "prompt": "epic fantasy adventure film design {prompt} . mythical realms, heroic quests, magical creatures, epic storytelling",
+    "negative_prompt": "non-mythical realms, lack of heroic quests, absence of magical creatures, non-epic storytelling"
+  },
+  {
+    "name": "Sci-Fi Space Opera",
+    "prompt": "sci-fi space opera film design {prompt} . intergalactic wars, futuristic technology, alien civilizations, cosmic drama",
+    "negative_prompt": "non-intergalactic wars, lack of futuristic technology, absence of alien civilizations, non-cosmic drama"
+  },
+  {
+    "name": "Historical Period Drama",
+    "prompt": "historical period drama film design {prompt} . bygone eras, intricate costumes, historical accuracy, dramatic storytelling",
+    "negative_prompt": "non-bygone eras, lack of intricate costumes, historical inaccuracies, non-dramatic storytelling"
+  },
+  {
+    "name": "Dark Thriller Suspense",
+    "prompt": "dark thriller suspense film design {prompt} . psychological tension, enigmatic intrigue, chilling atmosphere, suspenseful storytelling",
+    "negative_prompt": "non-psychological tension, lack of enigmatic intrigue, absence of chilling atmosphere, non-suspenseful storytelling"
+  },
+  {
+    "name": "Comedic Animated Delight",
+    "prompt": "comedic animated delight film design {prompt} . quirky characters, slapstick humor, colorful animation, comedic entertainment",
+    "negative_prompt": "non-quirky characters, lack of slapstick humor, absence of colorful animation, non-comedic entertainment"
+  },
+  {
+    "name": "Romantic Love Story",
+    "prompt": "romantic love story film design {prompt} . passionate relationships, heartwarming moments, emotional connections, romantic storytelling",
+    "negative_prompt": "non-passionate relationships, lack of heartwarming moments, absence of emotional connections, non-romantic storytelling"
+  },
+  {
+    "name": "Action-Packed Blockbuster",
+    "prompt": "action-packed blockbuster film design {prompt} . high-octane stunts, explosive thrills, adrenaline rush, action-packed storytelling",
+    "negative_prompt": "non-high-octane stunts, lack of explosive thrills, absence of adrenaline rush, non-action-packed storytelling"
+  },
+  {
+    "name": "Mystery Detective Noir",
+    "prompt": "mystery detective noir film design {prompt} . shadowy alleys, complex investigations, gritty atmosphere, noir storytelling",
+    "negative_prompt": "non-shadowy alleys, lack of complex investigations, absence of gritty atmosphere, non-noir storytelling"
+  },
+  {
+    "name": "Children's Fantasy Adventure",
+    "prompt": "children's fantasy adventure film design {prompt} . whimsical worlds, young heroes, magical quests, family-friendly storytelling",
+    "negative_prompt": "non-whimsical worlds, lack of young heroes, absence of magical quests, non-family-friendly storytelling"
+  },
+  {
+    "name": "Political Drama Intrigue",
+    "prompt": "political drama intrigue film design {prompt} . power struggles, moral dilemmas, political tension, thought-provoking storytelling",
+    "negative_prompt": "non-power struggles, lack of moral dilemmas, absence of political tension, non-thought-provoking storytelling"
+  },
+  {
+    "name": "Horror Haunted House",
+    "prompt": "horror haunted house film design {prompt} . eerie settings, supernatural terror, paranormal events, spine-chilling storytelling",
+    "negative_prompt": "non-eerie settings, lack of supernatural terror, absence of paranormal events, non-spine-chilling storytelling"
+  },
+  {
+    "name": "Family Animation Magic",
+    "prompt": "family animation magic film design {prompt} . enchanting adventures, endearing characters, imaginative worlds, family-friendly storytelling",
+    "negative_prompt": "non-enchanting adventures, lack of endearing characters, absence of imaginative worlds, non-family-friendly storytelling"
+  },
+  {
+    "name": "Western Outlaw Epic",
+    "prompt": "western outlaw epic film design {prompt} . lawless frontiers, duels at high noon, rugged landscapes, epic western storytelling",
+    "negative_prompt": "non-lawless frontiers, absence of duels at high noon, lack of rugged landscapes, non-epic western storytelling"
+  },
+  {
+    "name": "Musical Extravaganza",
+    "prompt": "musical extravaganza film design {prompt} . show-stopping performances, catchy tunes, dazzling choreography, musical entertainment",
+    "negative_prompt": "non-show-stopping performances, lack of catchy tunes, absence of dazzling choreography, non-musical entertainment"
+  },
+  {
+    "name": "Superhero Action League",
+    "prompt": "superhero action league film design {prompt} . superhuman powers, epic battles, heroic camaraderie, superhero storytelling",
+    "negative_prompt": "non-superhuman powers, lack of epic battles, absence of heroic camaraderie, non-superhero storytelling"
+  },
+  {
+    "name": "Historical War Epic",
+    "prompt": "historical war epic film design {prompt} . epic battles, period costumes, historical accuracy, war epic storytelling",
+    "negative_prompt": "non-epic battles, lack of period costumes, historical inaccuracies, non-war epic storytelling"
+  },
+  {
+    "name": "Sci-Fi Cyberpunk Dystopia",
+    "prompt": "sci-fi cyberpunk dystopia film design {prompt} . high-tech cities, cyberpunk aesthetics, dystopian future, futuristic storytelling",
+    "negative_prompt": "non-high-tech cities, lack of cyberpunk aesthetics, absence of dystopian future, non-futuristic storytelling"
+  },
+  {
+    "name": "Adventure Archaeology Quest",
+    "prompt": "adventure archaeology quest film design {prompt} . ancient relics, daring explorations, archaeological intrigue, adventurous storytelling",
+    "negative_prompt": "non-ancient relics, lack of daring explorations, absence of archaeological intrigue, non-adventurous storytelling"
+  },
+  {
+    "name": "Romantic Comedy Charm",
+    "prompt": "romantic comedy charm film design {prompt} . loveable characters, hilarious situations, heartwarming moments, rom-com storytelling",
+    "negative_prompt": "non-loveable characters, lack of hilarious situations, absence of heartwarming moments, non-rom-com storytelling"
+  },
+  {
+    "name": "Starry Night Sky",
+    "prompt": "starry night sky background illustration {prompt} . celestial beauty, twinkling stars, nocturnal wonder, serene night",
+    "negative_prompt": "lack of celestial beauty, absence of twinkling stars, non-nocturnal wonder, un-serene night"
+  },
+  {
+    "name": "Urban Night Cityscape",
+    "prompt": "urban night cityscape illustration {prompt} . city lights, glowing skyscrapers, bustling nightlife, metropolitan charm",
+    "negative_prompt": "absence of city lights, lack of glowing skyscrapers, absence of bustling nightlife, non-metropolitan charm"
+  },
+  {
+    "name": "Mystical Moonlit Forest",
+    "prompt": "mystical moonlit forest illustration {prompt} . ancient trees, ethereal glow, enchanted forest, magical ambiance",
+    "negative_prompt": "non-ancient trees, lack of ethereal glow, absence of enchanted forest, non-magical ambiance"
+  },
+  {
+    "name": "Beach Bonfire Night",
+    "prompt": "beach bonfire night illustration {prompt} . sandy shores, crackling bonfire, starry skies, coastal relaxation",
+    "negative_prompt": "rocky shores, absence of crackling bonfire, lack of starry skies, non-coastal relaxation"
+  },
+  {
+    "name": "Countryside Moonlit Meadow",
+    "prompt": "countryside moonlit meadow illustration {prompt} . open fields, moonlit serenity, rustic charm, tranquil night",
+    "negative_prompt": "lack of open fields, absence of moonlit serenity, non-rustic charm, un-tranquil night"
+  },
+  {
+    "name": "Sci-Fi Futuristic Night",
+    "prompt": "sci-fi futuristic night illustration {prompt} . neon lights, cyberpunk aesthetics, futuristic city, technological allure",
+    "negative_prompt": "non-neon lights, lack of cyberpunk aesthetics, absence of futuristic city, non-technological allure"
+  },
+  {
+    "name": "Underwater Bioluminescence",
+    "prompt": "underwater bioluminescence illustration {prompt} . vibrant sea life, glowing creatures, oceanic magic, subaquatic beauty",
+    "negative_prompt": "absence of vibrant sea life, lack of glowing creatures, non-oceanic magic, non-subaquatic beauty"
+  },
+  {
+    "name": "Enchanted Castle Courtyard",
+    "prompt": "enchanted castle courtyard illustration {prompt} . medieval architecture, moonlit elegance, regal ambiance, fairy tale night",
+    "negative_prompt": "non-medieval architecture, absence of moonlit elegance, lack of regal ambiance, non-fairy tale night"
+  },
+  {
+    "name": "Mysterious Desert Night",
+    "prompt": "mysterious desert night illustration {prompt} . sand dunes, starry desert, nomadic charm, desert enchantment",
+    "negative_prompt": "absence of sand dunes, lack of starry desert, non-nomadic charm, non-desert enchantment"
+  },
+  {
+    "name": "Dark Haunted Woods",
+    "prompt": "dark haunted woods illustration {prompt} . sinister trees, ghostly figures, haunted atmosphere, eerie night",
+    "negative_prompt": "non-sinister trees, absence of ghostly figures, lack of haunted atmosphere, non-eerie night"
+  },
+  {
+    "name": "Snowy Winter Night",
+    "prompt": "snowy winter night illustration {prompt} . snow-covered landscapes, cozy cabins, wintery charm, cold night",
+    "negative_prompt": "absence of snow-covered landscapes, lack of cozy cabins, non-wintery charm, non-cold night"
+  },
+  {
+    "name": "Haunted Victorian Manor",
+    "prompt": "haunted Victorian manor illustration {prompt} . eerie mansion, flickering candles, gothic elegance, chilling night",
+    "negative_prompt": "non-eerie mansion, absence of flickering candles, lack of gothic elegance, non-chilling night"
+  },
+  {
+    "name": "Mountain Lake Reflection",
+    "prompt": "mountain lake reflection illustration {prompt} . serene lake, towering peaks, reflective waters, mountain tranquility",
+    "negative_prompt": "non-serene lake, absence of towering peaks, lack of reflective waters, non-mountain tranquility"
+  },
+  {
+    "name": "Tropical Island Paradise",
+    "prompt": "tropical island paradise illustration {prompt} . palm trees, moonlit beaches, island escape, exotic night",
+    "negative_prompt": "absence of palm trees, lack of moonlit beaches, non-island escape, non-exotic night"
+  },
+  {
+    "name": "Ancient Temple Ruins",
+    "prompt": "ancient temple ruins illustration {prompt} . weathered stones, moonlight ruins, archaeological mystery, historic night",
+    "negative_prompt": "non-weathered stones, absence of moonlight ruins, lack of archaeological mystery, non-historic night"
+  },
+  {
+    "name": "Firefly Lit Garden",
+    "prompt": "firefly lit garden illustration {prompt} . enchanting garden, twinkling fireflies, magical charm, summer night",
+    "negative_prompt": "non-enchanting garden, absence of twinkling fireflies, lack of magical charm, non-summer night"
+  },
+  {
+    "name": "Desert Oasis Serenity",
+    "prompt": "desert oasis serenity illustration {prompt} . palm groves, moonlit oasis, desert tranquility, Arabian night",
+    "negative_prompt": "non-palm groves, absence of moonlit oasis, lack of desert tranquility, non-Arabian night"
+  },
+  {
+    "name": "Underground Cave Mystique",
+    "prompt": "underground cave mystique illustration {prompt} . stalactites, subterranean wonders, hidden secrets, cave exploration",
+    "negative_prompt": "non-stalactites, absence of subterranean wonders, lack of hidden secrets, non-cave exploration"
+  },
+  {
+    "name": "Japanese Cherry Blossoms",
+    "prompt": "Japanese cherry blossoms illustration {prompt} . sakura trees, moonlit petals, springtime beauty, cherry blossom night",
+    "negative_prompt": "non-sakura trees, absence of moonlit petals, lack of springtime beauty, non-cherry blossom night"
+  },
+  {
+    "name": "Vintage Floral Patterns",
+    "prompt": "vintage floral patterns {prompt} . classic motifs, antique charm, elegant design, nostalgic beauty",
+    "negative_prompt": "modern patterns, lack of antique charm, unrefined design, non-nostalgic look"
+  },
+  {
+    "name": "Abstract Watercolor Splashes",
+    "prompt": "abstract watercolor splashes {prompt} . vibrant colors, artistic expression, fluid design, creative freedom",
+    "negative_prompt": "dull colors, lack of artistic expression, rigid design, lack of creative freedom"
+  },
+  {
+    "name": "Geometric Minimalist Patterns",
+    "prompt": "geometric minimalist patterns {prompt} . clean lines, abstract shapes, modern simplicity, minimalist elegance",
+    "negative_prompt": "non-clean lines, absence of abstract shapes, lack of modern simplicity, non-minimalist elegance"
+  },
+  {
+    "name": "Tropical Palm Leaf Patterns",
+    "prompt": "tropical palm leaf patterns {prompt} . exotic foliage, lush greens, beach vibes, tropical allure",
+    "negative_prompt": "non-exotic foliage, absence of lush greens, lack of beach vibes, non-tropical allure"
+  },
+  {
+    "name": "Polka Dot Delight",
+    "prompt": "polka dot pattern {prompt} . playful dots, vibrant colors, retro charm, polka dot fun",
+    "negative_prompt": "non-playful dots, lack of vibrant colors, absence of retro charm, non-polka dot fun"
+  },
+  {
+    "name": "Moroccan Tile Patterns",
+    "prompt": "Moroccan tile patterns {prompt} . intricate designs, earthy colors, cultural richness, Moroccan beauty",
+    "negative_prompt": "non-intricate designs, lack of earthy colors, absence of cultural richness, non-Moroccan beauty"
+  },
+  {
+    "name": "Animal Print Chic",
+    "prompt": "animal print patterns {prompt} . exotic textures, wildlife inspiration, bold design, animal print allure",
+    "negative_prompt": "non-exotic textures, lack of wildlife inspiration, absence of bold design, non-animal print allure"
+  },
+  {
+    "name": "Nautical Stripes",
+    "prompt": "nautical stripes {prompt} . navy blues, seaside vibes, maritime charm, striped elegance",
+    "negative_prompt": "non-navy blues, absence of seaside vibes, lack of maritime charm, non-striped elegance"
+  },
+  {
+    "name": "Mosaic Tile Artistry",
+    "prompt": "mosaic tile patterns {prompt} . mosaic beauty, colorful tiles, cultural design, mosaic allure",
+    "negative_prompt": "non-mosaic beauty, lack of colorful tiles, absence of cultural design, non-mosaic allure"
+  },
+  {
+    "name": "Bohemian Dreamcatchers",
+    "prompt": "Bohemian dreamcatcher patterns {prompt} . dreamy motifs, earthy tones, boho vibes, dreamcatcher charm",
+    "negative_prompt": "non-dreamy motifs, lack of earthy tones, absence of boho vibes, non-dreamcatcher charm"
+  },
+  {
+    "name": "Gingham Checkered Patterns",
+    "prompt": "gingham checkered patterns {prompt} . checkered design, picnic vibes, timeless charm, checkered allure",
+    "negative_prompt": "non-checkered design, absence of picnic vibes, lack of timeless charm, non-checkered allure"
+  },
+  {
+    "name": "Ikat Inspired Patterns",
+    "prompt": "Ikat inspired patterns {prompt} . global motifs, tribal influences, vibrant design, Ikat allure",
+    "negative_prompt": "non-global motifs, lack of tribal influences, absence of vibrant design, non-Ikat allure"
+  },
+  {
+    "name": "Art Deco Elegance",
+    "prompt": "Art Deco patterns {prompt} . geometric precision, metallic accents, retro glamour, Art Deco allure",
+    "negative_prompt": "non-geometric precision, absence of metallic accents, lack of retro glamour, non-Art Deco allure"
+  },
+  {
+    "name": "Herringbone Sophistication",
+    "prompt": "herringbone patterns {prompt} . herringbone design, tailored style, classic elegance, herringbone allure",
+    "negative_prompt": "non-herringbone design, absence of tailored style, lack of classic elegance, non-herringbone allure"
+  },
+  {
+    "name": "Japanese Cherry Blossoms",
+    "prompt": "Japanese cherry blossoms patterns {prompt} . sakura motifs, delicate petals, springtime beauty, cherry blossom charm",
+    "negative_prompt": "non-sakura motifs, lack of delicate petals, absence of springtime beauty, non-cherry blossom charm"
+  },
+  {
+    "name": "Boho Feather Whimsy",
+    "prompt": "Boho feather patterns {prompt} . feather motifs, earthy colors, boho vibes, feathered allure",
+    "negative_prompt": "non-feather motifs, lack of earthy colors, absence of boho vibes, non-feathered allure"
+  },
+  {
+    "name": "Tribal Aztec Patterns",
+    "prompt": "Tribal Aztec patterns {prompt} . tribal designs, earthy tones, cultural richness, tribal allure",
+    "negative_prompt": "non-tribal designs, lack of earthy tones, absence of cultural richness, non-tribal allure"
+  },
+  {
+    "name": "Mandala Meditative Art",
+    "prompt": "Mandala patterns {prompt} . intricate mandalas, calming colors, spiritual design, Mandala allure",
+    "negative_prompt": "non-intricate mandalas, lack of calming colors, absence of spiritual design, non-Mandala allure"
+  },
+  {
+    "name": "Paisley Perfection",
+    "prompt": "Paisley patterns {prompt} . paisley motifs, rich colors, boho chic, paisley allure",
+    "negative_prompt": "non-paisley motifs, lack of rich colors, absence of boho chic, non-paisley allure"
+  },
+  {
+    "name": "Tropical Banana Leaves",
+    "prompt": "tropical banana leaf patterns {prompt} . exotic foliage, lush greens, paradise vibes, tropical allure",
+    "negative_prompt": "non-exotic foliage, absence of lush greens, lack of paradise vibes, non-tropical allure"
+  },
+  {
+    "name": "Mediterranean Tiles",
+    "prompt": "Mediterranean tile patterns {prompt} . decorative tiles, warm tones, Mediterranean charm, tiled allure",
+    "negative_prompt": "non-decorative tiles, lack of warm tones, absence of Mediterranean charm, non-tiled allure"
+  },
+  {
+    "name": "Tie-Dye Groovy Vibes",
+    "prompt": "Tie-dye patterns {prompt} . tie-dye style, vibrant colors, retro vibes, tie-dye allure",
+    "negative_prompt": "non-tie-dye style, lack of vibrant colors, absence of retro vibes, non-tie-dye allure"
+  },
+  {
+    "name": "Woodland Forest Patterns",
+    "prompt": "woodland forest patterns {prompt} . forest motifs, earthy hues, natural beauty, forest allure",
+    "negative_prompt": "non-forest motifs, lack of earthy hues, absence of natural beauty, non-forest allure"
+  },
+  {
+    "name": "Artistic Brush Strokes",
+    "prompt": "artistic brush stroke patterns {prompt} . expressive strokes, painterly design, artistic freedom, brush stroke allure",
+    "negative_prompt": "non-expressive strokes, absence of painterly design, lack of artistic freedom, non-brush stroke allure"
+  },
+  {
+    "name": "Tropical Pineapple Paradise",
+    "prompt": "tropical pineapple patterns {prompt} . pineapple motifs, vibrant colors, island vibes, pineapple allure",
+    "negative_prompt": "non-pineapple motifs, lack of vibrant colors, absence of island vibes, non-pineapple allure"
+  },
+  {
+    "name": "Gothic Lace Elegance",
+    "prompt": "gothic lace patterns {prompt} . intricate lace, dark elegance, gothic allure, lacey charm",
+    "negative_prompt": "non-intricate lace, absence of dark elegance, lack of gothic allure, non-lacey charm"
+  },
+  {
+    "name": "Art Nouveau Delicacy",
+    "prompt": "Art Nouveau patterns {prompt} . curving lines, floral motifs, ornate design, Art Nouveau allure",
+    "negative_prompt": "non-curving lines, lack of floral motifs, absence of ornate design, non-Art Nouveau allure"
+  },
+  {
+    "name": "Nordic Scandinavian Patterns",
+    "prompt": "Nordic Scandinavian patterns {prompt} . Nordic designs, muted tones, Scandinavian simplicity, Nordic allure",
+    "negative_prompt": "non-Nordic designs, absence of muted tones, lack of Scandinavian simplicity, non-Nordic allure"
+  },
+  {
+    "name": "African Safari Adventure",
+    "prompt": "African safari patterns {prompt} . safari motifs, earthy colors, wild adventure, safari allure",
+    "negative_prompt": "non-safari motifs, lack of earthy colors, absence of wild adventure, non-safari allure"
+  },
+  {
+    "name": "Kaleidoscope Whirlwind",
+    "prompt": "kaleidoscope patterns {prompt} . kaleidoscope motifs, vibrant hues, psychedelic design, kaleidoscope allure",
+    "negative_prompt": "non-kaleidoscope motifs, lack of vibrant hues, absence of psychedelic design, non-kaleidoscope allure"
+  },
+  {
+    "name": "Retro Neon Cityscape",
+    "prompt": "retro neon cityscape design {prompt} . neon lights, futuristic city, '80s vibes, cyberpunk allure",
+    "negative_prompt": "absence of neon lights, lack of futuristic city, non-'80s vibes, non-cyberpunk allure"
+  },
+  {
+    "name": "Synthwave Sunset Drive",
+    "prompt": "synthwave sunset drive design {prompt} . retro cars, glowing sunsets, nostalgic cruising, synthwave vibes",
+    "negative_prompt": "non-retro cars, absence of glowing sunsets, lack of nostalgic cruising, non-synthwave vibes"
+  },
+  {
+    "name": "VHS Aesthetic Revival",
+    "prompt": "VHS aesthetic revival design {prompt} . VHS glitches, retro overlays, analog charm, VHS nostalgia",
+    "negative_prompt": "non-VHS glitches, absence of retro overlays, lack of analog charm, non-VHS nostalgia"
+  },
+  {
+    "name": "Futuristic Grid Patterns",
+    "prompt": "futuristic grid patterns {prompt} . digital grids, cyber aesthetics, futuristic design, grid allure",
+    "negative_prompt": "non-digital grids, lack of cyber aesthetics, absence of futuristic design, non-grid allure"
+  },
+  {
+    "name": "Retro Arcade Adventures",
+    "prompt": "retro arcade adventures design {prompt} . pixel art, arcade games, '80s gaming, pixelated allure",
+    "negative_prompt": "non-pixel art, absence of arcade games, lack of '80s gaming, non-pixelated allure"
+  },
+  {
+    "name": "Outrun Car Chase",
+    "prompt": "Outrun car chase design {prompt} . retro cars, outrun aesthetics, high-speed action, outrun vibes",
+    "negative_prompt": "non-retro cars, lack of outrun aesthetics, absence of high-speed action, non-outrun vibes"
+  },
+  {
+    "name": "Retro Synth Album Art",
+    "prompt": "retro synth album art design {prompt} . album cover, synthwave music, '80s nostalgia, music vibes",
+    "negative_prompt": "non-album cover, absence of synthwave music, lack of '80s nostalgia, non-music vibes"
+  },
+  {
+    "name": "Digital Glitch Artistry",
+    "prompt": "digital glitch artistry design {prompt} . glitch effects, pixel distortion, digital chaos, glitch allure",
+    "negative_prompt": "non-glitch effects, absence of pixel distortion, lack of digital chaos, non-glitch allure"
+  },
+  {
+    "name": "Retro Futurism Dreams",
+    "prompt": "retro futurism dreams design {prompt} . futuristic concepts, vintage aesthetics, sci-fi vibes, retro-futurist allure",
+    "negative_prompt": "non-futuristic concepts, absence of vintage aesthetics, lack of sci-fi vibes, non-retro-futurist allure"
+  },
+  {
+    "name": "Synthwave Beach Sunset",
+    "prompt": "synthwave beach sunset design {prompt} . palm trees, beach vibes, neon sunsets, coastal synthwave",
+    "negative_prompt": "non-palm trees, absence of beach vibes, lack of neon sunsets, non-coastal synthwave"
+  },
+  {
+    "name": "Vaporwave Dreamscape",
+    "prompt": "vaporwave dreamscape design {prompt} . surreal landscapes, pastel hues, dreamy aesthetics, vaporwave allure",
+    "negative_prompt": "non-surreal landscapes, absence of pastel hues, lack of dreamy aesthetics, non-vaporwave allure"
+  },
+  {
+    "name": "Cyberpunk Night City",
+    "prompt": "cyberpunk night city design {prompt} . futuristic skyscrapers, cyberpunk vibes, neon-lit city, cyberpunk allure",
+    "negative_prompt": "non-futuristic skyscrapers, lack of cyberpunk vibes, absence of neon-lit city, non-cyberpunk allure"
+  },
+  {
+    "name": "Synthwave Star Cruiser",
+    "prompt": "synthwave star cruiser design {prompt} . retro spaceships, cosmic journeys, retro-futurism, space synthwave",
+    "negative_prompt": "non-retro spaceships, absence of cosmic journeys, lack of retro-futurism, non-space synthwave"
+  },
+  {
+    "name": "Retro Technology Revival",
+    "prompt": "retro technology revival design {prompt} . vintage gadgets, tech nostalgia, analog design, retro tech vibes",
+    "negative_prompt": "non-vintage gadgets, absence of tech nostalgia, lack of analog design, non-retro tech vibes"
+  },
+  {
+    "name": "Futuristic Samurai Aesthetics",
+    "prompt": "futuristic samurai aesthetics design {prompt} . cyber samurai, high-tech Japan, sci-fi warriors, samurai allure",
+    "negative_prompt": "non-cyber samurai, absence of high-tech Japan, lack of sci-fi warriors, non-samurai allure"
+  },
+  {
+    "name": "Retro Gaming Joysticks",
+    "prompt": "retro gaming joysticks design {prompt} . arcade controllers, gaming nostalgia, '80s gaming, joystick allure",
+    "negative_prompt": "non-arcade controllers, absence of gaming nostalgia, lack of '80s gaming, non-joystick allure"
+  },
+  {
+    "name": "Space Odyssey Synthwave",
+    "prompt": "space odyssey synthwave design {prompt} . cosmic exploration, retro-futurism, space vibes, space synthwave allure",
+    "negative_prompt": "non-cosmic exploration, absence of retro-futurism, lack of space vibes, non-space synthwave allure"
+  },
+  {
+    "name": "Retro Future Cybercity",
+    "prompt": "retro future cybercity design {prompt} . dystopian metropolis, cyberpunk aesthetics, neon lights, cybercity allure",
+    "negative_prompt": "non-dystopian metropolis, absence of cyberpunk aesthetics, lack of neon lights, non-cybercity allure"
+  },
+  {
+    "name": "Digital Dreamscape Sunset",
+    "prompt": "digital dreamscape sunset design {prompt} . surreal landscapes, neon sunsets, digital aesthetics, dreamy synthwave",
+    "negative_prompt": "non-surreal landscapes, absence of neon sunsets, lack of digital aesthetics, non-dreamy synthwave"
+  },
+  {
+    "name": "Vintage Rock Band",
+    "prompt": "vintage rock band t-shirt design {prompt} . retro concert vibes, classic rock, music passion, rock 'n' roll style",
+    "negative_prompt": "non-retro concert vibes, absence of classic rock, lack of music passion, non-rock 'n' roll style"
+  },
+  {
+    "name": "Typography Minimalism",
+    "prompt": "typography minimalism t-shirt design {prompt} . clean fonts, subtle messages, minimalistic charm, stylish simplicity",
+    "negative_prompt": "non-clean fonts, absence of subtle messages, lack of minimalistic charm, non-stylish simplicity"
+  },
+  {
+    "name": "Abstract Artistic Expression",
+    "prompt": "abstract artistic expression t-shirt design {prompt} . creative patterns, vibrant colors, abstract beauty, artistic freedom",
+    "negative_prompt": "non-creative patterns, absence of vibrant colors, lack of abstract beauty, non-artistic freedom"
+  },
+  {
+    "name": "Gaming Geek Chic",
+    "prompt": "gaming geek chic t-shirt design {prompt} . gaming icons, pixel art, gaming culture, geeky coolness",
+    "negative_prompt": "non-gaming icons, absence of pixel art, lack of gaming culture, non-geeky coolness"
+  },
+  {
+    "name": "Vintage Surf Paradise",
+    "prompt": "vintage surf paradise t-shirt design {prompt} . retro surfboards, beach vibes, sun-kissed days, surf style",
+    "negative_prompt": "non-retro surfboards, absence of beach vibes, lack of sun-kissed days, non-surf style"
+  },
+  {
+    "name": "Funny Cartoon Characters",
+    "prompt": "funny cartoon characters t-shirt design {prompt} . quirky cartoons, humor explosion, cartoon fun, laughter vibes",
+    "negative_prompt": "non-quirky cartoons, absence of humor explosion, lack of cartoon fun, non-laughter vibes"
+  },
+  {
+    "name": "Wildlife Nature Explorer",
+    "prompt": "wildlife nature explorer t-shirt design {prompt} . animal illustrations, outdoorsy charm, nature lover, wildlife adventure",
+    "negative_prompt": "non-animal illustrations, absence of outdoorsy charm, lack of nature lover, non-wildlife adventure"
+  },
+  {
+    "name": "Pop Culture Icons",
+    "prompt": "pop culture icons t-shirt design {prompt} . legendary figures, cultural references, pop culture vibes, iconic allure",
+    "negative_prompt": "non-legendary figures, absence of cultural references, lack of pop culture vibes, non-iconic allure"
+  },
+  {
+    "name": "Hip-Hop Urban Swag",
+    "prompt": "hip-hop urban swag t-shirt design {prompt} . graffiti art, street style, hip-hop beats, urban coolness",
+    "negative_prompt": "non-graffiti art, absence of street style, lack of hip-hop beats, non-urban coolness"
+  },
+  {
+    "name": "Sci-Fi Space Explorer",
+    "prompt": "sci-fi space explorer t-shirt design {prompt} . futuristic galaxies, cosmic adventures, space vibes, sci-fi allure",
+    "negative_prompt": "non-futuristic galaxies, absence of cosmic adventures, lack of space vibes, non-sci-fi allure"
+  },
+  {
+    "name": "Tropical Island Vibes",
+    "prompt": "tropical island vibes t-shirt design {prompt} . palm trees, beach relaxation, island life, tropical paradise",
+    "negative_prompt": "non-palm trees, absence of beach relaxation, lack of island life, non-tropical paradise"
+  },
+  {
+    "name": "Fitness Motivation",
+    "prompt": "fitness motivation t-shirt design {prompt} . workout inspiration, active lifestyle, fitness vibes, health and wellness",
+    "negative_prompt": "non-workout inspiration, absence of active lifestyle, lack of fitness vibes, non-health and wellness"
+  },
+  {
+    "name": "Wild West Cowboys",
+    "prompt": "Wild West cowboys t-shirt design {prompt} . rugged cowboys, dusty trails, Western adventure, cowboy style",
+    "negative_prompt": "non-rugged cowboys, absence of dusty trails, lack of Western adventure, non-cowboy style"
+  },
+  {
+    "name": "Cute Animal Illustrations",
+    "prompt": "cute animal illustrations t-shirt design {prompt} . adorable creatures, animal lover, cute and cuddly, animal magic",
+    "negative_prompt": "non-adorable creatures, absence of animal lover, lack of cute and cuddly, non-animal magic"
+  },
+  {
+    "name": "Motorcycle Riders Club",
+    "prompt": "motorcycle riders club t-shirt design {prompt} . biker culture, freedom on wheels, motorcycle passion, road adventures",
+    "negative_prompt": "non-biker culture, absence of freedom on wheels, lack of motorcycle passion, non-road adventures"
+  },
+  {
+    "name": "Gothic Dark Aesthetics",
+    "prompt": "gothic dark aesthetics t-shirt design {prompt} . dark elegance, Gothic charm, alternative style, mysterious allure",
+    "negative_prompt": "non-dark elegance, absence of Gothic charm, lack of alternative style, non-mysterious allure"
+  },
+  {
+    "name": "Skateboard Street Art",
+    "prompt": "skateboard street art t-shirt design {prompt} . urban skaters, street culture, skateboarding vibes, skate artistry",
+    "negative_prompt": "non-urban skaters, absence of street culture, lack of skateboarding vibes, non-skate artistry"
+  },
+  {
+    "name": "Vintage Travel Adventure",
+    "prompt": "vintage travel adventure t-shirt design {prompt} . retro maps, exploration vibes, wanderlust charm, travel adventures",
+    "negative_prompt": "non-retro maps, absence of exploration vibes, lack of wanderlust charm, non-travel adventures"
+  },
+  {
+    "name": "Culinary Foodie Delight",
+    "prompt": "culinary foodie delight t-shirt design {prompt} . gourmet cuisine, food lover, culinary vibes, delicious indulgence",
+    "negative_prompt": "non-gourmet cuisine, absence of food lover, lack of culinary vibes, non-delicious indulgence"
+  },
+  {
+    "name": "Tribal Indigenous Art",
+    "prompt": "tribal indigenous art t-shirt design {prompt} . tribal motifs, cultural heritage, indigenous charm, tribal allure",
+    "negative_prompt": "non-tribal motifs, absence of cultural heritage, lack of indigenous charm, non-tribal allure"
+  },
+  {
+    "name": "Vintage Camera Photography",
+    "prompt": "vintage camera photography t-shirt design {prompt} . vintage cameras, photography passion, classic charm, retro photographer",
+    "negative_prompt": "non-vintage cameras, absence of photography passion, lack of classic charm, non-retro photographer"
+  },
+  {
+    "name": "Botanical Garden Serenity",
+    "prompt": "botanical garden serenity t-shirt design {prompt} . lush foliage, garden lover, botanical beauty, peaceful nature",
+    "negative_prompt": "non-lush foliage, absence of garden lover, lack of botanical beauty, non-peaceful nature"
+  },
+  {
+    "name": "Literary Bookworm",
+    "prompt": "literary bookworm t-shirt design {prompt} . bookshelf love, reading passion, literary vibes, bookworm charm",
+    "negative_prompt": "non-bookshelf love, absence of reading passion, lack of literary vibes, non-bookworm charm"
+  },
+  {
+    "name": "Dinosaur Enthusiast",
+    "prompt": "dinosaur enthusiast t-shirt design {prompt} . prehistoric creatures, paleontology fun, dino vibes, Jurassic excitement",
+    "negative_prompt": "non-prehistoric creatures, absence of paleontology fun, lack of dino vibes, non-Jurassic excitement"
+  },
+  {
+    "name": "Surfboard Paradise",
+    "prompt": "surfboard paradise t-shirt design {prompt} . colorful boards, beach vibes, wave riding, surf's up style",
+    "negative_prompt": "non-colorful boards, absence of beach vibes, lack of wave riding, non-surf's up style"
+  },
+  {
+    "name": "Retro Space Explorers",
+    "prompt": "retro space explorers t-shirt design {prompt} . vintage astronauts, cosmic adventures, space vibes, retro space allure",
+    "negative_prompt": "non-vintage astronauts, absence of cosmic adventures, lack of space vibes, non-retro space allure"
+  },
+  {
+    "name": "Artistic Paintbrush Strokes",
+    "prompt": "artistic paintbrush strokes t-shirt design {prompt} . expressive brushwork, painterly design, artistic freedom, brush stroke allure",
+    "negative_prompt": "non-expressive brushwork, absence of painterly design, lack of artistic freedom, non-brush stroke allure"
+  },
+  {
+    "name": "Abstract Galaxy Dreams",
+    "prompt": "abstract galaxy dreams t-shirt design {prompt} . cosmic artworks, nebula inspirations, dreamy aesthetics, galaxy allure",
+    "negative_prompt": "non-cosmic artworks, absence of nebula inspirations, lack of dreamy aesthetics, non-galaxy allure"
+  },
+  {
+    "name": "Mystery Thriller Suspense",
+    "prompt": "mystery thriller suspense book cover {prompt} . intriguing clues, dark secrets, suspenseful atmosphere, thriller vibes",
+    "negative_prompt": "absence of intriguing clues, lack of dark secrets, absence of suspenseful atmosphere, non-thriller vibes"
+  },
+  {
+    "name": "Romantic Love Story",
+    "prompt": "romantic love story book cover {prompt} . passionate embrace, heartwarming moments, love's enchantment, romance vibes",
+    "negative_prompt": "absence of passionate embrace, lack of heartwarming moments, absence of love's enchantment, non-romance vibes"
+  },
+  {
+    "name": "Science Fiction Adventure",
+    "prompt": "science fiction adventure book cover {prompt} . futuristic worlds, epic journeys, sci-fi wonder, adventure vibes",
+    "negative_prompt": "absence of futuristic worlds, lack of epic journeys, absence of sci-fi wonder, non-adventure vibes"
+  },
+  {
+    "name": "Fantasy Magic Realms",
+    "prompt": "fantasy magic realms book cover {prompt} . mythical creatures, enchanted lands, magical adventures, fantasy vibes",
+    "negative_prompt": "absence of mythical creatures, lack of enchanted lands, absence of magical adventures, non-fantasy vibes"
+  },
+  {
+    "name": "Historical Fiction Drama",
+    "prompt": "historical fiction drama book cover {prompt} . bygone eras, human struggles, historical drama, fiction vibes",
+    "negative_prompt": "absence of bygone eras, lack of human struggles, absence of historical drama, non-fiction vibes"
+  },
+  {
+    "name": "Biography Memoir",
+    "prompt": "biography memoir book cover {prompt} . life's journey, personal reflections, biographical depth, memoir vibes",
+    "negative_prompt": "absence of life's journey, lack of personal reflections, absence of biographical depth, non-memoir vibes"
+  },
+  {
+    "name": "Children's Adventure",
+    "prompt": "children's adventure book cover {prompt} . playful escapades, young heroes, adventure for kids, childlike wonder",
+    "negative_prompt": "absence of playful escapades, lack of young heroes, absence of adventure for kids, non-childlike wonder"
+  },
+  {
+    "name": "Self-Help Motivation",
+    "prompt": "self-help motivation book cover {prompt} . personal growth, inspirational guidance, motivational vibes, self-help allure",
+    "negative_prompt": "absence of personal growth, lack of inspirational guidance, absence of motivational vibes, non-self-help allure"
+  },
+  {
+    "name": "Cookbook Culinary Delights",
+    "prompt": "cookbook culinary delights book cover {prompt} . mouthwatering recipes, culinary artistry, culinary delight, cookbook magic",
+    "negative_prompt": "absence of mouthwatering recipes, lack of culinary artistry, absence of culinary delight, non-cookbook magic"
+  },
+  {
+    "name": "Travel Adventure Journal",
+    "prompt": "travel adventure journal book cover {prompt} . exotic destinations, travel diaries, adventure memories, wanderlust allure",
+    "negative_prompt": "absence of exotic destinations, lack of travel diaries, absence of adventure memories, non-wanderlust allure"
+  },
+  {
+    "name": "Horror Gothic Chills",
+    "prompt": "horror gothic chills book cover {prompt} . spine-tingling horrors, eerie landscapes, gothic shivers, horror vibes",
+    "negative_prompt": "absence of spine-tingling horrors, lack of eerie landscapes, absence of gothic shivers, non-horror vibes"
+  },
+  {
+    "name": "Poetry Artistic Expression",
+    "prompt": "poetry artistic expression book cover {prompt} . lyrical verses, artistic elegance, poetic expression, poetry vibes",
+    "negative_prompt": "absence of lyrical verses, lack of artistic elegance, absence of poetic expression, non-poetry vibes"
+  },
+  {
+    "name": "Science Non-Fiction",
+    "prompt": "science non-fiction book cover {prompt} . scientific wonders, intellectual exploration, scientific allure, non-fiction vibes",
+    "negative_prompt": "absence of scientific wonders, lack of intellectual exploration, absence of scientific allure, non-non-fiction vibes"
+  },
+  {
+    "name": "Business Success Guide",
+    "prompt": "business success guide book cover {prompt} . entrepreneurial wisdom, success strategies, business allure, guide vibes",
+    "negative_prompt": "absence of entrepreneurial wisdom, lack of success strategies, absence of business allure, non-guide vibes"
+  },
+  {
+    "name": "Art & Photography Showcase",
+    "prompt": "art & photography showcase book cover {prompt} . visual masterpieces, creative exploration, artistic allure, showcase vibes",
+    "negative_prompt": "absence of visual masterpieces, lack of creative exploration, absence of artistic allure, non-showcase vibes"
+  },
+  {
+    "name": "Dystopian Future Worlds",
+    "prompt": "dystopian future worlds book cover {prompt} . post-apocalyptic visions, dark futures, dystopian allure, futuristic vibes",
+    "negative_prompt": "absence of post-apocalyptic visions, lack of dark futures, absence of dystopian allure, non-futuristic vibes"
+  },
+  {
+    "name": "Young Adult Fantasy",
+    "prompt": "young adult fantasy book cover {prompt} . magical adventures, young heroes, fantasy wonder, YA vibes",
+    "negative_prompt": "absence of magical adventures, lack of young heroes, absence of fantasy wonder, non-YA vibes"
+  },
+  {
+    "name": "Psychological Thriller",
+    "prompt": "psychological thriller book cover {prompt} . mind-bending mysteries, psychological suspense, thriller allure, thriller vibes",
+    "negative_prompt": "absence of mind-bending mysteries, lack of psychological suspense, absence of thriller allure, non-thriller vibes"
+  },
+  {
+    "name": "Historical Romance",
+    "prompt": "historical romance book cover {prompt} . love through eras, historical passion, romantic allure, romance vibes",
+    "negative_prompt": "absence of love through eras, lack of historical passion, absence of romantic allure, non-romance vibes"
+  },
+  {
+    "name": "Whimsical Doodle Art",
+    "prompt": "whimsical doodle art {prompt} . playful sketches, imaginative creations, whimsical charm, doodle vibes",
+    "negative_prompt": "absence of playful sketches, lack of imaginative creations, absence of whimsical charm, non-doodle vibes"
+  },
+  {
+    "name": "Vintage Hand Lettering",
+    "prompt": "vintage hand lettering {prompt} . ornate script, retro elegance, vintage allure, lettering magic",
+    "negative_prompt": "absence of ornate script, lack of retro elegance, absence of vintage allure, non-lettering magic"
+  },
+  {
+    "name": "Botanical Sketches",
+    "prompt": "botanical sketches {prompt} . intricate florals, natural beauty, botanical allure, sketchbook artistry",
+    "negative_prompt": "absence of intricate florals, lack of natural beauty, absence of botanical allure, non-sketchbook artistry"
+  },
+  {
+    "name": "Cute Hand-Drawn Animals",
+    "prompt": "cute hand-drawn animals {prompt} . adorable creatures, animal magic, hand-drawn charm, cute vibes",
+    "negative_prompt": "absence of adorable creatures, lack of animal magic, absence of hand-drawn charm, non-cute vibes"
+  },
+  {
+    "name": "Abstract Ink Splatters",
+    "prompt": "abstract ink splatters {prompt} . expressive strokes, ink magic, abstract allure, splatter artistry",
+    "negative_prompt": "absence of expressive strokes, lack of ink magic, absence of abstract allure, non-splatter artistry"
+  },
+  {
+    "name": "Watercolor Dreamscape",
+    "prompt": "watercolor dreamscape {prompt} . dreamy washes, artistic expressions, watercolor charm, dreamlike vibes",
+    "negative_prompt": "absence of dreamy washes, lack of artistic expressions, absence of watercolor charm, non-dreamlike vibes"
+  },
+  {
+    "name": "Hand-Drawn Mandala Art",
+    "prompt": "hand-drawn mandala art {prompt} . intricate patterns, spiritual design, mandala allure, hand-drawn magic",
+    "negative_prompt": "absence of intricate patterns, lack of spiritual design, absence of mandala allure, non-hand-drawn magic"
+  },
+  {
+    "name": "Paisley Perfection",
+    "prompt": "paisley patterns {prompt} . paisley motifs, rich colors, boho chic, paisley allure",
+    "negative_prompt": "absence of paisley motifs, lack of rich colors, absence of boho chic, non-paisley allure"
+  },
+  {
+    "name": "Tropical Banana Leaves",
+    "prompt": "tropical banana leaf patterns {prompt} . exotic foliage, lush greens, paradise vibes, tropical allure",
+    "negative_prompt": "absence of exotic foliage, lack of lush greens, absence of paradise vibes, non-tropical allure"
+  },
+  {
+    "name": "Mediterranean Tiles",
+    "prompt": "Mediterranean tile patterns {prompt} . decorative tiles, warm tones, Mediterranean charm, tiled allure",
+    "negative_prompt": "absence of decorative tiles, lack of warm tones, absence of Mediterranean charm, non-tiled allure"
+  },
+  {
+    "name": "Tie-Dye Groovy Vibes",
+    "prompt": "tie-dye patterns {prompt} . tie-dye style, vibrant colors, retro vibes, tie-dye allure",
+    "negative_prompt": "absence of tie-dye style, lack of vibrant colors, absence of retro vibes, non-tie-dye allure"
+  },
+  {
+    "name": "Woodland Forest Patterns",
+    "prompt": "woodland forest patterns {prompt} . forest motifs, earthy hues, natural beauty, forest allure",
+    "negative_prompt": "absence of forest motifs, lack of earthy hues, absence of natural beauty, non-forest allure"
+  },
+  {
+    "name": "Artistic Brush Strokes",
+    "prompt": "artistic brush stroke patterns {prompt} . expressive strokes, painterly design, artistic freedom, brush stroke allure",
+    "negative_prompt": "absence of expressive strokes, lack of painterly design, absence of artistic freedom, non-brush stroke allure"
+  },
+  {
+    "name": "Tropical Pineapple Paradise",
+    "prompt": "tropical pineapple patterns {prompt} . pineapple motifs, vibrant colors, island vibes, pineapple allure",
+    "negative_prompt": "absence of pineapple motifs, lack of vibrant colors, absence of island vibes, non-pineapple allure"
+  },
+  {
+    "name": "Gothic Lace Elegance",
+    "prompt": "gothic lace patterns {prompt} . intricate lace, dark elegance, gothic allure, lacey charm",
+    "negative_prompt": "absence of intricate lace, lack of dark elegance, absence of gothic allure, non-lacey charm"
+  },
+  {
+    "name": "Art Nouveau Delicacy",
+    "prompt": "Art Nouveau patterns {prompt} . curving lines, floral motifs, ornate design, Art Nouveau allure",
+    "negative_prompt": "absence of curving lines, lack of floral motifs, absence of ornate design, non-Art Nouveau allure"
+  },
+  {
+    "name": "Nordic Scandinavian Patterns",
+    "prompt": "Nordic Scandinavian patterns {prompt} . Nordic designs, muted tones, Scandinavian simplicity, Nordic allure",
+    "negative_prompt": "absence of Nordic designs, lack of muted tones, absence of Scandinavian simplicity, non-Nordic allure"
+  },
+  {
+    "name": "African Safari Adventure",
+    "prompt": "African safari patterns {prompt} . safari motifs, earthy colors, wild adventure, safari allure",
+    "negative_prompt": "absence of safari motifs, lack of earthy colors, absence of wild adventure, non-safari allure"
+  },
+  {
+    "name": "Kaleidoscope Whirlwind",
+    "prompt": "kaleidoscope patterns {prompt} . kaleidoscope motifs, vibrant hues, psychedelic design, kaleidoscope allure",
+    "negative_prompt": "absence of kaleidoscope motifs, lack of vibrant hues, absence of psychedelic design, non-kaleidoscope allure"
+  },
+  {
+    "name": "Vibrant Geometric Abstraction",
+    "prompt": "vibrant geometric abstraction {prompt} . bold shapes, vivid colors, abstract allure, geometric vibes",
+    "negative_prompt": "absence of bold shapes, lack of vivid colors, absence of abstract allure, non-geometric vibes"
+  },
+  {
+    "name": "Fluid Acrylic Pour Art",
+    "prompt": "fluid acrylic pour art {prompt} . flowing patterns, dynamic colors, abstract fluidity, acrylic artistry",
+    "negative_prompt": "absence of flowing patterns, lack of dynamic colors, absence of abstract fluidity, non-acrylic artistry"
+  },
+  {
+    "name": "Surreal Dreamscape Fantasy",
+    "prompt": "surreal dreamscape fantasy {prompt} . dreamlike worlds, surreal beauty, fantasy allure, dreamscape vibes",
+    "negative_prompt": "absence of dreamlike worlds, lack of surreal beauty, absence of fantasy allure, non-dreamscape vibes"
+  },
+  {
+    "name": "Collage Chaos",
+    "prompt": "collage chaos art {prompt} . mixed media, chaotic compositions, abstract collage, artistic chaos",
+    "negative_prompt": "absence of mixed media, lack of chaotic compositions, absence of abstract collage, non-artistic chaos"
+  },
+  {
+    "name": "Digital Psychedelic Bliss",
+    "prompt": "digital psychedelic bliss {prompt} . trippy visuals, neon colors, digital psychedelia, blissful vibes",
+    "negative_prompt": "absence of trippy visuals, lack of neon colors, absence of digital psychedelia, non-blissful vibes"
+  },
+  {
+    "name": "Graffiti Street Artistry",
+    "prompt": "graffiti street artistry {prompt} . urban murals, street culture, graffiti art, artful streets",
+    "negative_prompt": "absence of urban murals, lack of street culture, absence of graffiti art, non-artful streets"
+  },
+  {
+    "name": "Whimsical Watercolor Fantasy",
+    "prompt": "whimsical watercolor fantasy {prompt} . ethereal paintings, pastel hues, watercolor whimsy, whimsical charm",
+    "negative_prompt": "absence of ethereal paintings, lack of pastel hues, absence of watercolor whimsy, non-whimsical charm"
+  },
+  {
+    "name": "Neon Abstract Glow",
+    "prompt": "neon abstract glow {prompt} . neon lights, electrifying colors, abstract radiance, neon vibes",
+    "negative_prompt": "absence of neon lights, lack of electrifying colors, absence of abstract radiance, non-neon vibes"
+  },
+  {
+    "name": "Op Art Illusionism",
+    "prompt": "Op art illusionism {prompt} . optical illusions, monochromatic art, op art allure, illusionistic magic",
+    "negative_prompt": "absence of optical illusions, lack of monochromatic art, absence of op art allure, non-illusionistic magic"
+  },
+  {
+    "name": "Impressionistic Abstractions",
+    "prompt": "impressionistic abstractions {prompt} . painterly strokes, vivid interpretations, abstract impressions, impressionistic allure",
+    "negative_prompt": "absence of painterly strokes, lack of vivid interpretations, absence of abstract impressions, non-impressionistic allure"
+  },
+  {
+    "name": "Glowing Neon Waves",
+    "prompt": "glowing neon waves {prompt} . neon wave patterns, cyberpunk aesthetics, neon allure, wave vibes",
+    "negative_prompt": "absence of neon wave patterns, lack of cyberpunk aesthetics, absence of neon allure, non-wave vibes"
+  },
+  {
+    "name": "Chromatic Chaos",
+    "prompt": "chromatic chaos art {prompt} . riot of colors, abstract frenzy, chromatic chaos, chaotic vibes",
+    "negative_prompt": "absence of riot of colors, lack of abstract frenzy, absence of chromatic chaos, non-chaotic vibes"
+  },
+  {
+    "name": "Cubist Abstraction",
+    "prompt": "cubist abstraction {prompt} . fragmented forms, geometric complexity, abstract cubism, cubist allure",
+    "negative_prompt": "absence of fragmented forms, lack of geometric complexity, absence of abstract cubism, non-cubist allure"
+  },
+  {
+    "name": "Enigmatic Ethereal Art",
+    "prompt": "enigmatic ethereal art {prompt} . mysterious visuals, ethereal beauty, enigmatic allure, ethereal vibes",
+    "negative_prompt": "absence of mysterious visuals, lack of ethereal beauty, absence of enigmatic allure, non-ethereal vibes"
+  },
+  {
+    "name": "Psychedelic Abstract Worlds",
+    "prompt": "psychedelic abstract worlds {prompt} . mind-bending designs, vibrant psychedelia, abstract wonder, psychedelic allure",
+    "negative_prompt": "absence of mind-bending designs, lack of vibrant psychedelia, absence of abstract wonder, non-psychedelic allure"
+  },
+  {
+    "name": "Fluid Resin Artistry",
+    "prompt": "fluid resin artistry {prompt} . resin flows, glossy finishes, abstract fluidity, resin magic",
+    "negative_prompt": "absence of resin flows, lack of glossy finishes, absence of abstract fluidity, non-resin magic"
+  },
+  {
+    "name": "Abstract Expressionist Strokes",
+    "prompt": "abstract expressionist strokes {prompt} . bold brushwork, emotional depth, abstract expressionism, expressive allure",
+    "negative_prompt": "absence of bold brushwork, lack of emotional depth, absence of abstract expressionism, non-expressive allure"
+  },
+  {
+    "name": "Mystical Trippy Visions",
+    "prompt": "mystical trippy visions {prompt} . surreal imagery, psychedelic colors, abstract mysticism, trippy vibes",
+    "negative_prompt": "absence of surreal imagery, lack of psychedelic colors, absence of abstract mysticism, non-trippy vibes"
+  },
+  {
+    "name": "Futuristic Digital Art",
+    "prompt": "futuristic digital art {prompt} . digital wonders, cyber aesthetics, futuristic allure, digital vibes",
+    "negative_prompt": "absence of digital wonders, lack of cyber aesthetics, absence of futuristic allure, non-digital vibes"
+  },
+  {
+    "name": "Botanical Watercolor Illustrations",
+    "prompt": "botanical watercolor illustrations {prompt} . realistic florals, delicate details, watercolor charm, botanical allure",
+    "negative_prompt": "absence of realistic florals, lack of delicate details, absence of watercolor charm, non-botanical allure"
+  },
+  {
+    "name": "Vintage Floral Patterns",
+    "prompt": "vintage floral patterns {prompt} . retro blossoms, muted hues, vintage allure, floral patterns",
+    "negative_prompt": "absence of retro blossoms, lack of muted hues, absence of vintage allure, non-floral patterns"
+  },
+  {
+    "name": "Modern Minimalist Florals",
+    "prompt": "modern minimalist florals {prompt} . sleek designs, contemporary blooms, minimalistic elegance, floral minimalism",
+    "negative_prompt": "absence of sleek designs, lack of contemporary blooms, absence of minimalistic elegance, non-floral minimalism"
+  },
+  {
+    "name": "Tropical Floral Paradise",
+    "prompt": "tropical floral paradise {prompt} . exotic blooms, vibrant colors, tropical vibes, floral paradise",
+    "negative_prompt": "absence of exotic blooms, lack of vibrant colors, absence of tropical vibes, non-floral paradise"
+  },
+  {
+    "name": "Rustic Wildflower Charm",
+    "prompt": "rustic wildflower charm {prompt} . country florals, earthy tones, rustic allure, wildflower vibes",
+    "negative_prompt": "absence of country florals, lack of earthy tones, absence of rustic allure, non-wildflower vibes"
+  },
+  {
+    "name": "Gothic Black Roses",
+    "prompt": "gothic black roses {prompt} . dark elegance, mysterious blooms, gothic allure, black rose magic",
+    "negative_prompt": "absence of dark elegance, lack of mysterious blooms, absence of gothic allure, non-black rose magic"
+  },
+  {
+    "name": "Spring Blossom Delights",
+    "prompt": "spring blossom delights {prompt} . seasonal blooms, fresh colors, springtime charm, floral delight",
+    "negative_prompt": "absence of seasonal blooms, lack of fresh colors, absence of springtime charm, non-floral delight"
+  },
+  {
+    "name": "Victorian Floral Embellishments",
+    "prompt": "Victorian floral embellishments {prompt} . intricate florals, ornate details, Victorian charm, floral opulence",
+    "negative_prompt": "absence of intricate florals, lack of ornate details, absence of Victorian charm, non-floral opulence"
+  },
+  {
+    "name": "Japanese Cherry Blossoms",
+    "prompt": "Japanese cherry blossoms {prompt} . sakura blooms, delicate petals, Japanese allure, cherry blossom serenity",
+    "negative_prompt": "absence of sakura blooms, lack of delicate petals, absence of Japanese allure, non-cherry blossom serenity"
+  },
+  {
+    "name": "Art Deco Floral Patterns",
+    "prompt": "Art Deco floral patterns {prompt} . geometric florals, elegant designs, Art Deco allure, floral geometry",
+    "negative_prompt": "absence of geometric florals, lack of elegant designs, absence of Art Deco allure, non-floral geometry"
+  },
+  {
+    "name": "Whimsical Fantasy Florals",
+    "prompt": "whimsical fantasy florals {prompt} . surreal blooms, whimsical beauty, fantasy allure, floral whimsy",
+    "negative_prompt": "absence of surreal blooms, lack of whimsical beauty, absence of fantasy allure, non-floral whimsy"
+  },
+  {
+    "name": "Retro Floral Bouquets",
+    "prompt": "retro floral bouquets {prompt} . vintage arrangements, nostalgic colors, retro allure, floral nostalgia",
+    "negative_prompt": "absence of vintage arrangements, lack of nostalgic colors, absence of retro allure, non-floral nostalgia"
+  },
+  {
+    "name": "Boho Chic Flower Power",
+    "prompt": "boho chic flower power {prompt} . bohemian blooms, vibrant hues, boho vibes, floral power",
+    "negative_prompt": "absence of bohemian blooms, lack of vibrant hues, absence of boho vibes, non-floral power"
+  },
+  {
+    "name": "Digital Floral Abstractions",
+    "prompt": "digital floral abstractions {prompt} . abstract blossoms, digital artistry, floral abstraction, abstract allure",
+    "negative_prompt": "absence of abstract blossoms, lack of digital artistry, absence of floral abstraction, non-abstract allure"
+  },
+  {
+    "name": "Exotic Orchid Elegance",
+    "prompt": "exotic orchid elegance {prompt} . rare orchids, exotic beauty, orchid allure, floral elegance",
+    "negative_prompt": "absence of rare orchids, lack of exotic beauty, absence of orchid allure, non-floral elegance"
+  },
+  {
+    "name": "Sunflower Sunshine Vibes",
+    "prompt": "sunflower sunshine vibes {prompt} . cheerful sunflowers, bright colors, sunflower charm, floral sunshine",
+    "negative_prompt": "absence of cheerful sunflowers, lack of bright colors, absence of sunflower charm, non-floral sunshine"
+  },
+  {
+    "name": "Romantic Rose Bouquets",
+    "prompt": "romantic rose bouquets {prompt} . romantic roses, soft petals, rose allure, floral romance",
+    "negative_prompt": "absence of romantic roses, lack of soft petals, absence of rose allure, non-floral romance"
+  },
+  {
+    "name": "Mexican Fiesta Florals",
+    "prompt": "Mexican fiesta florals {prompt} . vibrant fiesta, fiesta colors, Mexican allure, floral fiesta",
+    "negative_prompt": "absence of vibrant fiesta, lack of fiesta colors, absence of Mexican allure, non-floral fiesta"
+  },
+  {
+    "name": "Cottage Garden Blooms",
+    "prompt": "cottage garden blooms {prompt} . cottage flowers, cottage charm, garden allure, floral cottage",
+    "negative_prompt": "absence of cottage flowers, lack of cottage charm, absence of garden allure, non-floral cottage"
+  },
+  {
+    "name": "Enchanted Forest",
+    "prompt": "enchanted forest coloring page {prompt} . magical creatures, whimsical trees, forest wonders, coloring adventure",
+    "negative_prompt": "absence of magical creatures, lack of whimsical trees, absence of forest wonders, non-coloring adventure"
+  },
+  {
+    "name": "Underwater World",
+    "prompt": "underwater world coloring page {prompt} . marine life, coral reefs, oceanic beauty, coloring marine magic",
+    "negative_prompt": "absence of marine life, lack of coral reefs, absence of oceanic beauty, non-coloring marine magic"
+  },
+  {
+    "name": "Mandala Meditation",
+    "prompt": "mandala meditation coloring page {prompt} . intricate patterns, meditative art, mandala zen, coloring relaxation",
+    "negative_prompt": "absence of intricate patterns, lack of meditative art, absence of mandala zen, non-coloring relaxation"
+  },
+  {
+    "name": "Floral Botanical Garden",
+    "prompt": "floral botanical garden coloring page {prompt} . blooming flowers, lush plants, botanical art, coloring serenity",
+    "negative_prompt": "absence of blooming flowers, lack of lush plants, absence of botanical art, non-coloring serenity"
+  },
+  {
+    "name": "Cosmic Space Adventures",
+    "prompt": "cosmic space adventures coloring page {prompt} . celestial wonders, cosmic scenes, space exploration, coloring cosmos",
+    "negative_prompt": "absence of celestial wonders, lack of cosmic scenes, absence of space exploration, non-coloring cosmos"
+  },
+  {
+    "name": "Fairytale Castle Dreams",
+    "prompt": "fairytale castle dreams coloring page {prompt} . magical castles, enchanting realms, fairytale charm, coloring fantasies",
+    "negative_prompt": "absence of magical castles, lack of enchanting realms, absence of fairytale charm, non-coloring fantasies"
+  },
+  {
+    "name": "Wildlife Safari Expedition",
+    "prompt": "wildlife safari expedition coloring page {prompt} . exotic animals, African landscapes, safari thrill, coloring safari",
+    "negative_prompt": "absence of exotic animals, lack of African landscapes, absence of safari thrill, non-coloring safari"
+  },
+  {
+    "name": "Folk Art Inspired Designs",
+    "prompt": "folk art inspired designs coloring page {prompt} . folk motifs, cultural art, folkloric beauty, coloring folk charm",
+    "negative_prompt": "absence of folk motifs, lack of cultural art, absence of folkloric beauty, non-coloring folk charm"
+  },
+  {
+    "name": "Fantasy Dragon Quest",
+    "prompt": "fantasy dragon quest coloring page {prompt} . majestic dragons, mythical quests, fantasy realms, coloring fantasy",
+    "negative_prompt": "absence of majestic dragons, lack of mythical quests, absence of fantasy realms, non-coloring fantasy"
+  },
+  {
+    "name": "Steampunk Contraptions",
+    "prompt": "steampunk contraptions coloring page {prompt} . mechanical gadgets, retro-futuristic, steampunk allure, coloring steampunk",
+    "negative_prompt": "absence of mechanical gadgets, lack of retro-futuristic, absence of steampunk allure, non-coloring steampunk"
+  },
+  {
+    "name": "Ancient Egyptian Treasures",
+    "prompt": "ancient Egyptian treasures coloring page {prompt} . pharaoh's relics, hieroglyphics, Egyptian mysteries, coloring history",
+    "negative_prompt": "absence of pharaoh's relics, lack of hieroglyphics, absence of Egyptian mysteries, non-coloring history"
+  },
+  {
+    "name": "Jungle Adventure Safari",
+    "prompt": "jungle adventure safari coloring page {prompt} . wild jungle, tropical wildlife, adventure thrill, coloring jungle",
+    "negative_prompt": "absence of wild jungle, lack of tropical wildlife, absence of adventure thrill, non-coloring jungle"
+  },
+  {
+    "name": "Art Deco Glamour",
+    "prompt": "Art Deco glamour coloring page {prompt} . Gatsby style, 1920s elegance, art deco allure, coloring vintage chic",
+    "negative_prompt": "absence of Gatsby style, lack of 1920s elegance, absence of art deco allure, non-coloring vintage chic"
+  },
+  {
+    "name": "Magical Unicorn Dreams",
+    "prompt": "magical unicorn dreams coloring page {prompt} . whimsical unicorns, rainbow dreams, unicorn magic, coloring unicorns",
+    "negative_prompt": "absence of whimsical unicorns, lack of rainbow dreams, absence of unicorn magic, non-coloring unicorns"
+  },
+  {
+    "name": "Zentangle Zen Doodles",
+    "prompt": "zentangle zen doodles coloring page {prompt} . intricate doodles, Zen patterns, zentangle art, coloring zen",
+    "negative_prompt": "absence of intricate doodles, lack of Zen patterns, absence of zentangle art, non-coloring zen"
+  },
+  {
+    "name": "Futuristic Sci-Fi Worlds",
+    "prompt": "futuristic sci-fi worlds coloring page {prompt} . cyberpunk landscapes, futuristic cities, sci-fi wonder, coloring sci-fi",
+    "negative_prompt": "absence of cyberpunk landscapes, lack of futuristic cities, absence of sci-fi wonder, non-coloring sci-fi"
+  },
+  {
+    "name": "Magical Mermaid Seas",
+    "prompt": "magical mermaid seas coloring page {prompt} . underwater mermaids, marine enchantment, mermaid allure, coloring mermaids",
+    "negative_prompt": "absence of underwater mermaids, lack of marine enchantment, absence of mermaid allure, non-coloring mermaids"
+  },
+  {
+    "name": "Pirate Treasure Hunt",
+    "prompt": "pirate treasure hunt coloring page {prompt} . buried treasures, pirate ships, adventure on the high seas, coloring pirates",
+    "negative_prompt": "absence of buried treasures, lack of pirate ships, absence of adventure on the high seas, non-coloring pirates"
+  },
+  {
+    "name": "Garden of Eden Paradise",
+    "prompt": "garden of Eden paradise coloring page {prompt} . biblical gardens, serenity, paradise vibes, coloring paradise",
+    "negative_prompt": "absence of biblical gardens, lack of serenity, absence of paradise vibes, non-coloring paradise"
+  },
+  {
+    "name": "Rainbow Prism",
+    "prompt": "rainbow prism design {prompt} . vibrant spectrum, colorful gradients, rainbow magic, prism allure",
+    "negative_prompt": "absence of vibrant spectrum, lack of colorful gradients, absence of rainbow magic, non-prism allure"
+  },
+  {
+    "name": "Colorful Abstract Splatters",
+    "prompt": "colorful abstract splatters {prompt} . expressive strokes, paint splatters, abstract chaos, colorful artistry",
+    "negative_prompt": "absence of expressive strokes, lack of paint splatters, absence of abstract chaos, non-colorful artistry"
+  },
+  {
+    "name": "Tropical Fiesta Fiesta",
+    "prompt": "tropical fiesta design {prompt} . exotic carnival, festive colors, tropical vibes, fiesta allure",
+    "negative_prompt": "absence of exotic carnival, lack of festive colors, absence of tropical vibes, non-fiesta allure"
+  },
+  {
+    "name": "Retro Neon Nostalgia",
+    "prompt": "retro neon design {prompt} . neon lights, vintage vibes, retro allure, neon nostalgia",
+    "negative_prompt": "absence of neon lights, lack of vintage vibes, absence of retro allure, non-neon nostalgia"
+  },
+  {
+    "name": "Colorful Pop Art Explosion",
+    "prompt": "colorful pop art design {prompt} . pop culture icons, vibrant graphics, pop art charm, colorful explosion",
+    "negative_prompt": "absence of pop culture icons, lack of vibrant graphics, absence of pop art charm, non-colorful explosion"
+  },
+  {
+    "name": "Mystical Galaxy Wonders",
+    "prompt": "mystical galaxy design {prompt} . cosmic landscapes, celestial beauty, galaxy allure, mystical wonders",
+    "negative_prompt": "absence of cosmic landscapes, lack of celestial beauty, absence of galaxy allure, non-mystical wonders"
+  },
+  {
+    "name": "Psychedelic Groovy Vibes",
+    "prompt": "psychedelic design {prompt} . trippy visuals, neon colors, psychedelic vibes, groovy allure",
+    "negative_prompt": "absence of trippy visuals, lack of neon colors, absence of psychedelic vibes, non-groovy allure"
+  },
+  {
+    "name": "Cubist Color Explosion",
+    "prompt": "cubist design {prompt} . fragmented forms, vibrant shapes, cubist allure, colorful explosion",
+    "negative_prompt": "absence of fragmented forms, lack of vibrant shapes, absence of cubist allure, non-colorful explosion"
+  },
+  {
+    "name": "Urban Street Art Graffiti",
+    "prompt": "urban graffiti design {prompt} . street murals, urban culture, graffiti art, colorful streets",
+    "negative_prompt": "absence of street murals, lack of urban culture, absence of graffiti art, non-colorful streets"
+  },
+  {
+    "name": "Abstract Color Fusion",
+    "prompt": "abstract color fusion {prompt} . blending hues, artistic experiments, abstract charm, colorful fusion",
+    "negative_prompt": "absence of blending hues, lack of artistic experiments, absence of abstract charm, non-colorful fusion"
+  },
+  {
+    "name": "Colorful Geometric Patterns",
+    "prompt": "colorful geometric design {prompt} . geometric shapes, vibrant patterns, colorful geometry, geometric allure",
+    "negative_prompt": "absence of geometric shapes, lack of vibrant patterns, absence of colorful geometry, non-geometric allure"
+  },
+  {
+    "name": "Folk Art Festival",
+    "prompt": "folk art festival design {prompt} . folk motifs, cultural celebration, folkloric beauty, colorful festival",
+    "negative_prompt": "absence of folk motifs, lack of cultural celebration, absence of folkloric beauty, non-colorful festival"
+  },
+  {
+    "name": "Colorful Kaleidoscope",
+    "prompt": "colorful kaleidoscope design {prompt} . kaleidoscope motifs, vibrant colors, colorful kaleidoscope, kaleidoscope allure",
+    "negative_prompt": "absence of kaleidoscope motifs, lack of vibrant colors, absence of colorful kaleidoscope, non-kaleidoscope allure"
+  },
+  {
+    "name": "Vivid Nature Wonders",
+    "prompt": "vivid nature design {prompt} . natural landscapes, vibrant flora, nature's charm, colorful wonders",
+    "negative_prompt": "absence of natural landscapes, lack of vibrant flora, absence of nature's charm, non-colorful wonders"
+  },
+  {
+    "name": "Colorful Circus Extravaganza",
+    "prompt": "colorful circus design {prompt} . circus acts, vibrant big top, circus charm, colorful extravaganza",
+    "negative_prompt": "absence of circus acts, lack of vibrant big top, absence of circus charm, non-colorful extravaganza"
+  },
+  {
+    "name": "Love Birds in Paradise",
+    "prompt": "love birds in paradise design {prompt} . romantic birds, tropical paradise, love in the air, Valentine's bliss",
+    "negative_prompt": "absence of romantic birds, lack of tropical paradise, absence of love in the air, non-Valentine's bliss"
+  },
+  {
+    "name": "Vintage Valentine's Charm",
+    "prompt": "vintage Valentine's charm design {prompt} . retro aesthetics, timeless romance, vintage allure, Valentine's nostalgia",
+    "negative_prompt": "absence of retro aesthetics, lack of timeless romance, absence of vintage allure, non-Valentine's nostalgia"
+  },
+  {
+    "name": "Heartfelt Handwritten Letters",
+    "prompt": "heartfelt handwritten letters design {prompt} . love notes, calligraphy, handwritten charm, romantic messages",
+    "negative_prompt": "absence of love notes, lack of calligraphy, absence of handwritten charm, non-romantic messages"
+  },
+  {
+    "name": "Sweetheart's Chocolate Delight",
+    "prompt": "sweetheart's chocolate delight design {prompt} . chocolate treats, decadent delights, Valentine's sweetness, romantic indulgence",
+    "negative_prompt": "absence of chocolate treats, lack of decadent delights, absence of Valentine's sweetness, non-romantic indulgence"
+  },
+  {
+    "name": "Floral Love Bouquets",
+    "prompt": "floral love bouquets design {prompt} . romantic blossoms, floral charm, love in full bloom, Valentine's flowers",
+    "negative_prompt": "absence of romantic blossoms, lack of floral charm, absence of love in full bloom, non-Valentine's flowers"
+  },
+  {
+    "name": "Cute Cupid's Arrow Adventures",
+    "prompt": "cute cupid's arrow adventures design {prompt} . adorable cupids, arrow of love, romantic whimsy, Valentine's cuteness",
+    "negative_prompt": "absence of adorable cupids, lack of arrow of love, absence of romantic whimsy, non-Valentine's cuteness"
+  },
+  {
+    "name": "Heart-Shaped Balloon Bliss",
+    "prompt": "heart-shaped balloon bliss design {prompt} . love balloons, floating hearts, heartwarming joy, Valentine's happiness",
+    "negative_prompt": "absence of love balloons, lack of floating hearts, absence of heartwarming joy, non-Valentine's happiness"
+  },
+  {
+    "name": "Modern Love Typography",
+    "prompt": "modern love typography design {prompt} . contemporary fonts, typographic art, love in letters, Valentine's style",
+    "negative_prompt": "absence of contemporary fonts, lack of typographic art, absence of love in letters, non-Valentine's style"
+  },
+  {
+    "name": "Romantic Sunset Silhouettes",
+    "prompt": "romantic sunset silhouettes design {prompt} . lovers at dusk, sunset serenity, romantic silhouette, Valentine's twilight",
+    "negative_prompt": "absence of lovers at dusk, lack of sunset serenity, absence of romantic silhouette, non-Valentine's twilight"
+  },
+  {
+    "name": "Lovestruck Cartoon Characters",
+    "prompt": "lovestruck cartoon characters design {prompt} . adorable couples, cartoon romance, love in animation, Valentine's cuteness",
+    "negative_prompt": "absence of adorable couples, lack of cartoon romance, absence of love in animation, non-Valentine's cuteness"
+  },
+  {
+    "name": "Heartfelt Origami Creations",
+    "prompt": "heartfelt origami creations design {prompt} . paper hearts, origami art, love in folds, Valentine's creativity",
+    "negative_prompt": "absence of paper hearts, lack of origami art, absence of love in folds, non-Valentine's creativity"
+  },
+  {
+    "name": "Love in the Cityscape",
+    "prompt": "love in the cityscape design {prompt} . urban romance, city lights, love in the city, Valentine's urbanity",
+    "negative_prompt": "absence of urban romance, lack of city lights, absence of love in the city, non-Valentine's urbanity"
+  },
+  {
+    "name": "Heartfelt Watercolor Art",
+    "prompt": "heartfelt watercolor art design {prompt} . watercolor hearts, artistic charm, love in brushstrokes, Valentine's artistry",
+    "negative_prompt": "absence of watercolor hearts, lack of artistic charm, absence of love in brushstrokes, non-Valentine's artistry"
+  },
+  {
+    "name": "Whimsical Love Fairytale",
+    "prompt": "whimsical love fairytale design {prompt} . fairy tale romance, enchanted world, love in fairytales, Valentine's whimsy",
+    "negative_prompt": "absence of fairy tale romance, lack of enchanted world, absence of love in fairytales, non-Valentine's whimsy"
+  },
+  {
+    "name": "Lovely Handmade Crafts",
+    "prompt": "lovely handmade crafts design {prompt} . DIY gifts, crafty love, handmade charm, Valentine's craftsmanship",
+    "negative_prompt": "absence of DIY gifts, lack of crafty love, absence of handmade charm, non-Valentine's craftsmanship"
+  },
+  {
+    "name": "Valentine's Day Patterns",
+    "prompt": "Valentine's Day patterns design {prompt} . romantic motifs, patterned love, Valentine's design, patterned romance",
+    "negative_prompt": "absence of romantic motifs, lack of patterned love, absence of Valentine's design, non-patterned romance"
+  },
+  {
+    "name": "Love Storybook Illustrations",
+    "prompt": "love storybook illustrations design {prompt} . storybook art, romantic tales, love in illustrations, Valentine's storytelling",
+    "negative_prompt": "absence of storybook art, lack of romantic tales, absence of love in illustrations, non-Valentine's storytelling"
+  },
+  {
+    "name": "Hearts on the Beach",
+    "prompt": "hearts on the beach design {prompt} . romantic shores, sandy hearts, beachside love, Valentine's tranquility",
+    "negative_prompt": "absence of romantic shores, lack of sandy hearts, absence of beachside love, non-Valentine's tranquility"
+  },
+  {
+    "name": "Love in the Garden",
+    "prompt": "love in the garden design {prompt} . garden romance, floral beauty, love in bloom, Valentine's garden",
+    "negative_prompt": "absence of garden romance, lack of floral beauty, absence of love in bloom, non-Valentine's garden"
+  },
+  {
+    "name": "Whispering Love Quotes",
+    "prompt": "whispering love quotes design {prompt} . romantic quotes, typography love, quotes of love, Valentine's sentiments",
+    "negative_prompt": "absence of romantic quotes, lack of typography love, absence of quotes of love, non-Valentine's sentiments"
+  },
+  {
+    "name": "Romantic Sunset Beach",
+    "prompt": "romantic sunset beach design {prompt} . beachside love, sunsets by the sea, romantic serenity, Valentine's sunsets",
+    "negative_prompt": "absence of beachside love, lack of sunsets by the sea, absence of romantic serenity, non-Valentine's sunsets"
+  },
+  {
+    "name": "Cute Animal Love",
+    "prompt": "cute animal love design {prompt} . adorable animals, animal love, love in nature, Valentine's cuteness",
+    "negative_prompt": "absence of adorable animals, lack of animal love, absence of love in nature, non-Valentine's cuteness"
+  },
+  {
+    "name": "Valentine's Day Watercolor Hearts",
+    "prompt": "Valentine's Day watercolor hearts design {prompt} . watercolor heart motifs, artistic charm, love in watercolors, Valentine's elegance",
+    "negative_prompt": "absence of watercolor heart motifs, lack of artistic charm, absence of love in watercolors, non-Valentine's elegance"
+  },
+  {
+    "name": "Lovers' Stargazing Night",
+    "prompt": "lovers' stargazing night design {prompt} . stargazers, celestial beauty, love under the stars, Valentine's romance",
+    "negative_prompt": "absence of stargazers, lack of celestial beauty, absence of love under the stars, non-Valentine's romance"
+  },
+  {
+    "name": "Neon Nightlife Extravaganza",
+    "prompt": "neon nightlife extravaganza design {prompt} . vibrant city lights, urban energy, neon nightlife, electric excitement",
+    "negative_prompt": "absence of vibrant city lights, lack of urban energy, absence of neon nightlife, non-electric excitement"
+  },
+  {
+    "name": "Cyberpunk Neon Cityscapes",
+    "prompt": "cyberpunk neon cityscapes {prompt} . futuristic metropolis, neon dystopia, cyberpunk allure, neon city vibes",
+    "negative_prompt": "absence of futuristic metropolis, lack of neon dystopia, absence of cyberpunk allure, non-neon city vibes"
+  },
+  {
+    "name": "Retro Neon Signs",
+    "prompt": "retro neon signs design {prompt} . vintage signage, neon nostalgia, retro allure, neon sign magic",
+    "negative_prompt": "absence of vintage signage, lack of neon nostalgia, absence of retro allure, non-neon sign magic"
+  },
+  {
+    "name": "Neon Galactic Adventures",
+    "prompt": "neon galactic adventures {prompt} . cosmic neon, interstellar journeys, neon space, electric exploration",
+    "negative_prompt": "absence of cosmic neon, lack of interstellar journeys, absence of neon space, non-electric exploration"
+  },
+  {
+    "name": "Neon Jungle Nights",
+    "prompt": "neon jungle nights design {prompt} . exotic nightlife, wild neon, jungle vibes, electric escapade",
+    "negative_prompt": "absence of exotic nightlife, lack of wild neon, absence of jungle vibes, non-electric escapade"
+  },
+  {
+    "name": "Neon Cyber Creatures",
+    "prompt": "neon cyber creatures design {prompt} . digital wildlife, neon beasts, cybernetic allure, neon wildlife",
+    "negative_prompt": "absence of digital wildlife, lack of neon beasts, absence of cybernetic allure, non-neon wildlife"
+  },
+  {
+    "name": "Sci-Fi Neon Futurism",
+    "prompt": "sci-fi neon futurism design {prompt} . futuristic neon, tech dreams, neon futurism, electric futurist art",
+    "negative_prompt": "absence of futuristic neon, lack of tech dreams, absence of neon futurism, non-electric futurist art"
+  },
+  {
+    "name": "Neon Pop Culture Icons",
+    "prompt": "neon pop culture icons design {prompt} . iconic figures, pop art neon, cultural neon, electric nostalgia",
+    "negative_prompt": "absence of iconic figures, lack of pop art neon, absence of cultural neon, non-electric nostalgia"
+  },
+  {
+    "name": "Underwater Neon Fantasy",
+    "prompt": "underwater neon fantasy design {prompt} . neon marine life, aquatic dreams, neon underwater, electric oceanic art",
+    "negative_prompt": "absence of neon marine life, lack of aquatic dreams, absence of neon underwater, non-electric oceanic art"
+  },
+  {
+    "name": "Neon Haunted House",
+    "prompt": "neon haunted house design {prompt} . spooky neon, eerie night, haunted allure, electric haunting",
+    "negative_prompt": "absence of spooky neon, lack of eerie night, absence of haunted allure, non-electric haunting"
+  },
+  {
+    "name": "Enchanted Moonlit Forest",
+    "prompt": "enchanted moonlit forest design {prompt} . mystical creatures, moonlit wonders, fantasy forest, nocturnal magic",
+    "negative_prompt": "absence of mystical creatures, lack of moonlit wonders, absence of fantasy forest, non-nocturnal magic"
+  },
+  {
+    "name": "Starry Night Over the Castle",
+    "prompt": "starry night over the castle design {prompt} . medieval castles, starry skies, castle dreams, nocturnal elegance",
+    "negative_prompt": "absence of medieval castles, lack of starry skies, absence of castle dreams, non-nocturnal elegance"
+  },
+  {
+    "name": "Whimsical Fairy Tale Realms",
+    "prompt": "whimsical fairy tale realms design {prompt} . magical kingdoms, whimsical landscapes, fairy tale charm, nocturnal enchantment",
+    "negative_prompt": "absence of magical kingdoms, lack of whimsical landscapes, absence of fairy tale charm, non-nocturnal enchantment"
+  },
+  {
+    "name": "Mystical Underwater Kingdom",
+    "prompt": "mystical underwater kingdom design {prompt} . aquatic wonders, mermaid realms, underwater magic, nocturnal oceanic art",
+    "negative_prompt": "absence of aquatic wonders, lack of mermaid realms, absence of underwater magic, non-nocturnal oceanic art"
+  },
+  {
+    "name": "Dragon's Lair at Midnight",
+    "prompt": "dragon's lair at midnight design {prompt} . majestic dragons, moonlit lair, dragon fantasy, nocturnal power",
+    "negative_prompt": "absence of majestic dragons, lack of moonlit lair, absence of dragon fantasy, non-nocturnal power"
+  },
+  {
+    "name": "Lost City of Atlantis",
+    "prompt": "lost city of Atlantis design {prompt} . submerged city, ancient mysteries, Atlantis legend, nocturnal discovery",
+    "negative_prompt": "absence of submerged city, lack of ancient mysteries, absence of Atlantis legend, non-nocturnal discovery"
+  },
+  {
+    "name": "Witch's Enchanted Forest",
+    "prompt": "witch's enchanted forest design {prompt} . witch's domain, mystical spells, enchanted forest, nocturnal witchcraft",
+    "negative_prompt": "absence of witch's domain, lack of mystical spells, absence of enchanted forest, non-nocturnal witchcraft"
+  },
+  {
+    "name": "Moonlit Garden of Dreams",
+    "prompt": "moonlit garden of dreams design {prompt} . ethereal gardens, dreamy blooms, moonlit dreams, nocturnal serenity",
+    "negative_prompt": "absence of ethereal gardens, lack of dreamy blooms, absence of moonlit dreams, non-nocturnal serenity"
+  },
+  {
+    "name": "Ancient Ruins Under the Stars",
+    "prompt": "ancient ruins under the stars design {prompt} . archaeological sites, starry ruins, ancient mysteries, nocturnal history",
+    "negative_prompt": "absence of archaeological sites, lack of starry ruins, absence of ancient mysteries, non-nocturnal history"
+  },
+  {
+    "name": "Nightmare's Haunted Castle",
+    "prompt": "nightmare's haunted castle design {prompt} . spooky castle, haunted nightmares, castle of darkness, nocturnal fear",
+    "negative_prompt": "absence of spooky castle, lack of haunted nightmares, absence of castle of darkness, non-nocturnal fear"
+  },
+  {
+    "name": "Elven Moonlit Realm",
+    "prompt": "elven moonlit realm design {prompt} . elven kingdom, moonlit elegance, elven fantasy, nocturnal mystique",
+    "negative_prompt": "absence of elven kingdom, lack of moonlit elegance, absence of elven fantasy, non-nocturnal mystique"
+  },
+  {
+    "name": "Celestial Starship Odyssey",
+    "prompt": "celestial starship odyssey design {prompt} . futuristic starships, cosmic journeys, starship odyssey, nocturnal space exploration",
+    "negative_prompt": "absence of futuristic starships, lack of cosmic journeys, absence of starship odyssey, non-nocturnal space exploration"
+  },
+  {
+    "name": "Goblin Market at Midnight",
+    "prompt": "goblin market at midnight design {prompt} . mischievous goblins, eerie market, goblin mischief, nocturnal fantasy",
+    "negative_prompt": "absence of mischievous goblins, lack of eerie market, absence of goblin mischief, non-nocturnal fantasy"
+  },
+  {
+    "name": "Steampunk Nocturnal City",
+    "prompt": "steampunk nocturnal city design {prompt} . industrial metropolis, nocturnal steam, steampunk cityscape, nocturnal retro-futurism",
+    "negative_prompt": "absence of industrial metropolis, lack of nocturnal steam, absence of steampunk cityscape, non-nocturnal retro-futurism"
+  },
+  {
+    "name": "Magical Crystal Cavern",
+    "prompt": "magical crystal cavern design {prompt} . glowing crystals, underground wonders, crystal magic, nocturnal subterranean beauty",
+    "negative_prompt": "absence of glowing crystals, lack of underground wonders, absence of crystal magic, non-nocturnal subterranean beauty"
+  },
+  {
+    "name": "Ghostly Haunted Mansion",
+    "prompt": "ghostly haunted mansion design {prompt} . eerie mansion, ghostly apparitions, haunted allure, nocturnal spookiness",
+    "negative_prompt": "absence of eerie mansion, lack of ghostly apparitions, absence of haunted allure, non-nocturnal spookiness"
+  },
+  {
+    "name": "Mystical Moonlit Harbor",
+    "prompt": "mystical moonlit harbor design {prompt} . coastal charm, moonlit waters, harbor mysteries, nocturnal tranquility",
+    "negative_prompt": "absence of coastal charm, lack of moonlit waters, absence of harbor mysteries, non-nocturnal tranquility"
+  },
+  {
+    "name": "Dark Enchanted Swamp",
+    "prompt": "dark enchanted swamp design {prompt} . swampy wonders, eerie beauty, enchanted swamp, nocturnal mysticism",
+    "negative_prompt": "absence of swampy wonders, lack of eerie beauty, absence of enchanted swamp, non-nocturnal mysticism"
+  },
+  {
+    "name": "Timeless Castle at Midnight",
+    "prompt": "timeless castle at midnight design {prompt} . fairy tale castles, midnight charm, castle dreams, nocturnal elegance",
+    "negative_prompt": "absence of fairy tale castles, lack of midnight charm, absence of castle dreams, non-nocturnal elegance"
+  },
+  {
+    "name": "Minimalistic Geometric Shapes",
+    "prompt": "minimalistic geometric shapes design {prompt} . clean lines, simple elegance, geometric art, vector simplicity",
+    "negative_prompt": "absence of clean lines, lack of simple elegance, absence of geometric art, non-vector simplicity"
+  },
+  {
+    "name": "Abstract Vector Abstractions",
+    "prompt": "abstract vector abstractions {prompt} . experimental forms, artistic vectors, abstract allure, vector creativity",
+    "negative_prompt": "absence of experimental forms, lack of artistic vectors, absence of abstract allure, non-vector creativity"
+  },
+  {
+    "name": "Colorful Vector Patterns",
+    "prompt": "colorful vector patterns design {prompt} . vibrant motifs, patterned beauty, vector patterns, colorful elegance",
+    "negative_prompt": "absence of vibrant motifs, lack of patterned beauty, absence of vector patterns, non-colorful elegance"
+  },
+  {
+    "name": "Retro Vector Illustrations",
+    "prompt": "retro vector illustrations {prompt} . vintage vibes, retro art, vector nostalgia, retro simplicity",
+    "negative_prompt": "absence of vintage vibes, lack of retro art, absence of vector nostalgia, non-retro simplicity"
+  },
+  {
+    "name": "Vector Floral Delight",
+    "prompt": "vector floral delight design {prompt} . floral motifs, botanical elegance, vector florals, blooming beauty",
+    "negative_prompt": "absence of floral motifs, lack of botanical elegance, absence of vector florals, non-blooming beauty"
+  },
+  {
+    "name": "Vector Cityscapes",
+    "prompt": "vector cityscapes design {prompt} . urban landscapes, city vibes, vector cityscapes, city elegance",
+    "negative_prompt": "absence of urban landscapes, lack of city vibes, absence of vector cityscapes, non-city elegance"
+  },
+  {
+    "name": "Vector Wildlife Portraits",
+    "prompt": "vector wildlife portraits design {prompt} . animal illustrations, wildlife beauty, vector animals, natural elegance",
+    "negative_prompt": "absence of animal illustrations, lack of wildlife beauty, absence of vector animals, non-natural elegance"
+  },
+  {
+    "name": "Vector Tech Innovations",
+    "prompt": "vector tech innovations {prompt} . futuristic technology, digital world, vector tech, innovation elegance",
+    "negative_prompt": "absence of futuristic technology, lack of digital world, absence of vector tech, non-innovation elegance"
+  },
+  {
+    "name": "Vector Space Exploration",
+    "prompt": "vector space exploration design {prompt} . cosmic adventures, interstellar journeys, vector space, celestial elegance",
+    "negative_prompt": "absence of cosmic adventures, lack of interstellar journeys, absence of vector space, non-celestial elegance"
+  },
+  {
+    "name": "Vector Pop Culture Icons",
+    "prompt": "vector pop culture icons design {prompt} . iconic figures, pop art vectors, cultural vectors, pop culture elegance",
+    "negative_prompt": "absence of iconic figures, lack of pop art vectors, absence of cultural vectors, non-pop culture elegance"
+  },
+  {
+    "name": "Vector Abstract Landscapes",
+    "prompt": "vector abstract landscapes design {prompt} . abstract scenery, artistic vectors, abstract beauty, vector abstraction",
+    "negative_prompt": "absence of abstract scenery, lack of artistic vectors, absence of abstract beauty, non-vector abstraction"
+  },
+  {
+    "name": "Vector Vintage Labels",
+    "prompt": "vector vintage labels design {prompt} . retro branding, vintage aesthetics, vector labels, retro elegance",
+    "negative_prompt": "absence of retro branding, lack of vintage aesthetics, absence of vector labels, non-retro elegance"
+  },
+  {
+    "name": "Vector Sports Illustrations",
+    "prompt": "vector sports illustrations {prompt} . athletic action, sports graphics, vector sports, sporty elegance",
+    "negative_prompt": "absence of athletic action, lack of sports graphics, absence of vector sports, non-sporty elegance"
+  },
+  {
+    "name": "Vector Food Icons",
+    "prompt": "vector food icons design {prompt} . culinary delights, food illustrations, vector food, delicious elegance",
+    "negative_prompt": "absence of culinary delights, lack of food illustrations, absence of vector food, non-delicious elegance"
+  },
+  {
+    "name": "Vector Health and Wellness",
+    "prompt": "vector health and wellness design {prompt} . well-being concepts, healthy living, vector health, wellness elegance",
+    "negative_prompt": "absence of well-being concepts, lack of healthy living, absence of vector health, non-wellness elegance"
+  },
+  {
+    "name": "Vector Musical Melodies",
+    "prompt": "vector musical melodies design {prompt} . musical notes, artistic harmony, vector music, melodious elegance",
+    "negative_prompt": "absence of musical notes, lack of artistic harmony, absence of vector music, non-melodious elegance"
+  },
+  {
+    "name": "Vector Travel Destinations",
+    "prompt": "vector travel destinations design {prompt} . global journeys, travel graphics, vector travel, wanderlust elegance",
+    "negative_prompt": "absence of global journeys, lack of travel graphics, absence of vector travel, non-wanderlust elegance"
+  },
+  {
+    "name": "Vector Abstract Avant-Garde",
+    "prompt": "vector abstract avant-garde design {prompt} . avant-garde expressions, abstract art, vector avant-garde, artistic elegance",
+    "negative_prompt": "absence of avant-garde expressions, lack of abstract art, absence of vector avant-garde, non-artistic elegance"
+  },
+  {
+    "name": "Vector Transportation Icons",
+    "prompt": "vector transportation icons design {prompt} . transport symbols, vehicle illustrations, vector transportation, commuter elegance",
+    "negative_prompt": "absence of transport symbols, lack of vehicle illustrations, absence of vector transportation, non-commuter elegance"
+  },
+  {
+    "name": "Romantic Rose Garden",
+    "prompt": "romantic rose garden design {prompt} . blooming roses, love in bloom, floral romance, garden elegance",
+    "negative_prompt": "absence of blooming roses, lack of love in bloom, absence of floral romance, non-garden elegance"
+  },
+  {
+    "name": "Vibrant Wildflower Bouquets",
+    "prompt": "vibrant wildflower bouquets design {prompt} . colorful blossoms, wildflower charm, floral diversity, bouquet beauty",
+    "negative_prompt": "absence of colorful blossoms, lack of wildflower charm, absence of floral diversity, non-bouquet beauty"
+  },
+  {
+    "name": "Exotic Tropical Paradise",
+    "prompt": "exotic tropical paradise design {prompt} . tropical flora, island dreams, exotic paradise, floral escape",
+    "negative_prompt": "absence of tropical flora, lack of island dreams, absence of exotic paradise, non-floral escape"
+  },
+  {
+    "name": "Whimsical Daisies and Doodles",
+    "prompt": "whimsical daisies and doodles design {prompt} . playful daisies, doodle art, whimsical florals, creative charm",
+    "negative_prompt": "absence of playful daisies, lack of doodle art, absence of whimsical florals, non-creative charm"
+  },
+  {
+    "name": "Pastel Peony Paradise",
+    "prompt": "pastel peony paradise design {prompt} . soft peonies, pastel perfection, peony paradise, delicate elegance",
+    "negative_prompt": "absence of soft peonies, lack of pastel perfection, absence of peony paradise, non-delicate elegance"
+  },
+  {
+    "name": "Sunflower Sunshine Delight",
+    "prompt": "sunflower sunshine delight design {prompt} . radiant sunflowers, sunny vibes, sunflower joy, floral warmth",
+    "negative_prompt": "absence of radiant sunflowers, lack of sunny vibes, absence of sunflower joy, non-floral warmth"
+  },
+  {
+    "name": "Elegant Orchid Opulence",
+    "prompt": "elegant orchid opulence design {prompt} . exotic orchids, opulent beauty, orchid elegance, floral luxury",
+    "negative_prompt": "absence of exotic orchids, lack of opulent beauty, absence of orchid elegance, non-floral luxury"
+  },
+  {
+    "name": "Vintage Floral Engravings",
+    "prompt": "vintage floral engravings design {prompt} . antique blossoms, engraved charm, floral engravings, vintage allure",
+    "negative_prompt": "absence of antique blossoms, lack of engraved charm, absence of floral engravings, non-vintage allure"
+  },
+  {
+    "name": "Surreal Iris Fantasy",
+    "prompt": "surreal iris fantasy design {prompt} . dreamy irises, surreal florals, iris dreams, floral wonder",
+    "negative_prompt": "absence of dreamy irises, lack of surreal florals, absence of iris dreams, non-floral wonder"
+  },
+  {
+    "name": "Mystical Lotus Pond",
+    "prompt": "mystical lotus pond design {prompt} . sacred lotus, tranquil waters, lotus mystique, floral serenity",
+    "negative_prompt": "absence of sacred lotus, lack of tranquil waters, absence of lotus mystique, non-floral serenity"
+  },
+  {
+    "name": "Dazzling Gerbera Daisies",
+    "prompt": "dazzling gerbera daisies design {prompt} . vibrant gerberas, cheerful blooms, gerbera dazzle, floral exuberance",
+    "negative_prompt": "absence of vibrant gerberas, lack of cheerful blooms, absence of gerbera dazzle, non-floral exuberance"
+  },
+  {
+    "name": "Enchanted Bluebells Forest",
+    "prompt": "enchanted bluebells forest design {prompt} . magical bluebells, woodland charm, bluebell enchantment, floral wonderland",
+    "negative_prompt": "absence of magical bluebells, lack of woodland charm, absence of bluebell enchantment, non-floral wonderland"
+  },
+  {
+    "name": "Gothic Black Roses",
+    "prompt": "gothic black roses design {prompt} . dark roses, dramatic blooms, black rose elegance, floral mystique",
+    "negative_prompt": "absence of dark roses, lack of dramatic blooms, absence of black rose elegance, non-floral mystique"
+  },
+  {
+    "name": "Watercolor Lily Dreams",
+    "prompt": "watercolor lily dreams design {prompt} . delicate lilies, watercolor art, lily dreams, floral serenity",
+    "negative_prompt": "absence of delicate lilies, lack of watercolor art, absence of lily dreams, non-floral serenity"
+  },
+  {
+    "name": "Tulip Garden Romance",
+    "prompt": "tulip garden romance design {prompt} . colorful tulips, romantic blooms, tulip romance, floral affection",
+    "negative_prompt": "absence of colorful tulips, lack of romantic blooms, absence of tulip romance, non-floral affection"
+  }
+]
