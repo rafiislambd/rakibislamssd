@@ -3,8 +3,17 @@
     "name": "base",
     "prompt": "{prompt}",
     "negative_prompt": ""
-  }, 
-   {
+  },{
+        "name": "Fooocus Cinematic",
+        "prompt": "cinematic still {prompt} . emotional, harmonious, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
+        "negative_prompt": "anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+    },
+  {
+    "name": "Cinematic",
+    "prompt": "cinematic film still {prompt} . shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
+    "negative_prompt": "anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+  },
+  {
     "name": "Watercolor",
     "prompt": "watercolor cartoon illustration {prompt} . soft colors, gentle strokes, artistic, dreamy, whimsical",
     "negative_prompt": "oil painting, digital art, pixel art, vector, acrylic, messy, unprofessional"
