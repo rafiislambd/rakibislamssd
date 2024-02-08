@@ -12,6 +12,638 @@
     "name": "Cinematic",
     "prompt": "cinematic film still {prompt} . shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
     "negative_prompt": "anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+  },{
+    "name": "Rakib Anime Girl Style 1",
+    "prompt": "anime girl {prompt} . anime style, key visual, vibrant, studio anime, highly detailed",
+    "negative_prompt": "photo, deformed, black and white, realism, disfigured, low contrast"
+  },
+  {
+    "name": "Rakib Anime Girl Style 2",
+    "prompt": "cute anime girl {prompt} . anime style, colorful, kawaii, moe, pastel tones",
+    "negative_prompt": "gritty, dark, mature, grayscale, rugged, aged"
+  },
+  {
+    "name": "Rakib Anime Girl Style 3",
+    "prompt": "magical girl {prompt} . anime style, sparkling, magical, ethereal, fantasy elements",
+    "negative_prompt": "mundane, ordinary, plain, realistic, dull, unremarkable"
+  },
+  {
+    "name": "Rakib Anime Girl Style 4",
+    "prompt": "schoolgirl {prompt} . anime style, uniform, cheerful, energetic, youthful",
+    "negative_prompt": "elderly, somber, tired, worn-out, gloomy, grim"
+  },
+  {
+    "name": "Rakib Anime Girl Style 5",
+    "prompt": "fantasy anime girl {prompt} . anime style, otherworldly, mythical creatures, enchanted",
+    "negative_prompt": "mundane, common, earthly, non-fantasy, realistic, ordinary"
+  },
+  {
+    "name": "Rakib Anime Girl Style 6",
+    "prompt": "cyberpunk anime girl {prompt} . anime style, futuristic, neon lights, cyber enhancements",
+    "negative_prompt": "medieval, rustic, ancient, low-tech, natural, primitive"
+  },
+  {
+    "name": "Rakib Anime Girl Style 7",
+    "prompt": "warrior girl {prompt} . anime style, fierce, strong, determined, battle-ready",
+    "negative_prompt": "weak, feeble, timid, fragile, pacifist, non-confrontational"
+  },
+  {
+    "name": "Rakib Anime Girl Style 8",
+    "prompt": "magical girl warrior {prompt} . anime style, magical, armored, heroic, mythical",
+    "negative_prompt": "mundane, non-magical, unarmored, ordinary, realistic, non-heroic"
+  },
+  {
+    "name": "Rakib Anime Girl Style 9",
+    "prompt": "gothic anime girl {prompt} . anime style, dark, elegant, mysterious, gothic fashion",
+    "negative_prompt": "cheerful, colorful, bright, mundane, ordinary, non-gothic"
+  },
+  {
+    "name": "Rakib Anime Girl Style 10",
+    "prompt": "kemonomimi girl {prompt} . anime style, animal ears, cute, playful, animal characteristics",
+    "negative_prompt": "non-animal, non-cute, serious, adult, human-only, non-playful"
+  }, {
+    "name": "Rakib Anime Girl Style 11",
+    "prompt": "steampunk anime girl {prompt} . anime style, retro-futuristic, mechanical, industrial, Victorian era",
+    "negative_prompt": "modern, sleek, futuristic, non-mechanical, non-industrial, non-Victorian"
+  },
+  {
+    "name": "Rakib Anime Girl Style 12",
+    "prompt": "idol anime girl {prompt} . anime style, glamorous, stage outfit, microphone, pop star",
+    "negative_prompt": "ordinary, non-glamorous, non-stage outfit, non-microphone, non-pop star"
+  },
+  {
+    "name": "Rakib Anime Girl Style 13",
+    "prompt": "mermaid anime girl {prompt} . anime style, underwater, scales, fins, oceanic",
+    "negative_prompt": "terrestrial, land-based, non-scaled, non-finned, non-oceanic, non-aquatic"
+  },
+  {
+    "name": "Rakib Anime Girl Style 14",
+    "prompt": "neko girl {prompt} . anime style, cat ears, tail, playful, agile",
+    "negative_prompt": "non-feline, non-playful, non-agile, human-only, serious, non-cat-like"
+  },
+  {
+    "name": "Rakib Anime Girl Style 15",
+    "prompt": "princess anime girl {prompt} . anime style, regal, elegant, royal attire, crown",
+    "negative_prompt": "commoner, informal, casual attire, non-regal, non-elegant, non-royal"
+  },
+  {
+    "name": "Rakib Anime Girl Style 16",
+    "prompt": "ninja anime girl {prompt} . anime style, stealthy, skilled, shuriken, katana",
+    "negative_prompt": "non-stealthy, unskilled, non-shuriken, non-katana, loud, clumsy"
+  },
+  {
+    "name": "Rakib Anime Girl Style 17",
+    "prompt": "vampire anime girl {prompt} . anime style, pale, fangs, Gothic attire, blood-red eyes",
+    "negative_prompt": "rosy-cheeked, non-fanged, non-Gothic attire, non-pale, non-blood-red eyes, non-vampiric"
+  },
+  {
+    "name": "Rakib Anime Girl Style 18",
+    "prompt": "sports anime girl {prompt} . anime style, athletic, energetic, sports uniform, competitive",
+    "negative_prompt": "non-athletic, lethargic, non-sports uniform, non-competitive, non-energetic, non-athletic"
+  },
+  {
+    "name": "Rakib Anime Girl Style 19",
+    "prompt": "space anime girl {prompt} . anime style, cosmic, futuristic, space suit, starscape",
+    "negative_prompt": "terrestrial, non-futuristic, non-cosmic, non-space suit, non-starscape, non-astronaut"
+  },
+  {
+    "name": "Rakib Anime Girl Style 20",
+    "prompt": "witch anime girl {prompt} . anime style, magical, broomstick, cauldron, pointy hat",
+    "negative_prompt": "non-magical, non-broomstick, non-cauldron, non-pointy hat, non-witchy, non-magical"
+  },{
+    "name": "Rakib Anime Girl Style 21",
+    "prompt": "fairy anime girl {prompt} . anime style, ethereal, wings, mystical, forest",
+    "negative_prompt": "non-ethereal, non-winged, non-mystical, non-forest, non-fairy-like, non-magical"
+  },
+  {
+    "name": "Rakib Anime Girl Style 22",
+    "prompt": "cyborg anime girl {prompt} . anime style, robotic, cybernetic, mechanical enhancements, futuristic",
+    "negative_prompt": "non-robotic, non-cybernetic, non-mechanical enhancements, non-futuristic, organic, non-cyborg"
+  },
+  {
+    "name": "Rakib Anime Girl Style 23",
+    "prompt": "rockstar anime girl {prompt} . anime style, edgy, rebellious, musical instruments, concert",
+    "negative_prompt": "non-edgy, non-rebellious, non-musical instruments, non-concert, conformist, non-rockstar"
+  },
+  {
+    "name": "Rakib Anime Girl Style 24",
+    "prompt": "chef anime girl {prompt} . anime style, culinary, apron, cooking utensils, delicious dishes",
+    "negative_prompt": "non-culinary, non-apron, non-cooking utensils, non-delicious dishes, non-chef, non-culinary"
+  },
+  {
+    "name": "Rakib Anime Girl Style 25",
+    "prompt": "scientist anime girl {prompt} . anime style, intelligent, lab coat, test tubes, experiments",
+    "negative_prompt": "non-intelligent, non-lab coat, non-test tubes, non-experiments, anti-science, non-scientist"
+  },
+  {
+    "name": "Rakib Anime Girl Style 26",
+    "prompt": "pirate anime girl {prompt} . anime style, adventurous, pirate hat, sword, treasure hunt",
+    "negative_prompt": "non-adventurous, non-pirate hat, non-sword, non-treasure hunt, landlubber, non-pirate"
+  },
+  {
+    "name": "Rakib Anime Girl Style 27",
+    "prompt": "goddess anime girl {prompt} . anime style, divine, celestial, worshipped, ethereal",
+    "negative_prompt": "non-divine, non-celestial, non-worshipped, non-ethereal, mortal, non-goddess"
+  },
+  {
+    "name": "Rakib Anime Girl Style 28",
+    "prompt": "demon anime girl {prompt} . anime style, sinister, demonic, horns, dark powers",
+    "negative_prompt": "non-sinister, non-demonic, non-horns, non-dark powers, angelic, non-demon"
+  },
+  {
+    "name": "Rakib Anime Girl Style 29",
+    "prompt": "musician anime girl {prompt} . anime style, talented, musical instrument, performance, stage",
+    "negative_prompt": "non-talented, non-musical instrument, non-performance, non-stage, tone-deaf, non-musician"
+  },
+  {
+    "name": "Rakib Anime Girl Style 30",
+    "prompt": "ghost anime girl {prompt} . anime style, ethereal, translucent, haunting, paranormal",
+    "negative_prompt": "non-ethereal, non-translucent, non-haunting, non-paranormal, alive, non-ghost"
+  },{
+    "name": "Negative Style 1",
+    "negative_prompt": "deformed, distorted, grotesque, monstrous, misshapen, malformed, mutated, abnormal, freakish, hideous, repulsive, unsightly, disfigured, grotesque, warped, twisted, malformed, unnatural, grotesque, malformed, disfigured, grotesque, twisted, abnormal, malformed, distorted, grotesque, twisted, misshapen, deformed, grotesque, malformed, distorted, grotesque, misshapen, warped, disfigured, grotesque, malformed, abnormal, twisted, deformed, grotesque, misshapen, malformed, distorted"
+  },
+  {
+    "name": "Negative Style 2",
+    "negative_prompt": "poorly drawn, badly rendered, amateurish, crude, clumsy, unskilled, inept, incompetent, subpar, inferior, shoddy, low-grade, second-rate, amateurish, substandard, mediocre, unprofessional, inadequate, unacceptable, unrefined, poor quality, inferior, low-quality, subpar, shoddy, defective, flawed, inferior, suboptimal, unsatisfactory, substandard, inadequate, unacceptable, shoddy, inferior, low-grade, amateurish, unpolished, rough, crude"
+  },
+  {
+    "name": "Negative Style 3",
+    "negative_prompt": "chaotic, messy, disorderly, jumbled, haphazard, disorganized, confused, cluttered, untidy, disarrayed, disheveled, shambolic, sloppy, scruffy, unkempt, disarranged, muddled, disordered, disarrayed, cluttered, chaotic, disorganized, messy, jumbled, haphazard, confused, disorderly, muddled, cluttered, chaotic, disarrayed, disorganized, confused, jumbled, haphazard, disordered, messy, cluttered, untidy, disarrayed"
+  },
+  {
+    "name": "Negative Style 4",
+    "negative_prompt": "gritty, grimy, dirty, dingy, filthy, squalid, unclean, soiled, tarnished, foul, smudged, grimy, tarnished, sooty, mucky, messy, sloppy, grubby, greasy, oily, slimy, muddy, murky, contaminated, polluted, stained, unhygienic, unclean, unsanitary, foul, grimy, dirty, grimy, dingy, filthy, soiled, unclean, grubby, messy, sloppy, contaminated, polluted, unhygienic, unsanitary, filthy, squalid"
+  },
+  {
+    "name": "Negative Style 5",
+    "negative_prompt": "macabre, morbid, dark, sinister, eerie, creepy, unsettling, haunting, gloomy, somber, shadowy, ominous, chilling, spine-chilling, ghastly, ghostly, spectral, sinister, grim, bleak, foreboding, ominous, dread-inducing, frightening, scary, terrifying, fearsome, hair-raising, bone-chilling, spine-tingling, nightmarish, creepy, unsettling, eerie, chilling, macabre, morbid, dark, sinister, haunting, ominous, grim, gloomy, foreboding"
+  },
+  {
+    "name": "Negative Style 6",
+    "negative_prompt": "abstract, non-representational, non-figurative, non-objective, conceptual, non-realist, non-representational, non-objective, non-figurative, non-realist, experimental, avant-garde, innovative, unconventional, nontraditional, nonconformist, iconoclastic, revolutionary, groundbreaking, pioneering, non-representational, non-figurative, non-objective, conceptual, non-realist, experimental, avant-garde, innovative, unconventional, nontraditional, nonconformist, iconoclastic, revolutionary, groundbreaking, pioneering"
+  },
+  {
+    "name": "Negative Style 7",
+    "negative_prompt": "lifeless, dull, bland, flat, uninteresting, uninspired, lackluster, monotonous, boring, tedious, drab, insipid, vapid, unexciting, unstimulating, dry, dreary, colorless, spiritless, soulless, uneventful, lackluster, lifeless, flat, dull, uninspired, monotonous, boring, drab, uninteresting, unexciting, lackluster, vapid, spiritless, soulless, dull, bland, uninspired, uneventful, unstimulating, tedious, colorless"
+  },
+  {
+    "name": "Negative Style 8",
+    "negative_prompt": "chaotic composition, disorganized layout, cluttered design, messy arrangement, unbalanced structure, confusing organization, disorderly presentation, cluttered composition, jumbled layout, haphazard design, chaotic arrangement, disorganized structure, messy organization, cluttered presentation, unbalanced composition, confusing layout, disorderly design, cluttered arrangement, jumbled structure, chaotic organization, disorganized presentation, messy composition, cluttered layout, unbalanced design"
+  },
+  {
+    "name": "Negative Style 9",
+    "negative_prompt": "colorless palette, dull hues, washed-out tones, faded colors, muted shades, lackluster pigments, monochromatic scheme, drab colors, lifeless hues, pale shades, bland palette, insipid colors, flat tones, uninteresting pigments, spiritless hues, somber shades, dreary colors, uninspired tones, lackluster hues, colorless palette, dull hues, washed-out tones, faded colors, muted shades, lackluster pigments, monochromatic scheme, drab colors"
+  },
+  {
+    "name": "Negative Style 10",
+    "negative_prompt": "lifeless expression, vacant stare, emotionless face, blank gaze, dull eyes, empty look, soulless expression, deadpan visage, impassive countenance, unresponsive gaze, flat features, wooden expression, robotic face, stoic demeanor, lifeless expression, vacant stare, emotionless face, blank gaze, dull eyes, empty look, soulless expression, deadpan visage, impassive countenance, unresponsive gaze, flat features, wooden expression, robotic face"
+  },{
+    "name": "Adorable 3D Character Style 1",
+    "prompt": "cute 3D character {prompt} . adorable style, colorful, lively, animated, charming",
+    "negative_prompt": "gritty, dark, mature, grayscale, rugged, aged"
+  },
+  {
+    "name": "Adorable 3D Character Style 2",
+    "prompt": "kawaii 3D character {prompt} . adorable style, pastel colors, round shapes, cute expressions, joyful",
+    "negative_prompt": "sinister, menacing, angular, intimidating, sinister, eerie"
+  },
+  {
+    "name": "Adorable 3D Character Style 3",
+    "prompt": "baby 3D character {prompt} . adorable style, chubby cheeks, innocent eyes, playful demeanor, sweet",
+    "negative_prompt": "serious, stern, wrinkled, mature, solemn, austere"
+  },
+  {
+    "name": "Adorable 3D Character Style 4",
+    "prompt": "animal 3D character {prompt} . adorable style, anthropomorphic, friendly, cute features, cuddly",
+    "negative_prompt": "menacing, aggressive, ferocious, wild, untamed, scary"
+  },
+  {
+    "name": "Adorable 3D Character Style 5",
+    "prompt": "fantasy creature 3D character {prompt} . adorable style, whimsical, magical, fantastical, enchanting",
+    "negative_prompt": "dreadful, monstrous, grotesque, eerie, creepy, nightmarish"
+  },
+  {
+    "name": "Adorable 3D Character Style 6",
+    "prompt": "chibi 3D character {prompt} . adorable style, small, childlike proportions, oversized heads, cute gestures",
+    "negative_prompt": "tall, slender, adult-like, realistic proportions, serious"
+  },
+  {
+    "name": "Adorable 3D Character Style 7",
+    "prompt": "fairy 3D character {prompt} . adorable style, ethereal, winged, magical, delicate",
+    "negative_prompt": "gritty, dark, sinister, monstrous, eerie, foreboding"
+  },
+  {
+    "name": "Adorable 3D Character Style 8",
+    "prompt": "cartoon 3D character {prompt} . adorable style, exaggerated features, vibrant colors, comedic expressions, fun",
+    "negative_prompt": "realistic, subdued, dull colors, serious expressions, somber"
+  },
+  {
+    "name": "Adorable 3D Character Style 9",
+    "prompt": "superhero 3D character {prompt} . adorable style, heroic, dynamic poses, colorful costumes, brave",
+    "negative_prompt": "ordinary, mundane, passive, dull costumes, fearful"
+  },
+  {
+    "name": "Adorable 3D Character Style 10",
+    "prompt": "alien 3D character {prompt} . adorable style, extraterrestrial, quirky features, curious expressions, friendly",
+    "negative_prompt": "terrifying, monstrous, hostile, alienated, eerie, unsettling"
+  },{
+    "name": "Adorable 3D Character Style 11",
+    "prompt": "princess 3D character {prompt} . adorable style, regal attire, tiara, graceful gestures, kind-hearted",
+    "negative_prompt": "commoner, unkempt attire, stern demeanor, harsh gestures, unkind"
+  },
+  {
+    "name": "Adorable 3D Character Style 12",
+    "prompt": "wizard 3D character {prompt} . adorable style, magical robes, pointy hat, spellcasting gestures, wise",
+    "negative_prompt": "unremarkable, mundane attire, dull hat, clumsy gestures, foolish"
+  },
+  {
+    "name": "Adorable 3D Character Style 13",
+    "prompt": "pirate 3D character {prompt} . adorable style, eye patch, peg leg, playful antics, adventurous",
+    "negative_prompt": "bland, boring, unadventurous, serious demeanor, cautious"
+  },
+  {
+    "name": "Adorable 3D Character Style 14",
+    "prompt": "ninja 3D character {prompt} . adorable style, stealthy movements, ninja attire, disciplined, agile",
+    "negative_prompt": "clumsy, loud, unskilled movements, non-ninja attire, sluggish"
+  },
+  {
+    "name": "Adorable 3D Character Style 15",
+    "prompt": "mermaid 3D character {prompt} . adorable style, underwater beauty, finned tail, enchanting voice, curious",
+    "negative_prompt": "terrestrial, unappealing, dry tail, unpleasant voice, indifferent"
+  },
+  {
+    "name": "Adorable 3D Character Style 16",
+    "prompt": "robot 3D character {prompt} . adorable style, metallic features, friendly AI, helpful gestures, futuristic",
+    "negative_prompt": "menacing, malfunctioning, unfriendly AI, threatening gestures, outdated"
+  },
+  {
+    "name": "Adorable 3D Character Style 17",
+    "prompt": "elf 3D character {prompt} . adorable style, pointed ears, elegant attire, forest-dwelling, mischievous",
+    "negative_prompt": "crude, uncouth, shabby attire, urban-dwelling, serious"
+  },
+  {
+    "name": "Adorable 3D Character Style 18",
+    "prompt": "dragon 3D character {prompt} . adorable style, colorful scales, friendly demeanor, playful, mythical",
+    "negative_prompt": "frightening, menacing, aggressive demeanor, dangerous, mythical"
+  },
+  {
+    "name": "Adorable 3D Character Style 19",
+    "prompt": "robot 3D character {prompt} . adorable style, metallic features, friendly AI, helpful gestures, futuristic",
+    "negative_prompt": "menacing, malfunctioning, unfriendly AI, threatening gestures, outdated"
+  },
+  {
+    "name": "Adorable 3D Character Style 20",
+    "prompt": "unicorn 3D character {prompt} . adorable style, horned, colorful mane, magical, pure-hearted",
+    "negative_prompt": "mundane, colorless mane, non-magical, impure-hearted"
+  },{
+    "name": "Anime Girl Style 31",
+    "prompt": "fashion model anime girl {prompt} . stylish, elegant, runway star, fashionable, confident",
+    "negative_prompt": "unstylish, clumsy, non-runway star, unfashionable, insecure"
+  },
+  {
+    "name": "Anime Girl Style 32",
+    "prompt": "journalist anime girl {prompt} . investigative, reporter, truth seeker, inquisitive, determined",
+    "negative_prompt": "uninvestigative, non-reporter, non-truth seeker, non-inquisitive, undetermined"
+  },
+  {
+    "name": "Anime Girl Style 33",
+    "prompt": "businesswoman anime girl {prompt} . ambitious, entrepreneur, leader, professional, successful",
+    "negative_prompt": "unambitious, non-entrepreneur, non-leader, unprofessional, unsuccessful"
+  },
+  {
+    "name": "Anime Girl Style 34",
+    "prompt": "chef anime girl {prompt} . culinary artist, gourmet, food enthusiast, creative, passionate",
+    "negative_prompt": "non-culinary artist, non-gourmet, non-food enthusiast, uncreative, indifferent"
+  },
+  {
+    "name": "Anime Girl Style 35",
+    "prompt": "athlete anime girl {prompt} . sporty, fitness enthusiast, active, determined, competitive",
+    "negative_prompt": "non-sporty, non-fitness enthusiast, inactive, undetermined, uncompetitive"
+  },
+  {
+    "name": "Anime Girl Style 36",
+    "prompt": "gardener anime girl {prompt} . green thumb, nature lover, nurturing, floral enthusiast, gentle",
+    "negative_prompt": "non-green thumb, non-nature lover, non-nurturing, non-floral enthusiast, harsh"
+  },
+  {
+    "name": "Anime Girl Style 37",
+    "prompt": "musician anime girl {prompt} . talented, musical, performer, passionate, expressive",
+    "negative_prompt": "untalented, non-musical, non-performer, indifferent, non-expressive"
+  },
+  {
+    "name": "Anime Girl Style 38",
+    "prompt": "artist anime girl {prompt} . creative, painter, sculptor, imaginative, expressive",
+    "negative_prompt": "uncreative, non-painter, non-sculptor, unimaginative, unexpressive"
+  },
+  {
+    "name": "Anime Girl Style 39",
+    "prompt": "writer anime girl {prompt} . imaginative, novelist, poet, literary enthusiast, expressive",
+    "negative_prompt": "unimaginative, non-novelist, non-poet, non-literary enthusiast, unexpressive"
+  },
+  {
+    "name": "Anime Girl Style 40",
+    "prompt": "actor anime girl {prompt} . versatile, performer, dramatic, expressive, charismatic",
+    "negative_prompt": "non-versatile, non-performer, non-dramatic, unexpressive, dull"
+  },
+  {
+    "name": "Anime Girl Style 41",
+    "prompt": "dancer anime girl {prompt} . graceful, agile, dancer, rhythmic, expressive",
+    "negative_prompt": "clumsy, non-dancer, non-rhythmic, unexpressive, awkward"
+  },
+  {
+    "name": "Anime Girl Style 42",
+    "prompt": "police anime girl {prompt} . brave, law enforcement, justice seeker, protector, disciplined",
+    "negative_prompt": "cowardly, non-law enforcement, non-justice seeker, non-protector, undisciplined"
+  },
+  {
+    "name": "Anime Girl Style 43",
+    "prompt": "nurse anime girl {prompt} . caring, compassionate, medical professional, healer, kind-hearted",
+    "negative_prompt": "uncaring, indifferent, non-medical professional, non-healer, unkind"
+  },
+  {
+    "name": "Anime Girl Style 44",
+    "prompt": "teacher anime girl {prompt} . knowledgeable, educator, mentor, patient, inspiring",
+    "negative_prompt": "ignorant, non-educator, non-mentor, impatient, uninspiring"
+  },
+  {
+    "name": "Anime Girl Style 45",
+    "prompt": "athlete anime girl {prompt} . competitive, sports enthusiast, energetic, disciplined, goal-oriented",
+    "negative_prompt": "uncompetitive, non-sports enthusiast, lazy, undisciplined, aimless"
+  },
+  {
+    "name": "Anime Girl Style 46",
+    "prompt": "alien anime girl {prompt} . extraterrestrial, otherworldly, curious, intergalactic traveler, friendly",
+    "negative_prompt": "terrestrial, non-curious, non-intergalactic traveler, unfriendly, unworldly"
+  },
+  {
+    "name": "Anime Girl Style 47",
+    "prompt": "celebrity anime girl {prompt} . glamorous, famous, admired, charismatic, influential",
+    "negative_prompt": "non-glamorous, non-famous, non-admired, dull, uncharismatic"
+  },
+  {
+    "name": "Anime Girl Style 48",
+    "prompt": "fashion model anime girl {prompt} . stylish, elegant, runway star, fashionable, confident",
+    "negative_prompt": "unstylish, clumsy, non-runway star, unfashionable, insecure"
+  },
+  {
+    "name": "Anime Girl Style 49",
+    "prompt": "journalist anime girl {prompt} . investigative, reporter, truth seeker, inquisitive, determined",
+    "negative_prompt": "uninvestigative, non-reporter, non-truth seeker, non-inquisitive, undetermined"
+  },
+  {
+    "name": "Anime Girl Style 50",
+    "prompt": "businesswoman anime girl {prompt} . ambitious, entrepreneur, leader, professional, successful",
+    "negative_prompt": "unambitious, non-entrepreneur, non-leader, unprofessional, unsuccessful"
+  },
+  {
+    "name": "Anime Girl Style 51",
+    "prompt": "chef anime girl {prompt} . culinary artist, gourmet, food enthusiast, creative, passionate",
+    "negative_prompt": "non-culinary artist, non-gourmet, non-food enthusiast, uncreative, indifferent"
+  },
+  {
+    "name": "Anime Girl Style 52",
+    "prompt": "athlete anime girl {prompt} . sporty, fitness enthusiast, active, determined, competitive",
+    "negative_prompt": "non-sporty, non-fitness enthusiast, inactive, undetermined, uncompetitive"
+  },
+  {
+    "name": "Anime Girl Style 53",
+    "prompt": "gardener anime girl {prompt} . green thumb, nature lover, nurturing, floral enthusiast, gentle",
+    "negative_prompt": "non-green thumb, non-nature lover, non-nurturing, non-floral enthusiast, harsh"
+  },
+  {
+    "name": "Anime Girl Style 54",
+    "prompt": "musician anime girl {prompt} . talented, musical, performer, passionate, expressive",
+    "negative_prompt": "untalented, non-musical, non-performer, indifferent, non-expressive"
+  },
+  {
+    "name": "Anime Girl Style 55",
+    "prompt": "artist anime girl {prompt} . creative, painter, sculptor, imaginative, expressive",
+    "negative_prompt": "uncreative, non-painter, non-sculptor, unimaginative, unexpressive"
+  },
+  {
+    "name": "Anime Girl Style 56",
+    "prompt": "writer anime girl {prompt} . imaginative, novelist, poet, literary enthusiast, expressive",
+    "negative_prompt": "unimaginative, non-novelist, non-poet, non-literary enthusiast, unexpressive"
+  },
+  {
+    "name": "Anime Girl Style 57",
+    "prompt": "actor anime girl {prompt} . versatile, performer, dramatic, expressive, charismatic",
+    "negative_prompt": "non-versatile, non-performer, non-dramatic, unexpressive, dull"
+  },
+  {
+    "name": "Anime Girl Style 58",
+    "prompt": "dancer anime girl {prompt} . graceful, agile, dancer, rhythmic, expressive",
+    "negative_prompt": "clumsy, non-dancer, non-rhythmic, unexpressive, awkward"
+  },
+  {
+    "name": "Anime Girl Style 59",
+    "prompt": "police anime girl {prompt} . brave, law enforcement, justice seeker, protector, disciplined",
+    "negative_prompt": "cowardly, non-law enforcement, non-justice seeker, non-protector, undisciplined"
+  },
+  {
+    "name": "Anime Girl Style 60",
+    "prompt": "nurse anime girl {prompt} . caring, compassionate, medical professional, healer, kind-hearted",
+    "negative_prompt": "uncaring, indifferent, non-medical professional, non-healer, unkind"
+  },{
+    "name": "Anime Girl Style 61",
+    "prompt": "teacher anime girl {prompt} . knowledgeable, educator, mentor, patient, inspiring",
+    "negative_prompt": "ignorant, non-educator, non-mentor, impatient, uninspiring"
+  },
+  {
+    "name": "Anime Girl Style 62",
+    "prompt": "athlete anime girl {prompt} . competitive, sports enthusiast, energetic, disciplined, goal-oriented",
+    "negative_prompt": "uncompetitive, non-sports enthusiast, lazy, undisciplined, aimless"
+  },
+  {
+    "name": "Anime Girl Style 63",
+    "prompt": "alien anime girl {prompt} . extraterrestrial, otherworldly, curious, intergalactic traveler, friendly",
+    "negative_prompt": "terrestrial, non-curious, non-intergalactic traveler, unfriendly, unworldly"
+  },
+  {
+    "name": "Anime Girl Style 64",
+    "prompt": "celebrity anime girl {prompt} . glamorous, famous, admired, charismatic, influential",
+    "negative_prompt": "non-glamorous, non-famous, non-admired, dull, uncharismatic"
+  },
+  {
+    "name": "Anime Girl Style 65",
+    "prompt": "fashion model anime girl {prompt} . stylish, elegant, runway star, fashionable, confident",
+    "negative_prompt": "unstylish, clumsy, non-runway star, unfashionable, insecure"
+  },
+  {
+    "name": "Anime Girl Style 66",
+    "prompt": "journalist anime girl {prompt} . investigative, reporter, truth seeker, inquisitive, determined",
+    "negative_prompt": "uninvestigative, non-reporter, non-truth seeker, non-inquisitive, undetermined"
+  },
+  {
+    "name": "Anime Girl Style 67",
+    "prompt": "businesswoman anime girl {prompt} . ambitious, entrepreneur, leader, professional, successful",
+    "negative_prompt": "unambitious, non-entrepreneur, non-leader, unprofessional, unsuccessful"
+  },
+  {
+    "name": "Anime Girl Style 68",
+    "prompt": "chef anime girl {prompt} . culinary artist, gourmet, food enthusiast, creative, passionate",
+    "negative_prompt": "non-culinary artist, non-gourmet, non-food enthusiast, uncreative, indifferent"
+  },
+  {
+    "name": "Anime Girl Style 69",
+    "prompt": "athlete anime girl {prompt} . sporty, fitness enthusiast, active, determined, competitive",
+    "negative_prompt": "non-sporty, non-fitness enthusiast, inactive, undetermined, uncompetitive"
+  },
+  {
+    "name": "Anime Girl Style 70",
+    "prompt": "gardener anime girl {prompt} . green thumb, nature lover, nurturing, floral enthusiast, gentle",
+    "negative_prompt": "non-green thumb, non-nature lover, non-nurturing, non-floral enthusiast, harsh"
+  },
+  {
+    "name": "Anime Girl Style 71",
+    "prompt": "musician anime girl {prompt} . talented, musical, performer, passionate, expressive",
+    "negative_prompt": "untalented, non-musical, non-performer, indifferent, non-expressive"
+  },
+  {
+    "name": "Anime Girl Style 72",
+    "prompt": "artist anime girl {prompt} . creative, painter, sculptor, imaginative, expressive",
+    "negative_prompt": "uncreative, non-painter, non-sculptor, unimaginative, unexpressive"
+  },
+  {
+    "name": "Anime Girl Style 73",
+    "prompt": "writer anime girl {prompt} . imaginative, novelist, poet, literary enthusiast, expressive",
+    "negative_prompt": "unimaginative, non-novelist, non-poet, non-literary enthusiast, unexpressive"
+  },
+  {
+    "name": "Anime Girl Style 74",
+    "prompt": "actor anime girl {prompt} . versatile, performer, dramatic, expressive, charismatic",
+    "negative_prompt": "non-versatile, non-performer, non-dramatic, unexpressive, dull"
+  },
+  {
+    "name": "Anime Girl Style 75",
+    "prompt": "dancer anime girl {prompt} . graceful, agile, dancer, rhythmic, expressive",
+    "negative_prompt": "clumsy, non-dancer, non-rhythmic, unexpressive, awkward"
+  },
+  {
+    "name": "Anime Girl Style 76",
+    "prompt": "police anime girl {prompt} . brave, law enforcement, justice seeker, protector, disciplined",
+    "negative_prompt": "cowardly, non-law enforcement, non-justice seeker, non-protector, undisciplined"
+  },
+  {
+    "name": "Anime Girl Style 77",
+    "prompt": "nurse anime girl {prompt} . caring, compassionate, medical professional, healer, kind-hearted",
+    "negative_prompt": "uncaring, indifferent, non-medical professional, non-healer, unkind"
+  },
+  {
+    "name": "Anime Girl Style 78",
+    "prompt": "teacher anime girl {prompt} . knowledgeable, educator, mentor, patient, inspiring",
+    "negative_prompt": "ignorant, non-educator, non-mentor, impatient, uninspiring"
+  },
+  {
+    "name": "Anime Girl Style 79",
+    "prompt": "athlete anime girl {prompt} . competitive, sports enthusiast, energetic, disciplined, goal-oriented",
+    "negative_prompt": "uncompetitive, non-sports enthusiast, lazy, undisciplined, aimless"
+  },
+  {
+    "name": "Anime Girl Style 80",
+    "prompt": "alien anime girl {prompt} . extraterrestrial, otherworldly, curious, intergalactic traveler, friendly",
+    "negative_prompt": "terrestrial, non-curious, non-intergalactic traveler, unfriendly, unworldly"
+  },
+  {
+    "name": "Anime Girl Style 81",
+    "prompt": "celebrity anime girl {prompt} . glamorous, famous, admired, charismatic, influential",
+    "negative_prompt": "non-glamorous, non-famous, non-admired, dull, uncharismatic"
+  },
+  {
+    "name": "Anime Girl Style 82",
+    "prompt": "fashion model anime girl {prompt} . stylish, elegant, runway star, fashionable, confident",
+    "negative_prompt": "unstylish, clumsy, non-runway star, unfashionable, insecure"
+  },
+  {
+    "name": "Anime Girl Style 83",
+    "prompt": "journalist anime girl {prompt} . investigative, reporter, truth seeker, inquisitive, determined",
+    "negative_prompt": "uninvestigative, non-reporter, non-truth seeker, non-inquisitive, undetermined"
+  },
+  {
+    "name": "Anime Girl Style 84",
+    "prompt": "businesswoman anime girl {prompt} . ambitious, entrepreneur, leader, professional, successful",
+    "negative_prompt": "unambitious, non-entrepreneur, non-leader, unprofessional, unsuccessful"
+  },
+  {
+    "name": "Anime Girl Style 85",
+    "prompt": "chef anime girl {prompt} . culinary artist, gourmet, food enthusiast, creative, passionate",
+    "negative_prompt": "non-culinary artist, non-gourmet, non-food enthusiast, uncreative, indifferent"
+  },
+  {
+    "name": "Anime Girl Style 86",
+    "prompt": "athlete anime girl {prompt} . sporty, fitness enthusiast, active, determined, competitive",
+    "negative_prompt": "non-sporty, non-fitness enthusiast, inactive, undetermined, uncompetitive"
+  },
+  {
+    "name": "Anime Girl Style 87",
+    "prompt": "gardener anime girl {prompt} . green thumb, nature lover, nurturing, floral enthusiast, gentle",
+    "negative_prompt": "non-green thumb, non-nature lover, non-nurturing, non-floral enthusiast, harsh"
+  },
+  {
+    "name": "Anime Girl Style 88",
+    "prompt": "musician anime girl {prompt} . talented, musical, performer, passionate, expressive",
+    "negative_prompt": "untalented, non-musical, non-performer, indifferent, non-expressive"
+  },
+  {
+    "name": "Anime Girl Style 89",
+    "prompt": "artist anime girl {prompt} . creative, painter, sculptor, imaginative, expressive",
+    "negative_prompt": "uncreative, non-painter, non-sculptor, unimaginative, unexpressive"
+  },
+  {
+    "name": "Anime Girl Style 90",
+    "prompt": "writer anime girl {prompt} . imaginative, novelist, poet, literary enthusiast, expressive",
+    "negative_prompt": "unimaginative, non-novelist, non-poet, non-literary enthusiast, unexpressive"
+  },
+  {
+    "name": "Anime Girl Style 91",
+    "prompt": "actor anime girl {prompt} . versatile, performer, dramatic, expressive, charismatic",
+    "negative_prompt": "non-versatile, non-performer, non-dramatic, unexpressive, dull"
+  },
+  {
+    "name": "Anime Girl Style 92",
+    "prompt": "dancer anime girl {prompt} . graceful, agile, dancer, rhythmic, expressive",
+    "negative_prompt": "clumsy, non-dancer, non-rhythmic, unexpressive, awkward"
+  },
+  {
+    "name": "Anime Girl Style 93",
+    "prompt": "police anime girl {prompt} . brave, law enforcement, justice seeker, protector, disciplined",
+    "negative_prompt": "cowardly, non-law enforcement, non-justice seeker, non-protector, undisciplined"
+  },
+  {
+    "name": "Anime Girl Style 94",
+    "prompt": "nurse anime girl {prompt} . caring, compassionate, medical professional, healer, kind-hearted",
+    "negative_prompt": "uncaring, indifferent, non-medical professional, non-healer, unkind"
+  },
+  {
+    "name": "Anime Girl Style 95",
+    "prompt": "teacher anime girl {prompt} . knowledgeable, educator, mentor, patient, inspiring",
+    "negative_prompt": "ignorant, non-educator, non-mentor, impatient, uninspiring"
+  },
+  {
+    "name": "Anime Girl Style 96",
+    "prompt": "athlete anime girl {prompt} . competitive, sports enthusiast, energetic, disciplined, goal-oriented",
+    "negative_prompt": "uncompetitive, non-sports enthusiast, lazy, undisciplined, aimless"
+  },
+  {
+    "name": "Anime Girl Style 97",
+    "prompt": "alien anime girl {prompt} . extraterrestrial, otherworldly, curious, intergalactic traveler, friendly",
+    "negative_prompt": "terrestrial, non-curious, non-intergalactic traveler, unfriendly, unworldly"
+  },
+  {
+    "name": "Anime Girl Style 98",
+    "prompt": "celebrity anime girl {prompt} . glamorous, famous, admired, charismatic, influential",
+    "negative_prompt": "non-glamorous, non-famous, non-admired, dull, uncharismatic"
+  },
+  {
+    "name": "Anime Girl Style 99",
+    "prompt": "fashion model anime girl {prompt} . stylish, elegant, runway star, fashionable, confident",
+    "negative_prompt": "unstylish, clumsy, non-runway star, unfashionable, insecure"
+  },
+  {
+    "name": "Anime Girl Style 100",
+    "prompt": "journalist anime girl {prompt} . investigative, reporter, truth seeker, inquisitive, determined",
+    "negative_prompt": "uninvestigative, non-reporter, non-truth seeker, non-inquisitive, undetermined"
   },
   {
     "name": "Watercolor",
