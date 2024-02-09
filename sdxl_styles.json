@@ -296,7 +296,8 @@
     "name": "Adorable 3D Character Style 20",
     "prompt": "unicorn 3D character {prompt} . adorable style, horned, colorful mane, magical, pure-hearted",
     "negative_prompt": "mundane, colorless mane, non-magical, impure-hearted"
-  },{
+  },
+  {
     "name": "Anime Girl Style 31",
     "prompt": "fashion model anime girl {prompt} . stylish, elegant, runway star, fashionable, confident",
     "negative_prompt": "unstylish, clumsy, non-runway star, unfashionable, insecure"
@@ -644,8 +645,7 @@
     "name": "Anime Girl Style 100",
     "prompt": "journalist anime girl {prompt} . investigative, reporter, truth seeker, inquisitive, determined",
     "negative_prompt": "uninvestigative, non-reporter, non-truth seeker, non-inquisitive, undetermined"
-  },
-  {
+  },{
     "name": "Watercolor",
     "prompt": "watercolor cartoon illustration {prompt} . soft colors, gentle strokes, artistic, dreamy, whimsical",
     "negative_prompt": "oil painting, digital art, pixel art, vector, acrylic, messy, unprofessional"
